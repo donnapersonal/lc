@@ -2,7 +2,7 @@
 Solve LeetCode by JS &amp; Java &amp; Python
 
 ## Notes
-[Sliding Windows](https://github.com/donnapersonal/lc/blob/main/sliding_windows.md)
+[Sliding Window](https://github.com/donnapersonal/lc/blob/main/sliding_window.md)
 
 ## Hashing
 
@@ -34,10 +34,12 @@ Solve LeetCode by JS &amp; Java &amp; Python
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
+|	4.寻找两个正序数组的中位数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/0004.median_of_two_sorted_arrays.md) | 数组、二分查找 | Hard |
 |	34.在排序数组中查找元素的第一个和最后一个位置 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/0034.find_first_and_last_position_of_element_in_sorted_array.md) | 数组、二分查找 | Medium |
 |	1011.在 D 天内送达包裹的能力 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/1011.capacity_to_ship_packages_within_D_days.md) | 数组、二分查找 | Medium |
 |	1488.避免洪水泛滥 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/1488.avoid_flood_in_the_city.md) | 数组、二分查找、贪心 | Medium |
-
+|	2300.咒语和药水的成功对数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/2300.successful_pairs_of_spells_and_potions.md) | 数组、二分查找 | Medium |
+|	2594.修车的最少时间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/2594.minimum_time_to_repair_cars.md) | 数组、二分查找 | Medium |
 
 ## Multiple Solves
 
