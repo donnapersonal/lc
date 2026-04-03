@@ -22,6 +22,12 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	--- |	--- | --- | --- |
 |	2.两数相加 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Simulation/0002.add_two_numbers.md) | 链表、模拟 | Medium |
 
+## Sorting
+
+| 题目 | 题解 | 标签 | 难度 |
+|	--- |	--- | --- | --- |
+|	315.计算右侧小于当前元素的个数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sorting/0315.count_of_smaller_numbers_after_self.md) | 数组、归并排序 | Hard |
+
 ## Sliding window
 
 | 题目 | 题解 | 标签 | 难度 |
@@ -50,3 +56,4 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	395.至少有 K 个重复字符的最长子串 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0395.longest_substring_with_at_least_K_repeating_characters.md) | 字符串、哈希表、分治、滑动窗口 | Medium |
 |	718.最长重复子数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0718.maximum_length_of_repeated_subarray.md) | 数组、动态规划、滑动窗口、二分查找+哈希 | Medium |
 |	3453.分割正方形 I | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/3453.separate_squares%20I.md) | 矩阵、二分答案、差分、扫面线 | Medium |
+|	3600.升级后最大生成树稳定性 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/3600.maximize_spanning_tree_stability_with_upgrades.md) | 图、最小生成树、贪心、并查集、二分查找、Kruskal 算法 | Hard |
