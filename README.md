@@ -9,6 +9,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	36.有效的数独 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/0036.valid_sudoku.md) | 数独、哈希 | Medium |
+|	349.两个数组的交集 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/0349.intersection_of_two_arrays.md) | 数独、哈希 | Easy |
 
 ## Two pointers
 
@@ -52,6 +53,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	5.最长回文子串 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0005.longest_palindromic_substring.md) | 字符串、中心扩展法、Manacher's algorithm | Medium |
+|	222.完全二叉树的节点个数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0222.count_complete_tree_nodes.md) | 完全二叉树、递归、分治、二分 | Easy |
 |	240.搜索二维矩阵 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0240.search_a_2D_matrix_II.md) | 数组、矩阵、二分查找、双指针 | Medium |
 |	395.至少有 K 个重复字符的最长子串 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0395.longest_substring_with_at_least_K_repeating_characters.md) | 字符串、哈希表、分治、滑动窗口 | Medium |
 |	718.最长重复子数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0718.maximum_length_of_repeated_subarray.md) | 数组、动态规划、滑动窗口、二分查找+哈希 | Medium |
