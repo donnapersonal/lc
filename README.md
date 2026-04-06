@@ -54,7 +54,10 @@ Solve LeetCode by JS &amp; Java &amp; Python
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
+|	45.跳跃游戏 II | [JS/Python/Java](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0045.jump_game_II.md) | 数组、贪心 | Medium |
+|	55.跳跃游戏 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0055.jump_game.md) | 数组、动态规划、贪心 | Medium |
 |	763.划分字母区间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0763.partition_labels.md) | 字符串、贪心 | Medium |
+|	870.优势洗牌 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0870.advantage_shuffle.md) | 数组、贪心 | Medium |
 
 ## Binary Tree
 
@@ -71,6 +74,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	215.数组中的第K个最大元素 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0215.Kth_largest_element_in_an_array.md) | 数组、优先级队列（堆）、快速排序 | Medium |
 |	222.完全二叉树的节点个数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0222.count_complete_tree_nodes.md) | 完全二叉树、递归、分治、二分 | Easy |
 |	240.搜索二维矩阵 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0240.search_a_2D_matrix_II.md) | 数组、矩阵、二分查找、双指针 | Medium |
+|	376.摆动序列 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0376.wiggle_subsequence.md) | 数组、贪心、动态规划 | Medium |
 |	395.至少有 K 个重复字符的最长子串 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0395.longest_substring_with_at_least_K_repeating_characters.md) | 字符串、哈希表、分治、滑动窗口 | Medium |
 |	718.最长重复子数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0718.maximum_length_of_repeated_subarray.md) | 数组、动态规划、滑动窗口、二分查找+哈希 | Medium |
 |	3453.分割正方形 I | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/3453.separate_squares%20I.md) | 矩阵、二分答案、差分、扫面线 | Medium |
