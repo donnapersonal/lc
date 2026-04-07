@@ -30,6 +30,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	--- |	--- | --- | --- |
 |	148.排序链表 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sorting/0148.sort_list.md) | 链表、归并排序 | Medium |
 |	315.计算右侧小于当前元素的个数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sorting/0315.count_of_smaller_numbers_after_self.md) | 数组、归并排序 | Hard |
+|	912.排序数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sorting/0912.sort_an_array.md) | 数组、排序、堆排序 | Medium |
 
 ## Sliding window
 
@@ -58,6 +59,8 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	55.跳跃游戏 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0055.jump_game.md) | 数组、动态规划、贪心 | Medium |
 |	763.划分字母区间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0763.partition_labels.md) | 字符串、贪心 | Medium |
 |	870.优势洗牌 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0870.advantage_shuffle.md) | 数组、贪心 | Medium |
+|	2410.运动员和训练师的最大匹配数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/2410.maximum_matching_of_players_with_trainers.md) | 数组、贪心、排序、双指针 | Medium |
+|	2548.填满背包的最大价格 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/2548.maximum_price_to_fill_a_bag.md) | 数组、贪心 | Medium |
 
 ## Binary Tree
 
@@ -77,5 +80,6 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	376.摆动序列 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0376.wiggle_subsequence.md) | 数组、贪心、动态规划 | Medium |
 |	395.至少有 K 个重复字符的最长子串 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0395.longest_substring_with_at_least_K_repeating_characters.md) | 字符串、哈希表、分治、滑动窗口 | Medium |
 |	718.最长重复子数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0718.maximum_length_of_repeated_subarray.md) | 数组、动态规划、滑动窗口、二分查找+哈希 | Medium |
+|	1488.避免洪水泛滥 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/1488.avoid_flood_in_the_city.md) | 数组、贪心 + 有序集合、并查集 | Medium |
 |	3453.分割正方形 I | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/3453.separate_squares%20I.md) | 矩阵、二分答案、差分、扫面线 | Medium |
 |	3600.升级后最大生成树稳定性 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/3600.maximize_spanning_tree_stability_with_upgrades.md) | 图、最小生成树、贪心、并查集、二分查找、Kruskal 算法 | Hard |
