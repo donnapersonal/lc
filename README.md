@@ -24,6 +24,12 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	--- |	--- | --- | --- |
 |	2.两数相加 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Simulation/0002.add_two_numbers.md) | 链表、模拟 | Medium |
 
+## Math
+
+| 题目 | 题解 | 标签 | 难度 |
+|	--- |	--- | --- | --- |
+|	372.超级次方 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Math/0372.super_pow.md) | 数学、快速幂 | Medium |
+
 ## Sorting
 
 | 题目 | 题解 | 标签 | 难度 |
