@@ -76,7 +76,14 @@ Solve LeetCode by JS &amp; Java &amp; Python
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
+|	103.二叉树的锯齿形层序遍历 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0103.binary_tree_zigzag_level_order_traversal.md) | 二叉树、层次遍历 | Medium |
 |	106.从中序与后序遍历序列构造二叉树 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0106.construct_binary_tree_from_inorder_and_postorder_traversal.md) | 二叉树、递归、迭代 | Medium |
+
+## Graph/DFS/BFS
+
+| 题目 | 题解 | 标签 | 难度 |
+|	--- |	--- | --- | --- |
+|	200.岛屿数量 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0200.number_of_islands.md) | DFS | Medium |
 
 ## Multiple Solves
 
@@ -88,10 +95,13 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	215.数组中的第K个最大元素 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0215.Kth_largest_element_in_an_array.md) | 数组、优先级队列（堆）、快速排序 | Medium |
 |	222.完全二叉树的节点个数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0222.count_complete_tree_nodes.md) | 完全二叉树、递归、分治、二分 | Easy |
 |	240.搜索二维矩阵 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0240.search_a_2D_matrix_II.md) | 数组、矩阵、二分查找、双指针 | Medium |
+|	279.完全平方数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0279.perfect_squares.md) | 数学、BFS、DP | Medium |
+|	322.零钱兑换 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0322.coin_change.md) | DP、BFS | Medium |
 |	376.摆动序列 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0376.wiggle_subsequence.md) | 数组、贪心、动态规划 | Medium |
 |	395.至少有 K 个重复字符的最长子串 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0395.longest_substring_with_at_least_K_repeating_characters.md) | 字符串、哈希表、分治、滑动窗口 | Medium |
 |	718.最长重复子数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0718.maximum_length_of_repeated_subarray.md) | 数组、动态规划、滑动窗口、二分查找+哈希 | Medium |
 |	918.环形子数组的最大和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0918.maximum_sum_circular_subarray.md) | 数组、环形数组、分治+动态规划、前缀和+单调队列 | Medium |
 |	1488.避免洪水泛滥 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/1488.avoid_flood_in_the_city.md) | 数组、贪心 + 有序集合、并查集 | Medium |
+|	1545.找出第 N 个二进制字符串中的第 K 位 | [JS/Python/Java](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | 递归、迭代、数学 | Medium |
 |	3453.分割正方形 I | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/3453.separate_squares%20I.md) | 矩阵、二分答案、差分、扫面线 | Medium |
 |	3600.升级后最大生成树稳定性 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/3600.maximize_spanning_tree_stability_with_upgrades.md) | 图、最小生成树、贪心、并查集、二分查找、Kruskal 算法 | Hard |
