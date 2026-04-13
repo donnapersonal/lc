@@ -76,14 +76,21 @@ Solve LeetCode by JS &amp; Java &amp; Python
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
+|	98.验证二叉搜索树 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0098.validate_binary_search_tree.md) | 二叉树、递归、迭代 | Medium |
 |	103.二叉树的锯齿形层序遍历 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0103.binary_tree_zigzag_level_order_traversal.md) | 二叉树、层次遍历 | Medium |
 |	106.从中序与后序遍历序列构造二叉树 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0106.construct_binary_tree_from_inorder_and_postorder_traversal.md) | 二叉树、递归、迭代 | Medium |
+|	114.二叉树展开为链表 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0114.flatten_binary_tree_to_linked_list.md) | 二叉树、递归、迭代 | Medium |
+|	337.打家劫舍 III | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0337.house_robber_III.md) | 动态规划、DFS | Medium |
+|	437.路径总和 III | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0437.path_sum_III.md) | 二叉树、DFS | Medium |
+|	662.二叉树最大宽度 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0662.maximum_width_of_binary_tree.md) | 二叉树、DFS、BFS | Medium |
 
 ## Graph/DFS/BFS
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	200.岛屿数量 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0200.number_of_islands.md) | DFS | Medium |
+|	994.腐烂的橘子 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0994.rotting_oranges.md) | Grid、BFS | Medium |
+|	3310.移除可疑的方法 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/3310.remove_methods_from_project.md) | DFS、BFS | Medium |
 
 ## Multiple Solves
 
@@ -99,6 +106,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	322.零钱兑换 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0322.coin_change.md) | DP、BFS | Medium |
 |	376.摆动序列 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0376.wiggle_subsequence.md) | 数组、贪心、动态规划 | Medium |
 |	395.至少有 K 个重复字符的最长子串 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0395.longest_substring_with_at_least_K_repeating_characters.md) | 字符串、哈希表、分治、滑动窗口 | Medium |
+|	547.省份数量 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0547.number_of_provinces.md) | DFS、BFS、Union-Find | Medium |
 |	718.最长重复子数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0718.maximum_length_of_repeated_subarray.md) | 数组、动态规划、滑动窗口、二分查找+哈希 | Medium |
 |	918.环形子数组的最大和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0918.maximum_sum_circular_subarray.md) | 数组、环形数组、分治+动态规划、前缀和+单调队列 | Medium |
 |	1488.避免洪水泛滥 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/1488.avoid_flood_in_the_city.md) | 数组、贪心 + 有序集合、并查集 | Medium |
