@@ -60,6 +60,12 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	2300.咒语和药水的成功对数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/2300.successful_pairs_of_spells_and_potions.md) | 数组、二分查找 | Medium |
 |	2594.修车的最少时间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/2594.minimum_time_to_repair_cars.md) | 数组、二分查找 | Medium |
 
+## Design
+
+| 题目 | 题解 | 标签 | 难度 |
+|	--- |	--- | --- | --- |
+|	676.实现一个魔法字典 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0676.implement_magic_dictionary.md) | 设计、DFS、Trie | Medium |
+
 ## Greedy
 
 | 题目 | 题解 | 标签 | 难度 |
@@ -90,6 +96,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	--- |	--- | --- | --- |
 |	200.岛屿数量 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0200.number_of_islands.md) | DFS | Medium |
 |	994.腐烂的橘子 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0994.rotting_oranges.md) | Grid、BFS | Medium |
+|	1584.连接所有点的最小费用 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/1584.min_cost_to_connect_all_points.md) | Graph、Kruskal、Prim、Union-Find、最小生成树 | Medium |
 |	3310.移除可疑的方法 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/3310.remove_methods_from_project.md) | DFS、BFS | Medium |
 
 ## Multiple Solves

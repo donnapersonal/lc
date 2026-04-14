@@ -246,3 +246,8 @@ Once I have selected n - 1 edges, I have the MST.
 
 如果你要，我下一条可以直接给你：
 “Kruskal 和 Prim 的区别” 或者 “Kruskal 题型总结”。
+
+
+Prim算法，该算法以顶点为单元，与图中边数无关，比较适合于稠密图
+
+Kruskal算法，该算法以边为单元，时间主要取决于边数，比较适合于稀疏图
