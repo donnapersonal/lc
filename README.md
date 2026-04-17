@@ -99,6 +99,19 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	1584.连接所有点的最小费用 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/1584.min_cost_to_connect_all_points.md) | Graph、Kruskal、Prim、Union-Find、最小生成树 | Medium |
 |	3310.移除可疑的方法 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/3310.remove_methods_from_project.md) | DFS、BFS | Medium |
 
+## Backtracking
+
+| 题目 | 题解 | 标签 | 难度 |
+|	--- |	--- | --- | --- |
+|	131.分割回文串 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Backtracking/0131.palindrome_partitioning.md) | 分割、回溯 | 中等 |
+
+## DP
+
+| 题目 | 题解 | 标签 | 难度 |
+|	--- |	--- | --- | --- |
+|	64.最小路径和 | [Js/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0064.minimum_path_sum.md) | 矩阵、DP | 中等 |
+|	152.乘积最大子数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0152.maximum_product_subarray.md) | 数组、DP | 中等 |
+
 ## Multiple Solves
 
 | 题目 | 题解 | 标签 | 难度 |
