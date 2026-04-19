@@ -82,6 +82,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
+|	95.不同的二叉搜索树 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0095.unique_binary_search_trees_II.md) | 二叉树、DFS | Medium |
 |	98.验证二叉搜索树 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0098.validate_binary_search_tree.md) | 二叉树、递归、迭代 | Medium |
 |	103.二叉树的锯齿形层序遍历 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0103.binary_tree_zigzag_level_order_traversal.md) | 二叉树、层次遍历 | Medium |
 |	106.从中序与后序遍历序列构造二叉树 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0106.construct_binary_tree_from_inorder_and_postorder_traversal.md) | 二叉树、递归、迭代 | Medium |
@@ -103,14 +104,18 @@ Solve LeetCode by JS &amp; Java &amp; Python
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
-|	131.分割回文串 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Backtracking/0131.palindrome_partitioning.md) | 分割、回溯 | 中等 |
+|	131.分割回文串 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Backtracking/0131.palindrome_partitioning.md) | 分割、回溯 | Medium |
 
 ## DP
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
-|	64.最小路径和 | [Js/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0064.minimum_path_sum.md) | 矩阵、DP | 中等 |
-|	152.乘积最大子数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0152.maximum_product_subarray.md) | 数组、DP | 中等 |
+|	64.最小路径和 | [Js/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0064.minimum_path_sum.md) | 矩阵、DP | Medium |
+|	72.编辑距离 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0072.edit_distance.md) | 字符串、动态规划 | Medium |
+|	152.乘积最大子数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0152.maximum_product_subarray.md) | 数组、DP | Medium |
+|	198.打家劫舍 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0198.house_robber.md) | 动态规划 | Medium |
+|	416.分割等和子集 | [JS/Python/Java](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0416.partition_equal_subset_sum.md) | 数组、动态规划 | Medium |
+|	740.删除并获得点数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0740.delete_and_earn.md) | 数组、动态规划 | Medium |
 
 ## Multiple Solves
 
