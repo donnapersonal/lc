@@ -111,11 +111,14 @@ Solve LeetCode by JS &amp; Java &amp; Python
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	64.最小路径和 | [Js/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0064.minimum_path_sum.md) | 矩阵、DP | Medium |
-|	72.编辑距离 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0072.edit_distance.md) | 字符串、动态规划 | Medium |
+|	72.编辑距离 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0072.edit_distance.md) | 字符串、DP | Medium |
 |	152.乘积最大子数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0152.maximum_product_subarray.md) | 数组、DP | Medium |
-|	198.打家劫舍 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0198.house_robber.md) | 动态规划 | Medium |
-|	416.分割等和子集 | [JS/Python/Java](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0416.partition_equal_subset_sum.md) | 数组、动态规划 | Medium |
-|	740.删除并获得点数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0740.delete_and_earn.md) | 数组、动态规划 | Medium |
+|	198.打家劫舍 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0198.house_robber.md) | DP | Medium |
+|	416.分割等和子集 | [JS/Python/Java](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0416.partition_equal_subset_sum.md) | 数组、DP | Medium |
+|	712.两个字符串的最小ASCII删除和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0712.minimum_aSCII_delete_sum_for_two_strings.md) | DP | Medium |
+|	740.删除并获得点数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0740.delete_and_earn.md) | 数组、DP | Medium |
+|	983.最低票价| [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0983.minimum_cost_for_tickets.md) | 数组、DP | Medium |
+|	1143.最长公共子序列 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/1143.longest_common_subsequence.md) | DP | Medium |
 
 ## Multiple Solves
 
@@ -132,6 +135,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	376.摆动序列 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0376.wiggle_subsequence.md) | 数组、贪心、动态规划 | Medium |
 |	395.至少有 K 个重复字符的最长子串 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0395.longest_substring_with_at_least_K_repeating_characters.md) | 字符串、哈希表、分治、滑动窗口 | Medium |
 |	547.省份数量 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0547.number_of_provinces.md) | DFS、BFS、Union-Find | Medium |
+|	647.回文子串 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0647.palindromic_substrings.md) | 字符串、动态规划、双指针中心扩展、Manacher 算法 | Medium |
 |	718.最长重复子数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0718.maximum_length_of_repeated_subarray.md) | 数组、动态规划、滑动窗口、二分查找+哈希 | Medium |
 |	918.环形子数组的最大和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0918.maximum_sum_circular_subarray.md) | 数组、环形数组、分治+动态规划、前缀和+单调队列 | Medium |
 |	1488.避免洪水泛滥 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/1488.avoid_flood_in_the_city.md) | 数组、贪心 + 有序集合、并查集 | Medium |
