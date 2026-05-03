@@ -24,8 +24,10 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	15.三数之和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0015.3Sum.md) | 数组、哈希表、双指针、排序 | Medium |
 |	16.最接近的三数之和 | [Js/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0016.3Sum_closest.mds) | 数组、双指针 | Medium |
 |	18.四数之和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0018.4sum.md) | 数组、双指针 | Medium |
+|	19.删除链表的倒数第 N 个结点 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0019.remove_Nth_node_from_end_of_list.md) | 链表、双指针 | Medium |
 |	31.下一个排列 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0031.next_permutation.md) | 数组、字典序、双指针 | Medium |
 |	75.颜色分类 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0075.sort_colors.md) | 数组、双指针 | Medium |
+|	0142 | Linked List Cycle II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0142.linked_list_cycle_II.md) | 链表、双指针 | Medium |
 |	151.反转字符串中的单词 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0151.reverse_words_in_a_string.md) | 字符串、双指针 | Medium |
 |	0167 | 167.两数之和 II - 输入有序数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0167.two_sum_II-input_array_is_sorted.md) | 数组、双指针 | Medium |
 |	189.轮转数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0189.potate_array.md) | 数组、双指针 + 数组翻转 | Medium |
@@ -94,6 +96,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	146.LRU 缓存 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0146.LRU_cache.md) | 设计、数据结构 | Medium |
+|	155.最小栈 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/0155.min_stack.md) | 设计、栈 | Medium |
 |	528.按权重随机选择 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0528.random_pick_with_weight.md) | 设计、二分查找、前缀和、随机化 | Medium |
 |	676.实现一个魔法字典 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0676.implement_magic_dictionary.md) | 设计、DFS、Trie | Medium |
 |	981.基于时间的键值存储 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0981.time_based_Key-Value_store.md) | 设计、二分查找 | Medium |
@@ -102,6 +105,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
+|	71.简化路径 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/0071.simplify_path.md) | 字符串、栈 | Medium |
 |	394.字符串解码 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/0394.decode_string.md) | 字符串、栈 | Medium |
 |	402.移掉 K 位数字 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/0402.remove_K_digits.md) | 字符串、栈、单调栈 | Medium |
 |	503.下一个更大元素 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/0503.next_greater_element_II.md) | 数组、栈、单调栈 | Medium |
@@ -157,6 +161,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	200.岛屿数量 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0200.number_of_islands.md) | DFS | Medium |
 |	399.除法求值 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0399.evaluate_division.md) | BFS | Medium |
 |	444.序列重建 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0444.sequence_reconstruction.md) | Topological Sort | Medium |
+|	743.网络延迟时间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0743.network_delay_time.md) | Dijkstra | Medium |
 |	994.腐烂的橘子 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0994.rotting_oranges.md) | Grid、BFS | Medium |
 |	1101. 彼此熟识的最早时间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/1101.the_earliest_moment_when_everyone_become_friends.md) | DFS、BFS | Medium |
 |	1584.连接所有点的最小费用 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/1584.min_cost_to_connect_all_points.md) | Graph、Kruskal、Prim、Union-Find、最小生成树 | Medium |
