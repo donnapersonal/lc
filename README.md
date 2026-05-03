@@ -31,6 +31,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	189.轮转数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0189.potate_array.md) | 数组、双指针 + 数组翻转 | Medium |
 |	253.会议室 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0253.meeting_rooms_II.md) | 数组、双指针 + Sweep Line（扫描线）| Medium |
 |	287.寻找重复数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0287.find_the_duplicate_number.md) | 数组、双指针、二分查找 | Medium |
+|	777.在 LR 字符串中交换相邻字符 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0777.swap_adjacent_in_LR_string.md) | 字符串、双指针 | Medium |
 
 ## Simulation
 
@@ -92,14 +93,17 @@ Solve LeetCode by JS &amp; Java &amp; Python
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
+|	146.LRU 缓存 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0146.LRU_cache.md) | 设计、数据结构 | Medium |
 |	528.按权重随机选择 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0528.random_pick_with_weight.md) | 设计、二分查找、前缀和、随机化 | Medium |
 |	676.实现一个魔法字典 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0676.implement_magic_dictionary.md) | 设计、DFS、Trie | Medium |
+|	981.基于时间的键值存储 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0981.time_based_Key-Value_store.md) | 设计、二分查找 | Medium |
 
 ## Stack
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	394.字符串解码 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/0394.decode_string.md) | 字符串、栈 | Medium |
+|	402.移掉 K 位数字 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/0402.remove_K_digits.md) | 字符串、栈、单调栈 | Medium |
 |	503.下一个更大元素 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/0503.next_greater_element_II.md) | 数组、栈、单调栈 | Medium |
 |	636.函数的独占时间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/0636.exclusive_time_of_functions.md) | 数组、栈 | Medium |
 |	739.每日温度 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/0739.daily_temperatures.md) | 数组、栈、单调栈 | Medium |
@@ -120,6 +124,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	55.跳跃游戏 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0055.jump_game.md) | 数组、动态规划、贪心 | Medium |
 |	56.合并区间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0056.merge_intervals.md) | 数组、贪心、排序 | Medium |
 |	763.划分字母区间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0763.partition_labels.md) | 字符串、贪心 | Medium |
+|	767.重构字符串 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0767.reorganize_string.md) | 字符串、贪心 | Medium |
 |	870.优势洗牌 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0870.advantage_shuffle.md) | 数组、贪心 | Medium |
 |	2410.运动员和训练师的最大匹配数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/2410.maximum_matching_of_players_with_trainers.md) | 数组、贪心、排序、双指针 | Medium |
 |	2548.填满背包的最大价格 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/2548.maximum_price_to_fill_a_bag.md) | 数组、贪心 | Medium |
