@@ -14,7 +14,9 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	249.移位字符串分组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/0249.group_shifted_strings.md) | 数组、哈希表 | Medium |
 |	349.两个数组的交集 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/0349.intersection_of_two_arrays.md) | 数独、哈希 | Easy |
 |	442.数组中重复的数据 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/0442.find_all_duplicates_in_an_array.md) | 数组、哈希表 | Medium |
+|	840.矩阵中的幻方 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/0840.magic_squares_in_grid.md) | 数组、哈希表 | Medium |
 |	1094.拼车 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/1094.car_pooling.md) | 数组、哈希表、差分数组 | Medium |
+|	2910.合法分组的最少组数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/2910.minimum_number_of_groups_to_create_a_valid_assignment.md) | 数组、哈希表、贪心 | Medium |
 
 ## Two pointers
 
@@ -72,6 +74,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	424.替换后的最长重复字符 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/0424.longest_repeating_character_replacement.md) | 字符串、哈希表、滑动窗口 | Medium |
 |	904.水果成篮 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/0904.fruit_into_baskets.md) | 数组、滑动窗口 | Medium |
 |	1004.最大连续1的个数 III | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/1004.max_consecutive_ones_III.md) | 数组、滑动窗口 | Medium |
+|	1423.可获得的最大点数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/1423.maximum%20_points_you_can_obtain_from_cards.md) | 数组、滑动窗口 | Medium |
 |	1838.最高频元素的频数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/1838.frequency_of_the_most_frequent_element.md) | 数组、排序、滑动窗口 | Medium |
 
 ## Binary Search
@@ -121,6 +124,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	238.除自身以外数组的乘积 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/PrefixSum/0238.product_of_array_except_self.md) | 数组、前缀和积 | Medium |
+|	525.连续数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/PrefixSum/0525.contiguous_array.md) | 数组、前缀和、哈希 | Medium |
 |	560.和为 K 的子数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/PrefixSum/0560.subarray_sum_equals_K.md) | 数组、前缀和 | Medium |
 
 ## Greedy
@@ -131,6 +135,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	45.跳跃游戏 II | [JS/Python/Java](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0045.jump_game_II.md) | 数组、贪心 | Medium |
 |	55.跳跃游戏 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0055.jump_game.md) | 数组、动态规划、贪心 | Medium |
 |	56.合并区间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0056.merge_intervals.md) | 数组、贪心、排序 | Medium |
+|	134.加油站 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0134.gas_station.md) | 数组、贪心 | Medium |
 |	621.任务调度器 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0621.task_scheduler.md) | 数组、贪心 | Medium |
 |	763.划分字母区间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0763.partition_labels.md) | 字符串、贪心 | Medium |
 |	767.重构字符串 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0767.reorganize_string.md) | 字符串、贪心 | Medium |
