@@ -164,14 +164,19 @@ Solve LeetCode by JS &amp; Java &amp; Python
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	130.被围绕的区域 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0130.surrounded_regions.md) | BFS、DFS | Medium |
+|	133.克隆图 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0133.clone_graph.md) | BFS、DFS | Medium |
 |	200.岛屿数量 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0200.number_of_islands.md) | DFS | Medium |
+|	207.课程表 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0207.course_schedule.md) | Topological Sort | Medium |
+|	210.课程表 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0210.course_schedule_II.md) | Topological Sort | Medium |
 |	399.除法求值 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0399.evaluate_division.md) | BFS | Medium |
 |	444.序列重建 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0444.sequence_reconstruction.md) | Topological Sort | Medium |
 |	743.网络延迟时间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0743.network_delay_time.md) | Dijkstra | Medium |
+|	787.K 站中转内最便宜的航班 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0787.cheapest_flights_within_K_stop.md) | Dijkstra、Bellman Ford | Medium |
 |	994.腐烂的橘子 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0994.rotting_oranges.md) | Grid、BFS | Medium |
 |	1101. 彼此熟识的最早时间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/1101.the_earliest_moment_when_everyone_become_friends.md) | DFS、BFS | Medium |
 |	1584.连接所有点的最小费用 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/1584.min_cost_to_connect_all_points.md) | Graph、Kruskal、Prim、Union-Find、最小生成树 | Medium |
 |	3310.移除可疑的方法 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/3310.remove_methods_from_project.md) | DFS、BFS | Medium |
+|	3481.应用替换 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/3481.apply_substitutions.md) | DFS、Memoization | Medium |
 
 ## Backtracking
 
