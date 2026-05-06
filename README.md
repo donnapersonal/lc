@@ -183,9 +183,15 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	444.序列重建 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0444.sequence_reconstruction.md) | Topological Sort | Medium |
 |	743.网络延迟时间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0743.network_delay_time.md) | Dijkstra | Medium |
 |	787.K 站中转内最便宜的航班 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0787.cheapest_flights_within_K_stop.md) | Dijkstra、Bellman Ford | Medium |
+|	802.找到最终的安全状态 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0802.find_eventual_safe_states.md) | Topological Sort | Medium |
+|	947.移除最多的同行或同列石头 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0947.most_stones_removed_with_same_row_or_column.md) | Union-Find | Medium |
 |	994.腐烂的橘子 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0994.rotting_oranges.md) | Grid、BFS | Medium |
 |	1101. 彼此熟识的最早时间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/1101.the_earliest_moment_when_everyone_become_friends.md) | DFS、BFS | Medium |
+|	1557.可以到达所有点的最少点数目 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/1557.minimum_number_of_vertices_to_reach_all_nodes.md) | Graph、Indegree Zero/Source Nodes | Medium |
 |	1584.连接所有点的最小费用 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/1584.min_cost_to_connect_all_points.md) | Graph、Kruskal、Prim、Union-Find、最小生成树 | Medium |
+|	1976.到达目的地的方案数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/1976.number_of_ways_to_arrive_at_destination.md) | Dijkstra | Medium |
+|	2115.从给定原材料中找到所有可以做出的菜 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/2115.find_all_possible_recipes_from_given_supplies.md) | Topological Sort | Medium |
+|	2976.转换字符串的最小成本 I | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/2976.minimum_cost_to_convert_string_I.md) | Floyd | Medium |
 |	3310.移除可疑的方法 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/3310.remove_methods_from_project.md) | DFS、BFS | Medium |
 |	3481.应用替换 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/3481.apply_substitutions.md) | DFS、Memoization | Medium |
 
