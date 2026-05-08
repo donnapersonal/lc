@@ -70,6 +70,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 | 179.最大数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sorting/0179.largest_number.md) | 数组、排序 | Medium |
 |	315.计算右侧小于当前元素的个数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sorting/0315.count_of_smaller_numbers_after_self.md) | 数组、归并排序 | Hard |
 |	912.排序数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sorting/0912.sort_an_array.md) | 数组、排序、堆排序 | Medium |
+|	2054.两个最好的不重叠活动 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sorting/2054.two_best_Non-Overlapping_events.md) | 数组、排序 | Medium |
 
 ## Sliding window
 
@@ -85,6 +86,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	1423.可获得的最大点数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/1423.maximum%20_points_you_can_obtain_from_cards.md) | 数组、滑动窗口 | Medium |
 |	1438.绝对差不超过限制的最长连续子数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/1438.longest_continuous_subarray_with_absolute_diff_less_than_or_equal_to_limit.md) | 数组、单调队列、滑动窗口 | Medium |
 |	1838.最高频元素的频数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/1838.frequency_of_the_most_frequent_element.md) | 数组、排序、滑动窗口 | Medium |
+|	3634.使数组平衡的最少移除数目 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/3634.minimum_removals_to_balance_array.md) | 数组、排序、滑动窗口 | Medium |
 
 ## Binary Search
 
@@ -155,6 +157,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	767.重构字符串 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0767.reorganize_string.md) | 字符串、贪心 | Medium |
 |	870.优势洗牌 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0870.advantage_shuffle.md) | 数组、贪心 | Medium |
 |	1296.划分数组为连续数字的集合 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/1296.divide_array_in_sets_of_K_consecutive_numbers.md) | 数组、贪心、排序 | Medium |
+|	1727.重新排列后的最大子矩阵 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/1727.largest_submatrix_with_rearrangements_solved.md) | 矩阵、贪心、排序 | Medium |
 |	1877.数组中最大数对和的最小值 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/1877.minimize_maximum_pair_sum_in_array.md) | 数组、贪心、排序 | Medium |
 |	2410.运动员和训练师的最大匹配数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/2410.maximum_matching_of_players_with_trainers.md) | 数组、贪心、排序、双指针 | Medium |
 |	2548.填满背包的最大价格 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/2548.maximum_price_to_fill_a_bag.md) | 数组、贪心 | Medium |
@@ -276,11 +279,13 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	451.根据字符出现频率排序 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0451.sort_characters_by_frequency.md) | 字符串、优先级队列（二叉堆）、桶排序| Medium |
 |	547.省份数量 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0547.number_of_provinces.md) | DFS、BFS、Union-Find | Medium |
 |	647.回文子串 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0647.palindromic_substrings.md) | 字符串、动态规划、双指针中心扩展、Manacher 算法 | Medium |
+|	678.有效的括号字符串 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0678.vali_parenthesis_string.md) | 字符串、栈、贪心 | Medium |
 |	698.划分为k个相等的子集 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0698.partition_to_K_equal_sum_subsets.md) | 数组、动态规划、回溯、位运算、记忆化搜索 | Medium |
 |	718.最长重复子数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0718.maximum_length_of_repeated_subarray.md) | 数组、动态规划、滑动窗口、二分查找+哈希 | Medium |
 |	721.账户合并 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0721.accounts_merge.md) | 数组、BFS、DFS、Union-find | Medium |
 |	833.字符串中的查找与替换 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0833.find_and_replace_in_string.md) | 数组、线性扫描、哈希表 | Medium |
 |	918.环形子数组的最大和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0918.maximum_sum_circular_subarray.md) | 数组、环形数组、分治+动态规划、前缀和+单调队列 | Medium |
+|	1262.可被三整除的最大和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/1262.greatest_sum_divisible_by_three.md) | 数组、数学、排序、优先级队列、快速选择 | Medium |
 |	1488.避免洪水泛滥 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/1488.avoid_flood_in_the_city.md) | 数组、贪心 + 有序集合、并查集 | Medium |
 |	1545.找出第 N 个二进制字符串中的第 K 位 | [JS/Python/Java](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | 递归、迭代、数学 | Medium |
 |	2149.按符号重排数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/2149.rearrange_array_elements_by_sign.md) | 数组、双指针、位运算 | Medium |
