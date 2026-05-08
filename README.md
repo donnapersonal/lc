@@ -37,6 +37,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	189.轮转数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0189.potate_array.md) | 数组、双指针 + 数组翻转 | Medium |
 |	253.会议室 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0253.meeting_rooms_II.md) | 数组、双指针 + Sweep Line（扫描线）| Medium |
 |	287.寻找重复数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0287.find_the_duplicate_number.md) | 数组、双指针、二分查找 | Medium |
+|	443.压缩字符串 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0443.string_compression.md) | 字符串、双指针 | Medium |
 |	777.在 LR 字符串中交换相邻字符 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0777.swap_adjacent_in_LR_string.md) | 字符串、双指针 | Medium |
 |	881.救生艇 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0881.boats_to_save_people.md) | 字符串、双指针 | Medium |
 
@@ -46,6 +47,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	--- |	--- | --- | --- |
 |	2.两数相加 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Simulation/0002.add_two_numbers.md) | 链表、模拟 | Medium |
 |	6.Z 字形变换 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/0006.zigzag_conversion.md) | 字符串、模拟 | Medium |
+|	8.字符串转换整数 (atoi) | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Simulation/0008.string_to_integer_(atoi).md) | 数学、模拟 | Medium |
 |	48.旋转图像 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Simulation/0048.rotate_image.md) | 数组、数学、矩阵 | Medium |
 |	54.螺旋矩阵 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Simulation/0054.spiral_matrix.md) | 数组、数学、矩阵 | Medium |
 |	59.螺旋矩阵 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Simulation/0059.spiral_matrix_II.md) | 矩阵、模拟 | Medium |
@@ -57,6 +59,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	--- |	--- | --- | --- |
 |	204.计数质数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Math/0204.count_primes.md) | 数学 | Medium |
 |	372.超级次方 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Math/0372.super_pow.md) | 数学、快速幂 | Medium |
+|	939.最小面积矩形 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Math/0939.minimum_area_rectangle.md) | 数学、哈希 | Medium |
 
 ## Sorting
 
@@ -76,6 +79,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	153.寻找旋转排序数组中的最小值 | [Js/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/0153.find_minimum_in_rotated_sorted_array.md) | 数组、二分查找 | Medium |
 |	209.长度最小的子数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/0209.minimum_size_subarray_sum.md) | 数组、滑动窗口 | Medium |
 |	424.替换后的最长重复字符 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/0424.longest_repeating_character_replacement.md) | 字符串、哈希表、滑动窗口 | Medium |
+|	567.字符串的排列 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/0567.permutation_in_string.md) | 字符串、滑动窗口 | Medium |
 |	904.水果成篮 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/0904.fruit_into_baskets.md) | 数组、滑动窗口 | Medium |
 |	1004.最大连续1的个数 III | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/1004.max_consecutive_ones_III.md) | 数组、滑动窗口 | Medium |
 |	1423.可获得的最大点数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/1423.maximum%20_points_you_can_obtain_from_cards.md) | 数组、滑动窗口 | Medium |
@@ -150,6 +154,8 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	763.划分字母区间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0763.partition_labels.md) | 字符串、贪心 | Medium |
 |	767.重构字符串 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0767.reorganize_string.md) | 字符串、贪心 | Medium |
 |	870.优势洗牌 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0870.advantage_shuffle.md) | 数组、贪心 | Medium |
+|	1296.划分数组为连续数字的集合 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/1296.divide_array_in_sets_of_K_consecutive_numbers.md) | 数组、贪心、排序 | Medium |
+|	1877.数组中最大数对和的最小值 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/1877.minimize_maximum_pair_sum_in_array.md) | 数组、贪心、排序 | Medium |
 |	2410.运动员和训练师的最大匹配数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/2410.maximum_matching_of_players_with_trainers.md) | 数组、贪心、排序、双指针 | Medium |
 |	2548.填满背包的最大价格 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/2548.maximum_price_to_fill_a_bag.md) | 数组、贪心 | Medium |
 |	3752.字典序最小和为目标值且绝对值是排列的数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/3752.lexicographically_smallest_negated_permutation_that_sums_to_target.md) | 数组、贪心、双指针 | Medium |
@@ -174,8 +180,16 @@ Solve LeetCode by JS &amp; Java &amp; Python
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
+|	38.外观数列 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Scan/0038.count_and_say.md) | 数组、扫描、遍历、枚举 | Medium |
 |	57.插入区间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Scan/0057.insert_interval.md) | 数组、扫描 | Medium |
+|	419.棋盘上的战舰 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Scan/0419.battleships_in_a_board.md) | 数组、扫描 | Medium |
 |	3872.替换最多一个元素后的最长等差子数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Scan/3872.longest_arithmetic_sequence_after_changing_at_most_one_element.md) | 数组、线性扫描 | Medium |
+
+## Heap
+
+| 题目 | 题解 | 标签 | 难度 |
+|	--- |	--- | --- | --- |
+|	692.前K个高频单词 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Heap/0692.top_K_frequent_words.md) | 数组、堆、小根堆 | Medium |
 
 ## Graph/DFS/BFS/Union-Find
 
@@ -259,6 +273,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	347.前 K 个高频元素 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0347.top_K_frequent_elements.md) | 数组、哈希表、优先级队列、桶排序 | Medium |
 |	376.摆动序列 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0376.wiggle_subsequence.md) | 数组、贪心、动态规划 | Medium |
 |	395.至少有 K 个重复字符的最长子串 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0395.longest_substring_with_at_least_K_repeating_characters.md) | 字符串、哈希表、分治、滑动窗口 | Medium |
+|	451.根据字符出现频率排序 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0451.sort_characters_by_frequency.md) | 字符串、优先级队列（二叉堆）、桶排序| Medium |
 |	547.省份数量 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0547.number_of_provinces.md) | DFS、BFS、Union-Find | Medium |
 |	647.回文子串 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0647.palindromic_substrings.md) | 字符串、动态规划、双指针中心扩展、Manacher 算法 | Medium |
 |	698.划分为k个相等的子集 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0698.partition_to_K_equal_sum_subsets.md) | 数组、动态规划、回溯、位运算、记忆化搜索 | Medium |
