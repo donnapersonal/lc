@@ -18,6 +18,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	1094.拼车 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/1094.car_pooling.md) | 数组、哈希表、差分数组 | Medium |
 |	1152.用户网站访问行为分析 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/1152.analyze_user_website_visit_pattern.md) | 数组、哈希表、排序 | Medium |
 |	2910.合法分组的最少组数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/2910.minimum_number_of_groups_to_create_a_valid_assignment.md) | 数组、哈希表、贪心 | Medium |
+|	3713.最长的平衡子串 I | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/3713.longest_balanced_substring_I.md) | 字符串、枚举、哈希计数 | Medium |
 
 ## Two pointers
 
@@ -141,6 +142,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	238.除自身以外数组的乘积 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/PrefixSum/0238.product_of_array_except_self.md) | 数组、前缀和积 | Medium |
 |	525.连续数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/PrefixSum/0525.contiguous_array.md) | 数组、前缀和、哈希 | Medium |
 |	560.和为 K 的子数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/PrefixSum/0560.subarray_sum_equals_K.md) | 数组、前缀和 | Medium |
+|	2483.商店的最少代价 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/PrefixSum/0560.subarray_sum_equals_K.md) | 字符串、前缀和、贪心 | Medium |
 
 ## Greedy
 
@@ -156,6 +158,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	763.划分字母区间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0763.partition_labels.md) | 字符串、贪心 | Medium |
 |	767.重构字符串 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0767.reorganize_string.md) | 字符串、贪心 | Medium |
 |	870.优势洗牌 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0870.advantage_shuffle.md) | 数组、贪心 | Medium |
+|	955.删列造序 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0955.delete_columns_to_make_sorted_II.md) | 数组、贪心 | Medium |
 |	1296.划分数组为连续数字的集合 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/1296.divide_array_in_sets_of_K_consecutive_numbers.md) | 数组、贪心、排序 | Medium |
 |	1727.重新排列后的最大子矩阵 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/1727.largest_submatrix_with_rearrangements_solved.md) | 矩阵、贪心、排序 | Medium |
 |	1877.数组中最大数对和的最小值 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/1877.minimize_maximum_pair_sum_in_array.md) | 数组、贪心、排序 | Medium |
@@ -206,6 +209,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	399.除法求值 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0399.evaluate_division.md) | BFS | Medium |
 |	444.序列重建 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0444.sequence_reconstruction.md) | Topological Sort | Medium |
 |	743.网络延迟时间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0743.network_delay_time.md) | Dijkstra | Medium |
+|	752.打开转盘锁 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/BFS_DFS/0752.open_the_lock.md) | BFS | Medium |
 |	787.K 站中转内最便宜的航班 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0787.cheapest_flights_within_K_stop.md) | Dijkstra、Bellman Ford | Medium |
 |	802.找到最终的安全状态 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0802.find_eventual_safe_states.md) | Topological Sort | Medium |
 |	947.移除最多的同行或同列石头 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0947.most_stones_removed_with_same_row_or_column.md) | Union-Find | Medium |
@@ -285,6 +289,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	721.账户合并 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0721.accounts_merge.md) | 数组、BFS、DFS、Union-find | Medium |
 |	833.字符串中的查找与替换 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0833.find_and_replace_in_string.md) | 数组、线性扫描、哈希表 | Medium |
 |	918.环形子数组的最大和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0918.maximum_sum_circular_subarray.md) | 数组、环形数组、分治+动态规划、前缀和+单调队列 | Medium |
+|	921.使括号有效的最少添加 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0921.minimum_add_to_make_parentheses_valid.md) | 字符串、栈、贪心 | Medium |
 |	1262.可被三整除的最大和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/1262.greatest_sum_divisible_by_three.md) | 数组、数学、排序、优先级队列、快速选择 | Medium |
 |	1488.避免洪水泛滥 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/1488.avoid_flood_in_the_city.md) | 数组、贪心 + 有序集合、并查集 | Medium |
 |	1545.找出第 N 个二进制字符串中的第 K 位 | [JS/Python/Java](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | 递归、迭代、数学 | Medium |
