@@ -117,6 +117,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	852.山脉数组的峰顶索引 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/0852.peak_index_in_a_mountain_array.md) | 数组、二分查找 | Medium |
 |	875.爱吃香蕉的珂珂 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/0875.koko_eating_bananas.md) | 数组、二分查找 | Medium |
 |	1011.在 D 天内送达包裹的能力 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/1011.capacity_to_ship_packages_within_D_days.md) | 数组、二分查找 | Medium |
+|	1283.使结果不超过阈值的最小除数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/1283.find_the_smallest_divisor_given_a_threshold.md) | 数组、二分查找 | Medium |
 |	1482.制作 m 束花所需的最少天数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/1482.minimum_number_of_days_to_make_m_bouquets.md) | 数组、二分查找 | Medium |
 |	1488.避免洪水泛滥 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/1488.avoid_flood_in_the_city.md) | 数组、二分查找、贪心 | Medium |
 |	1648.销售价值减少的颜色球 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/1648.sell_diminishing-Valued_colored_balls.md) | 数组、二分查找、贪心 | Medium |
@@ -176,8 +177,10 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	1296.划分数组为连续数字的集合 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/1296.divide_array_in_sets_of_K_consecutive_numbers.md) | 数组、贪心、排序 | Medium |
 |	1727.重新排列后的最大子矩阵 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/1727.largest_submatrix_with_rearrangements_solved.md) | 矩阵、贪心、排序 | Medium |
 |	1877.数组中最大数对和的最小值 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/1877.minimize_maximum_pair_sum_in_array.md) | 数组、贪心、排序 | Medium |
+|	1975.最大方阵和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/1975.maximum_matrix_sum.md) | 矩阵、贪心 | Medium |
 |	2410.运动员和训练师的最大匹配数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/2410.maximum_matching_of_players_with_trainers.md) | 数组、贪心、排序、双指针 | Medium |
 |	2548.填满背包的最大价格 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/2548.maximum_price_to_fill_a_bag.md) | 数组、贪心 | Medium |
+|	3228.将 1 移动到末尾的最大操作次数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/3228.maximum_number_of_operations_to_move_ones_to_the_end.md) | 字符串、贪心 | Medium |
 |	3752.字典序最小和为目标值且绝对值是排列的数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/3752.lexicographically_smallest_negated_permutation_that_sums_to_target.md) | 数组、贪心、双指针 | Medium |
 
 ## Binary Tree
@@ -273,6 +276,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	416.分割等和子集 | [JS/Python/Java](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0416.partition_equal_subset_sum.md) | 数组、DP | Medium |
 |	518.零钱兑换 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0518.coin_change_II.md) | 数组、DP | Medium |
 |	712.两个字符串的最小ASCII删除和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0712.minimum_aSCII_delete_sum_for_two_strings.md) | DP | Medium |
+|	714.买卖股票的最佳时机含手续费 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0714.best_time_to_buy_and_sell_stock_with_transaction_fee.md) | DP | Medium |
 |	740.删除并获得点数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0740.delete_and_earn.md) | 数组、DP | Medium |
 |	790.多米诺和托米诺平铺 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0790.domino_and_tromino_tiling.md) | DP | Medium |
 |	983.最低票价 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0983.minimum_cost_for_tickets.md) | 数组、DP | Medium |
