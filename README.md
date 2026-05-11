@@ -50,7 +50,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	2.两数相加 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Simulation/0002.add_two_numbers.md) | 链表、模拟 | Medium |
-|	6.Z 字形变换 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/0006.zigzag_conversion.md) | 字符串、模拟 | Medium |
+|	6.Z 字形变换 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Simulation/0006.zigzag_conversion.md) | 字符串、模拟 | Medium |
 |	8.字符串转换整数 (atoi) | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Simulation/0008.string_to_integer_(atoi).md) | 数学、模拟 | Medium |
 |	43.字符串相乘 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Simulation/0043.multiply_strings.md) | 字符串、模拟 | Medium |
 |	48.旋转图像 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Simulation/0048.rotate_image.md) | 数组、数学、矩阵 | Medium |
@@ -96,11 +96,15 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	438.找到字符串中所有字母异位词 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/0438.find_all_anagrams_in_a_string.md) | 字符串、滑动窗口 | Medium |
 |	567.字符串的排列 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/0567.permutation_in_string.md) | 字符串、滑动窗口 | Medium |
 |	904.水果成篮 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/0904.fruit_into_baskets.md) | 数组、滑动窗口 | Medium |
+|	930.和相同的二元子数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/0930.binary_subarrays_with_sum.md) | 数组、滑动窗口 | Medium |
 |	1004.最大连续1的个数 III | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/1004.max_consecutive_ones_III.md) | 数组、滑动窗口 | Medium |
 |	1423.可获得的最大点数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/1423.maximum%20_points_you_can_obtain_from_cards.md) | 数组、滑动窗口 | Medium |
 |	1438.绝对差不超过限制的最长连续子数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/1438.longest_continuous_subarray_with_absolute_diff_less_than_or_equal_to_limit.md) | 数组、单调队列、滑动窗口 | Medium |
+| 1456.定长子串中元音的最大数目 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/1456.maximum_number_of_vowels_in_a_substring_of_given_length.md) | 字符串、滑动窗口 | Medium |
 |	1838.最高频元素的频数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/1838.frequency_of_the_most_frequent_element.md) | 数组、排序、滑动窗口 | Medium |
+|	1888.使二进制字符串字符交替的最少反转次数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/1888.minimum_number_of_flips_to_make_the_binary_string_alternating.md) | 字符串、滑动窗口 | Medium |
 |	3634.使数组平衡的最少移除数目 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/3634.minimum_removals_to_balance_array.md) | 数组、排序、滑动窗口 | Medium |
+|	3652.按策略买卖股票的最佳时机 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/3652.best_time_to_buy_and_sell_stock_using_strategy.md) | 数组、滑动窗口 | Medium |
 
 ## Binary Search
 
@@ -134,6 +138,12 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	676.实现一个魔法字典 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0676.implement_magic_dictionary.md) | 设计、DFS、Trie | Medium |
 |	981.基于时间的键值存储 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0981.time_based_Key-Value_store.md) | 设计、二分查找 | Medium |
 
+## Queue
+
+| 题目 | 题解 | 标签 | 难度 |
+|	--- |	--- | --- | --- |
+|	239.滑动窗口最大值 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Queue/0239.sliding_window_maximum.md) | 数组、队列、单调队列、优先级队列（堆）| hard |
+
 ## Stack
 
 | 题目 | 题解 | 标签 | 难度 |
@@ -157,6 +167,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	238.除自身以外数组的乘积 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/PrefixSum/0238.product_of_array_except_self.md) | 数组、前缀和积 | Medium |
 |	525.连续数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/PrefixSum/0525.contiguous_array.md) | 数组、前缀和、哈希 | Medium |
 |	560.和为 K 的子数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/PrefixSum/0560.subarray_sum_equals_K.md) | 数组、前缀和 | Medium |
+|	1292.元素和小于等于阈值的正方形的最大边长 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/PrefixSum/1292.maximum_side_length_of_a_square_with_sum_less_than_or_equal_to_threshold.md) | 矩阵、前缀和 | Medium |
 |	2483.商店的最少代价 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/PrefixSum/0560.subarray_sum_equals_K.md) | 字符串、前缀和、贪心 | Medium |
 
 ## Greedy
@@ -225,23 +236,30 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	210.课程表 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0210.course_schedule_II.md) | Topological Sort | Medium |
 |	399.除法求值 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0399.evaluate_division.md) | BFS | Medium |
 |	444.序列重建 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0444.sequence_reconstruction.md) | Topological Sort | Medium |
+|	684.冗余连接 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0684.redundant_connection.md) | Union-Find | Medium |
 |	743.网络延迟时间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0743.network_delay_time.md) | Dijkstra | Medium |
 |	752.打开转盘锁 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/BFS_DFS/0752.open_the_lock.md) | BFS | Medium |
 |	756.金字塔转换矩阵 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/BFS_DFS/0756.pyramid_transition_matrix.md) | DFS、Memoization | Medium |
+|	785.网络延迟时间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0785.is_graph_bipartite.md) | Dijkstra | Medium |
 |	787.K 站中转内最便宜的航班 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0787.cheapest_flights_within_K_stop.md) | Dijkstra、Bellman Ford | Medium |
+|	797.所有可能的路径 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0797.all_paths_from_source_to_target.md) | DFS、Backtracking | Medium |
 |	802.找到最终的安全状态 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0802.find_eventual_safe_states.md) | Topological Sort | Medium |
+|	886.可能的二分法 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0886.possible_bipartition.md) | BFS | Medium |
 |	947.移除最多的同行或同列石头 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0947.most_stones_removed_with_same_row_or_column.md) | Union-Find | Medium |
 |	990.等式方程的可满足性 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0990.satisfiability_of_equality_equations.md) | Union-Find | Medium |
 |	994.腐烂的橘子 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0994.rotting_oranges.md) | Grid、BFS | Medium |
 |	1101. 彼此熟识的最早时间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/1101.the_earliest_moment_when_everyone_become_friends.md) | DFS、BFS | Medium |
+|	1319.连通网络的操作次数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/1319.number_of_operations_to_make_network_connected.md) | Union-Find | Medium |
 |	1557.可以到达所有点的最少点数目 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/1557.minimum_number_of_vertices_to_reach_all_nodes.md) | Graph、Indegree Zero/Source Nodes | Medium |
 |	1559.二维网格图中探测环 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/1559.detect_cycles_in_2D_grid.md) | DFS | Medium |
 |	1584.连接所有点的最小费用 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/1584.min_cost_to_connect_all_points.md) | Graph、Kruskal、Prim、Union-Find、最小生成树 | Medium |
 |	1976.到达目的地的方案数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/1976.number_of_ways_to_arrive_at_destination.md) | Dijkstra | Medium |
+|	2101.引爆最多的炸弹 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/2101.detonate_the_maximum_bombs.md) | DFS、Floyd | Medium |
 |	2115.从给定原材料中找到所有可以做出的菜 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/2115.find_all_possible_recipes_from_given_supplies.md) | Topological Sort | Medium |
 |	2976.转换字符串的最小成本 I | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/2976.minimum_cost_to_convert_string_I.md) | Floyd | Medium |
 |	3310.移除可疑的方法 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/3310.remove_methods_from_project.md) | DFS、BFS | Medium |
 |	3481.应用替换 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/3481.apply_substitutions.md) | DFS、Memoization | Medium |
+|	3650.边反转的最小路径总成本 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/3650.minimum_cost_path_with_edge_reversals.md) | Dijkstra | Medium |
 
 ## Backtracking
 
