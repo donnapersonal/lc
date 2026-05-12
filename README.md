@@ -31,8 +31,10 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	18.四数之和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0018.4sum.md) | 数组、双指针 | Medium |
 |	19.删除链表的倒数第 N 个结点 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0019.remove_Nth_node_from_end_of_list.md) | 链表、双指针 | Medium |
 |	31.下一个排列 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0031.next_permutation.md) | 数组、字典序、双指针 | Medium |
+|	61.旋转链表 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0061.rotate_list.md) | 链表、双指针 | Medium |
 |	75.颜色分类 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0075.sort_colors.md) | 数组、双指针 | Medium |
 |	80.删除有序数组中的重复项 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0080.remove_duplicates_from_sorted_array_II.md) | 数组、双指针 | Medium |
+|	86.分隔链表 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0086.partition_list.md) | 链表、双指针 | Medium |
 |	0142 | Linked List Cycle II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0142.linked_list_cycle_II.md) | 链表、双指针 | Medium |
 |	151.反转字符串中的单词 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0151.reverse_words_in_a_string.md) | 字符串、双指针 | Medium |
 |	165.比较版本号 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0165.compare_version_numbers.md) | 字符串、分割、双指针 | Medium |
@@ -40,6 +42,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	189.轮转数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0189.potate_array.md) | 数组、双指针 + 数组翻转 | Medium |
 |	253.会议室 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0253.meeting_rooms_II.md) | 数组、双指针 + Sweep Line（扫描线）| Medium |
 |	287.寻找重复数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0287.find_the_duplicate_number.md) | 数组、双指针、二分查找 | Medium |
+|	328.奇偶链表 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0328.odd_even_linked_list.md) | 链表、双指针 | Medium |
 |	443.压缩字符串 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0443.string_compression.md) | 字符串、双指针 | Medium |
 |	556.下一个更大元素 III | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0556.next_greater_element_III.md) | 字符串、双指针、贪心 | Medium |
 |	777.在 LR 字符串中交换相邻字符 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0777.swap_adjacent_in_LR_string.md) | 字符串、双指针 | Medium |
@@ -57,6 +60,8 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	54.螺旋矩阵 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Simulation/0054.spiral_matrix.md) | 数组、数学、矩阵 | Medium |
 |	59.螺旋矩阵 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Simulation/0059.spiral_matrix_II.md) | 矩阵、模拟 | Medium |
 |	73.矩阵置零 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Simulation/0073.set_matrix_zeroes.md) | 数组、数学、矩阵 | Medium |
+|	237.删除链表中的节点 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Simulation/0237.delete_node_in_a_linked_list.md) | 链表 | Medium |
+|	273.整数到英文单词 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Simulation/0273.integer_to_english_words.md) | 数字 | Medium |
 
 ## Math
 
@@ -90,6 +95,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	3.无重复字符的最长子串 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/0003.longest_substring_without_repeating_characters.md) | 字符串、滑动窗口 | Medium |
+|	76.最小覆盖子串 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/0076.minimum_window_substring.md) | 字符串、滑动窗口 | Hard |
 |	153.寻找旋转排序数组中的最小值 | [Js/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/0153.find_minimum_in_rotated_sorted_array.md) | 数组、二分查找 | Medium |
 |	209.长度最小的子数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/0209.minimum_size_subarray_sum.md) | 数组、滑动窗口 | Medium |
 |	424.替换后的最长重复字符 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/0424.longest_repeating_character_replacement.md) | 字符串、哈希表、滑动窗口 | Medium |
@@ -134,9 +140,12 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	--- |	--- | --- | --- |
 |	146.LRU 缓存 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0146.LRU_cache.md) | 设计、数据结构 | Medium |
 |	155.最小栈 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/0155.min_stack.md) | 设计、栈 | Medium |
+|	355.设计推特 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0355.design_twitter.md) | 设计 | Medium |
 |	528.按权重随机选择 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0528.random_pick_with_weight.md) | 设计、二分查找、前缀和、随机化 | Medium |
+|	622.设计循环队列 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0622.design_circular_queue.md) | 设计、数据结构 | Medium |
 |	676.实现一个魔法字典 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0676.implement_magic_dictionary.md) | 设计、DFS、Trie | Medium |
 |	981.基于时间的键值存储 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0981.time_based_Key-Value_store.md) | 设计、二分查找 | Medium |
+|	1381.设计一个带有递增操作的栈 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/1381.design_a_stack_with_increment_operation.md) | 设计、栈、懒惰传播 | Medium |
 
 ## Queue
 
@@ -157,7 +166,9 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	636.函数的独占时间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/0636.exclusive_time_of_functions.md) | 数组、栈 | Medium |
 |	735.小行星碰撞 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/0735.asteroid_collision.md) | 数组、栈 | Medium |
 |	739.每日温度 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/0739.daily_temperatures.md) | 数组、栈、单调栈 | Medium |
+|	901.在线库存跨度 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/0901.online_stock_span.md) | 数组、栈、单调栈 | Medium |
 |	907.子数组的最小值之和 | [JS/Python/Java](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0907.sum_of_subarray_minimums.md) | 数组、栈、单调栈 | Medium |
+|	1028.从前序遍历中恢复一棵树 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/1028.recover_a_tree_from_preorder_traversal.md) | Tree、栈 | Hard |
 |	1209.删除字符串中的所有相邻重复项 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/1209.remove_all_adjacent_duplicates_in_string_II.md) | 字符串、栈 | Medium |
 
 ## Prefix Sum
@@ -183,6 +194,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	621.任务调度器 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0621.task_scheduler.md) | 数组、贪心 | Medium |
 |	763.划分字母区间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0763.partition_labels.md) | 字符串、贪心 | Medium |
 |	767.重构字符串 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0767.reorganize_string.md) | 字符串、贪心 | Medium |
+|	853.车队 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0853.car_fleet.md) | 数组、贪心、排序 | Medium |
 |	870.优势洗牌 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0870.advantage_shuffle.md) | 数组、贪心 | Medium |
 |	955.删列造序 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0955.delete_columns_to_make_sorted_II.md) | 数组、贪心 | Medium |
 |	1296.划分数组为连续数字的集合 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/1296.divide_array_in_sets_of_K_consecutive_numbers.md) | 数组、贪心、排序 | Medium |
@@ -235,6 +247,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	207.课程表 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0207.course_schedule.md) | Topological Sort | Medium |
 |	210.课程表 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0210.course_schedule_II.md) | Topological Sort | Medium |
 |	399.除法求值 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0399.evaluate_division.md) | BFS | Medium |
+|	430.展平多级双向链表 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/BFS_DFS/0430.flatten_a_multilevel_doubly_linked_list.md) | DFS | Medium |
 |	444.序列重建 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0444.sequence_reconstruction.md) | Topological Sort | Medium |
 |	684.冗余连接 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0684.redundant_connection.md) | Union-Find | Medium |
 |	743.网络延迟时间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0743.network_delay_time.md) | Dijkstra | Medium |
@@ -310,7 +323,10 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	5.最长回文子串 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0005.longest_palindromic_substring.md) | 字符串、中心扩展法、Manacher's algorithm | Medium |
 |	24.两两交换链表中的节点 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0024.swap_nodes_in_pairs.md) | 链表、递归、迭代 | Medium |
 |	53.最大子数组和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0053.maximum_subarray.md) | 数组、前缀和+贪心、Kadane’s Algorithm | Medium |
+|	92.反转链表 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0092.reverse_linked_list_II.md) | 链表、双指针、递归 | Medium |
 |	122.买卖股票的最佳时机 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0122.best_time_to_buy_and_sell_stock_II.md) | 数组、贪心、DP | Medium |
+|	138.随机链表的复制 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0138.copy_list_with_random_pointer.md) | 链表、哈希、DFS、原地修改 | Medium |
+|	143.重新排序列表 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0143.reorder_list.md) | 链表、栈、双指针 | Medium |
 |	215.数组中的第K个最大元素 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0215.Kth_largest_element_in_an_array.md) | 数组、优先级队列（堆）、快速排序 | Medium |
 |	222.完全二叉树的节点个数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0222.count_complete_tree_nodes.md) | 完全二叉树、递归、分治、二分 | Easy |
 |	240.搜索二维矩阵 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0240.search_a_2D_matrix_II.md) | 数组、矩阵、二分查找、双指针 | Medium |
