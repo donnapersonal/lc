@@ -213,14 +213,23 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	74.搜索二维矩阵 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/0074.search_a_2D_matrix.md) | 矩阵、二分查找 | Medium |
 |	95.不同的二叉搜索树 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0095.unique_binary_search_trees_II.md) | 二叉树、DFS | Medium |
 |	98.验证二叉搜索树 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0098.validate_binary_search_tree.md) | 二叉树、递归、迭代 | Medium |
+|	99.恢复二叉搜索树 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0099.recover_binary_search_tree.md) | 二叉树、中序遍历 | Medium |
+|	102.二叉树的层序遍历 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0102.binary_tree_level_order_traversal.md) | 二叉树、BFS | Medium |
 |	103.二叉树的锯齿形层序遍历 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0103.binary_tree_zigzag_level_order_traversal.md) | 二叉树、层次遍历 | Medium |
 |	105.从前序与中序遍历序列构造二叉树 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0105.construct_binary_tree_from_preorder_and_inorder_traversal.md) | 二叉树、递归 | Medium |
 |	106.从中序与后序遍历序列构造二叉树 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0106.construct_binary_tree_from_inorder_and_postorder_traversal.md) | 二叉树、递归、迭代 | Medium |
 |	114.二叉树展开为链表 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0114.flatten_binary_tree_to_linked_list.md) | 二叉树、递归、迭代 | Medium |
+|	199.二叉树的右视图 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0199.binary_tree_right_side_view.md) | 二叉树、BFS、DFS | Medium |
+|	235.二叉搜索树的最近公共祖先 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0235.lowest_common_ancestor_of_a_binary_search_tree.md) | 二叉树、递归、迭代 | Medium |
+|	236.二叉树的最近公共祖先 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0236.lowest_common_ancestor_of_a_binary_tree.md) | 二叉树、递归、迭代 | Medium |
 |	337.打家劫舍 III | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0337.house_robber_III.md) | 动态规划、DFS | Medium |
 |	437.路径总和 III | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0437.path_sum_III.md) | 二叉树、DFS | Medium |
 |	662.二叉树最大宽度 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0662.maximum_width_of_binary_tree.md) | 二叉树、DFS、BFS | Medium |
+|	863.二叉树中所有距离为 K 的结点 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0863.all_nodes_distance_K_in_binary_tree.md) | 二叉树、BFS、DFS | Medium |
 |	1008.前序遍历构造二叉搜索树 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/1008.construct_binary_search_tree_from_preorder_traversal.md) | 二叉树、递归 | Medium |
+|	1161.最大层内元素和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/1161.maximum_level_sum_of_a_binary_tree.md) | 二叉树、BFS | Medium |
+|	1382.将二叉搜索树变平衡 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/1382.balance_a_binary_search_tree.md) | 二叉树、DFS | Medium |
+|	2385.感染二叉树需要的总时间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/2385.amount_of_time_for_binary_tree_to_be_infected.md) | 二叉树、递归 | Medium |
 
 ## Scan
 
@@ -261,6 +270,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	947.移除最多的同行或同列石头 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0947.most_stones_removed_with_same_row_or_column.md) | Union-Find | Medium |
 |	990.等式方程的可满足性 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0990.satisfiability_of_equality_equations.md) | Union-Find | Medium |
 |	994.腐烂的橘子 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0994.rotting_oranges.md) | Grid、BFS | Medium |
+|	1091.二进制矩阵中的最短路径 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/BFS_DFS/1091.shortest_path_in_binary_matrix.md) | BFS | Medium |
 |	1101. 彼此熟识的最早时间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/1101.the_earliest_moment_when_everyone_become_friends.md) | DFS、BFS | Medium |
 |	1319.连通网络的操作次数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/1319.number_of_operations_to_make_network_connected.md) | Union-Find | Medium |
 |	1557.可以到达所有点的最少点数目 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/1557.minimum_number_of_vertices_to_reach_all_nodes.md) | Graph、Indegree Zero/Source Nodes | Medium |
