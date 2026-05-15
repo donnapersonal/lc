@@ -47,6 +47,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	556.下一个更大元素 III | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0556.next_greater_element_III.md) | 字符串、双指针、贪心 | Medium |
 |	777.在 LR 字符串中交换相邻字符 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0777.swap_adjacent_in_LR_string.md) | 字符串、双指针 | Medium |
 |	881.救生艇 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0881.boats_to_save_people.md) | 字符串、双指针 | Medium |
+|	1574.删除最短的子数组使剩余数组有序 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/1574.shortest_subarray_to_be_removed_to_make_array_sorted.md) | 数组、双指针 | Medium |
 
 ## Simulation
 
@@ -133,6 +134,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	1648.销售价值减少的颜色球 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/1648.sell_diminishing-Valued_colored_balls.md) | 数组、二分查找、贪心 | Medium |
 |	2300.咒语和药水的成功对数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/2300.successful_pairs_of_spells_and_potions.md) | 数组、二分查找 | Medium |
 |	2594.修车的最少时间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/2594.minimum_time_to_repair_cars.md) | 数组、二分查找 | Medium |
+|	3296.移山所需的最少秒数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/3296.minimum_number_of_seconds_to_make_mountain_height_zero.md) | 数组、二分查找 | Medium |
 
 ## Design
 
@@ -144,8 +146,12 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	528.按权重随机选择 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0528.random_pick_with_weight.md) | 设计、二分查找、前缀和、随机化 | Medium |
 |	622.设计循环队列 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0622.design_circular_queue.md) | 设计、数据结构 | Medium |
 |	676.实现一个魔法字典 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0676.implement_magic_dictionary.md) | 设计、DFS、Trie | Medium |
+|	855.考场就座 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0855.exam_room.md) | 设计、PQ | Medium |
 |	981.基于时间的键值存储 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0981.time_based_Key-Value_store.md) | 设计、二分查找 | Medium |
+|	1268.搜索推荐系统 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/1268.search_suggestions_system.md) | 设计、二分查找、Trie | Medium |
 |	1381.设计一个带有递增操作的栈 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/1381.design_a_stack_with_increment_operation.md) | 设计、栈、懒惰传播 | Medium |
+|	1472.设计浏览器历史记录 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/1472.design_browser_history.md) | 设计、模拟 | Medium |
+|	3408.设计任务管理器 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/3408.design_task_manager.md) | 设计、堆、哈希 | Medium |
 
 ## Queue
 
@@ -159,8 +165,10 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	--- |	--- | --- | --- |
 |	71.简化路径 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/0071.simplify_path.md) | 字符串、栈 | Medium |
 |	150.逆波兰表达式求值 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/0150.evaluate_reverse_polish_notation.md) | 数组、栈 | Medium |
+|	227.基本计算器 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/0227.basic_calculator_II.md) | 字符串、栈 | Medium |
 |	394.字符串解码 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/0394.decode_string.md) | 字符串、栈 | Medium |
 |	402.移掉 K 位数字 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/0402.remove_K_digits.md) | 字符串、栈、单调栈 | Medium |
+|	445.两数相加 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/0445.add_two_numbers_II.md) | 链表、栈 | Medium |
 |	456.132 模式 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/0456.132_pattern.md) | 数组、单调栈 | Medium |
 |	503.下一个更大元素 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/0503.next_greater_element_II.md) | 数组、栈、单调栈 | Medium |
 |	636.函数的独占时间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/0636.exclusive_time_of_functions.md) | 数组、栈 | Medium |
@@ -168,8 +176,11 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	739.每日温度 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/0739.daily_temperatures.md) | 数组、栈、单调栈 | Medium |
 |	901.在线库存跨度 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/0901.online_stock_span.md) | 数组、栈、单调栈 | Medium |
 |	907.子数组的最小值之和 | [JS/Python/Java](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0907.sum_of_subarray_minimums.md) | 数组、栈、单调栈 | Medium |
+|	962.最大宽度坡 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/0962.maximum_width_ramp.md) | 数组、栈、单调栈 | Medium |
+|	1019.链表中的下一个更大节点 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/1019.next_greater_node_in_linked_list.md) | 链表、单调栈 | Medium |
 |	1028.从前序遍历中恢复一棵树 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/1028.recover_a_tree_from_preorder_traversal.md) | Tree、栈 | Hard |
 |	1209.删除字符串中的所有相邻重复项 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/1209.remove_all_adjacent_duplicates_in_string_II.md) | 字符串、栈 | Medium |
+|	1856.子数组最小乘积的最大值 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/1856.maximum_subarray_min-product.md) | 数组、栈、单调栈 | Medium |
 
 ## Prefix Sum
 
@@ -201,8 +212,10 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	1727.重新排列后的最大子矩阵 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/1727.largest_submatrix_with_rearrangements_solved.md) | 矩阵、贪心、排序 | Medium |
 |	1877.数组中最大数对和的最小值 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/1877.minimize_maximum_pair_sum_in_array.md) | 数组、贪心、排序 | Medium |
 |	1975.最大方阵和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/1975.maximum_matrix_sum.md) | 矩阵、贪心 | Medium |
+|	2333.最小差值平方和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/2333.minimum_sum_of_squared_difference.md) | 数组、贪心 | Medium |
 |	2410.运动员和训练师的最大匹配数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/2410.maximum_matching_of_players_with_trainers.md) | 数组、贪心、排序、双指针 | Medium |
 |	2548.填满背包的最大价格 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/2548.maximum_price_to_fill_a_bag.md) | 数组、贪心 | Medium |
+|	2593.标记所有元素后数组的分数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/2593.find_score_of_an_array_after_marking_all_elements.md) | 数组、贪心 | Medium |
 |	3228.将 1 移动到末尾的最大操作次数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/3228.maximum_number_of_operations_to_move_ones_to_the_end.md) | 字符串、贪心 | Medium |
 |	3752.字典序最小和为目标值且绝对值是排列的数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/3752.lexicographically_smallest_negated_permutation_that_sums_to_target.md) | 数组、贪心、双指针 | Medium |
 
@@ -222,6 +235,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	113.路径总和 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0113.path_sum_II.md) | 二叉树、递归、迭代 | Medium |
 |	114.二叉树展开为链表 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0114.flatten_binary_tree_to_linked_list.md) | 二叉树、递归、迭代 | Medium |
 |	129.求根节点到叶节点数字之和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0129.sum_root_to_leaf_numbers.md) | 二叉树、递归、迭代 | Medium |
+|	173.二叉搜索树迭代器 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0173.binary_search_tree_iterator.md) | 二叉树、递归、迭代 | Medium |
 |	199.二叉树的右视图 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0199.binary_tree_right_side_view.md) | 二叉树、BFS、DFS | Medium |
 |	235.二叉搜索树的最近公共祖先 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0235.lowest_common_ancestor_of_a_binary_search_tree.md) | 二叉树、递归、迭代 | Medium |
 |	236.二叉树的最近公共祖先 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0236.lowest_common_ancestor_of_a_binary_tree.md) | 二叉树、递归、迭代 | Medium |
@@ -233,6 +247,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	1161.最大层内元素和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/1161.maximum_level_sum_of_a_binary_tree.md) | 二叉树、BFS | Medium |
 |	1339.分裂二叉树的最大乘积 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/1339.maximum_product_of_splitted_binary_tree.md) | 二叉树、DFS | Medium |
 |	1382.将二叉搜索树变平衡 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/1382.balance_a_binary_search_tree.md) | 二叉树、DFS | Medium |
+|	1448.统计二叉树中好节点的数目 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/1448.count_good_nodes_in_binary_tree.md) | 二叉树、DFS | Medium |
 |	2385.感染二叉树需要的总时间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/2385.amount_of_time_for_binary_tree_to_be_infected.md) | 二叉树、递归 | Medium |
 |	2583.二叉树中的第 K 大层和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/2583.Kth_largest_sum_in_a_binary_tree.md) | 二叉树、BFS | Medium |
 
@@ -245,11 +260,15 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	419.棋盘上的战舰 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Scan/0419.battleships_in_a_board.md) | 数组、扫描 | Medium |
 |	3872.替换最多一个元素后的最长等差子数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Scan/3872.longest_arithmetic_sequence_after_changing_at_most_one_element.md) | 数组、线性扫描 | Medium |
 
-## Heap
+## Heap/PQ
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
+|	373.查找和最小的 K 对数字 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Heap/0373.find_K_pairs_with_smallest_sums.md) | 数组、优先级队列（堆）+ 链表双指针 | Medium |
 |	692.前K个高频单词 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Heap/0692.top_K_frequent_words.md) | 数组、堆、小根堆 | Medium |
+|	1353.最多可以参加的会议数目 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Heap/1353.maximum_number_of_events_that_can_be_attended.md) | 数组、堆、小根堆 | Medium |
+|	1642.可以到达的最远建筑 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Heap/1642.furthest_building_you_can_reach.md) | 数组、堆、小根堆 | Medium |
+
 
 ## Graph/DFS/BFS/Union-Find
 
@@ -285,7 +304,9 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	1101. 彼此熟识的最早时间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/1101.the_earliest_moment_when_everyone_become_friends.md) | DFS、BFS | Medium |
 |	1110.删点成林 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/1110.delete_nodes_and_return_forest.md) | DFS | Medium |
 |	1162.地图分析 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/BFS_DFS/1162.as_far_from_land_as_possible.md) | 矩阵、BFS | Medium |
+|	1236.网络爬虫 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/BFS_DFS/1236.web_crawler.md) | 字符串、BFS | Medium |
 |	1319.连通网络的操作次数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/1319.number_of_operations_to_make_network_connected.md) | Union-Find | Medium |
+|	1376.通知所有员工所需的时间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/BFS_DFS/1376.time_needed_to_inform_all_employees.md) | DFS | Medium |
 |	1557.可以到达所有点的最少点数目 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/1557.minimum_number_of_vertices_to_reach_all_nodes.md) | Graph、Indegree Zero/Source Nodes | Medium |
 |	1559.二维网格图中探测环 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/1559.detect_cycles_in_2D_grid.md) | DFS | Medium |
 |	1584.连接所有点的最小费用 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/1584.min_cost_to_connect_all_points.md) | Graph、Kruskal、Prim、Union-Find、最小生成树 | Medium |
