@@ -49,6 +49,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	777.在 LR 字符串中交换相邻字符 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0777.swap_adjacent_in_LR_string.md) | 字符串、双指针 | Medium |
 |	881.救生艇 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0881.boats_to_save_people.md) | 字符串、双指针 | Medium |
 |	1574.删除最短的子数组使剩余数组有序 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/1574.shortest_subarray_to_be_removed_to_make_array_sorted.md) | 数组、双指针 | Medium |
+|	1861.旋转盒子 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/1861.rotating_the_box.md) | 矩阵、双指针 | Medium |
 
 ## Simulation
 
@@ -69,10 +70,14 @@ Solve LeetCode by JS &amp; Java &amp; Python
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
+|	7.整数反转 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Math/0007.reverse_integer.md) | 数学 | Medium |
+|	29.两数相除 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Math/0029.divide_two_integers.md) | 数学、模拟 | Medium |
+|	50.Pow(x, n) | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Math/0050.pow(x,n).md) | 数学、快速幂 | Medium |
 |	89.格雷编码 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Math/0089.gray_code.md) | 数字、位运算 | Medium |
 |	204.计数质数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Math/0204.count_primes.md) | 数学 | Medium |
 |	372.超级次方 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Math/0372.super_pow.md) | 数学、快速幂 | Medium |
 |	939.最小面积矩形 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Math/0939.minimum_area_rectangle.md) | 数学、哈希 | Medium |
+|	1922.统计好数字的数目 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Math/1922.count_good_numbers.md) | 数学、快速幂 | Medium |
 |	1980.找出不同的二进制字符串 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Math/1980.find_unique_binary_string.md) | 数学、对角线构造 | Medium |
 
 ## Trie
@@ -233,6 +238,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	3228.将 1 移动到末尾的最大操作次数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/3228.maximum_number_of_operations_to_move_ones_to_the_end.md) | 字符串、贪心 | Medium |
 |	3752.字典序最小和为目标值且绝对值是排列的数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/3752.lexicographically_smallest_negated_permutation_that_sums_to_target.md) | 数组、贪心、双指针 | Medium |
 |	3796.找到带限制序列的最大值 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/3796.find_maximum_value_in_a_constrained_sequence.md) | 数组、贪心 | Medium |
+|	3914.使数组非递减需要的最小累计值 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/3914.minimum_operations_to_make_array_non_decreasing.md) | 数组、贪心、差分 | Medium |
 
 ## Binary Tree
 
