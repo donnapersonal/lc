@@ -48,6 +48,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	556.下一个更大元素 III | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0556.next_greater_element_III.md) | 字符串、双指针、贪心 | Medium |
 |	777.在 LR 字符串中交换相邻字符 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0777.swap_adjacent_in_LR_string.md) | 字符串、双指针 | Medium |
 |	881.救生艇 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0881.boats_to_save_people.md) | 字符串、双指针 | Medium |
+|	986.区间列表的交集 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0986.interval_list_intersections.md) | 数组、双指针 | Medium |
 |	1574.删除最短的子数组使剩余数组有序 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/1574.shortest_subarray_to_be_removed_to_make_array_sorted.md) | 数组、双指针 | Medium |
 |	1861.旋转盒子 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/1861.rotating_the_box.md) | 矩阵、双指针 | Medium |
 
@@ -75,6 +76,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	50.Pow(x, n) | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Math/0050.pow(x,n).md) | 数学、快速幂 | Medium |
 |	89.格雷编码 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Math/0089.gray_code.md) | 数字、位运算 | Medium |
 |	204.计数质数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Math/0204.count_primes.md) | 数学 | Medium |
+|	319.灯泡开关 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Math/0319.bulb_switcher.md) | 数学 | Medium |
 |	372.超级次方 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Math/0372.super_pow.md) | 数学、快速幂 | Medium |
 |	939.最小面积矩形 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Math/0939.minimum_area_rectangle.md) | 数学、哈希 | Medium |
 |	1922.统计好数字的数目 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Math/1922.count_good_numbers.md) | 数学、快速幂 | Medium |
@@ -151,6 +153,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	--- |	--- | --- | --- |
 |	146.LRU 缓存 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0146.LRU_cache.md) | 设计、数据结构 | Medium |
 |	155.最小栈 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/0155.min_stack.md) | 设计、栈 | Medium |
+|	348.设计井字棋 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0348.design_Tic-Tac-Toe.md) | 设计、栈 | Medium |
 |	355.设计推特 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0355.design_twitter.md) | 设计 | Medium |
 |	528.按权重随机选择 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0528.random_pick_with_weight.md) | 设计、二分查找、前缀和、随机化 | Medium |
 |	622.设计循环队列 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0622.design_circular_queue.md) | 设计、数据结构 | Medium |
@@ -198,6 +201,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	238.除自身以外数组的乘积 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/PrefixSum/0238.product_of_array_except_self.md) | 数组、前缀和积 | Medium |
+|	304.二维区域和检索 - 矩阵不可变 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/PrefixSum/0304.range_sum_query_2D-Immutable.md) | 矩阵、数学、前缀和 | Medium |
 |	525.连续数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/PrefixSum/0525.contiguous_array.md) | 数组、前缀和、哈希 | Medium |
 |	560.和为 K 的子数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/PrefixSum/0560.subarray_sum_equals_K.md) | 数组、前缀和 | Medium |
 |	1292.元素和小于等于阈值的正方形的最大边长 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/PrefixSum/1292.maximum_side_length_of_a_square_with_sum_less_than_or_equal_to_threshold.md) | 矩阵、前缀和 | Medium |
