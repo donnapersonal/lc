@@ -77,8 +77,11 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	89.格雷编码 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Math/0089.gray_code.md) | 数字、位运算 | Medium |
 |	204.计数质数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Math/0204.count_primes.md) | 数学 | Medium |
 |	319.灯泡开关 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Math/0319.bulb_switcher.md) | 数学 | Medium |
+|	371.两整数之和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Math/0371.sum_of_two_integers.md) | 数学、位运算 | Medium |
 |	372.超级次方 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Math/0372.super_pow.md) | 数学、快速幂 | Medium |
+|	390.消除游戏 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Math/0390.elimination_game.md) | 数学 | Medium |
 |	939.最小面积矩形 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Math/0939.minimum_area_rectangle.md) | 数学、哈希 | Medium |
+|	1680.连接连续二进制数字 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Math/1680.concatenation_of_consecutive_binary_numbers.md) | 数学 | Medium |
 |	1922.统计好数字的数目 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Math/1922.count_good_numbers.md) | 数学、快速幂 | Medium |
 |	1980.找出不同的二进制字符串 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Math/1980.find_unique_binary_string.md) | 数学、对角线构造 | Medium |
 
@@ -117,6 +120,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	1004.最大连续1的个数 III | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/1004.max_consecutive_ones_III.md) | 数组、滑动窗口 | Medium |
 |	1423.可获得的最大点数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/1423.maximum%20_points_you_can_obtain_from_cards.md) | 数组、滑动窗口 | Medium |
 |	1438.绝对差不超过限制的最长连续子数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/1438.longest_continuous_subarray_with_absolute_diff_less_than_or_equal_to_limit.md) | 数组、单调队列、滑动窗口 | Medium |
+|	1461.检查一个字符串是否包含所有长度为 K 的二进制子串 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/1461.check_if_a_string_contains_all_binary_codes_of_size_K.md) | 字符串、滑动窗口、位运算 | Medium |
 | 1456.定长子串中元音的最大数目 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/1456.maximum_number_of_vowels_in_a_substring_of_given_length.md) | 字符串、滑动窗口 | Medium |
 |	1838.最高频元素的频数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/1838.frequency_of_the_most_frequent_element.md) | 数组、排序、滑动窗口 | Medium |
 |	1888.使二进制字符串字符交替的最少反转次数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/1888.minimum_number_of_flips_to_make_the_binary_string_alternating.md) | 字符串、滑动窗口 | Medium |
@@ -142,6 +146,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	1482.制作 m 束花所需的最少天数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/1482.minimum_number_of_days_to_make_m_bouquets.md) | 数组、二分查找 | Medium |
 |	1488.避免洪水泛滥 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/1488.avoid_flood_in_the_city.md) | 数组、二分查找、贪心 | Medium |
 |	1648.销售价值减少的颜色球 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/1648.sell_diminishing-Valued_colored_balls.md) | 数组、二分查找、贪心 | Medium |
+|	1901.寻找峰值 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/1901.find_a_peak_element_II.md) | 矩阵、二分查找 | Medium |
 |	2064.分配给商店的最多商品的最小值 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/2064minimized_maximum_of_products_distributed_to_any_store.md) | 数组、二分查找、贪心 | Medium |
 |	2300.咒语和药水的成功对数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/2300.successful_pairs_of_spells_and_potions.md) | 数组、二分查找 | Medium |
 |	2594.修车的最少时间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/2594.minimum_time_to_repair_cars.md) | 数组、二分查找 | Medium |
@@ -196,7 +201,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	1209.删除字符串中的所有相邻重复项 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/1209.remove_all_adjacent_duplicates_in_string_II.md) | 字符串、栈 | Medium |
 |	1856.子数组最小乘积的最大值 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/1856.maximum_subarray_min-product.md) | 数组、栈、单调栈 | Medium |
 
-## Prefix Sum
+## PrefixSum
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
@@ -205,6 +210,9 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	525.连续数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/PrefixSum/0525.contiguous_array.md) | 数组、前缀和、哈希 | Medium |
 |	560.和为 K 的子数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/PrefixSum/0560.subarray_sum_equals_K.md) | 数组、前缀和 | Medium |
 |	1292.元素和小于等于阈值的正方形的最大边长 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/PrefixSum/1292.maximum_side_length_of_a_square_with_sum_less_than_or_equal_to_threshold.md) | 矩阵、前缀和 | Medium |
+|	1674.使数组互补的最少操作次数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/PrefixSum/1674.minimum_moves_to_make_array_complementary.md) | 数组、前缀和、差分数组 | Medium |
+|	1685.有序数组中差绝对值之和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/PrefixSum/1685.sum_of_absolute_differences_in_a_sorted_array.md) | 数组、前缀和 | Medium |
+|	1895.最大的幻方 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/PrefixSum/1895.largest_magic_square.md) | 矩阵、前缀和 | Medium |
 |	2483.商店的最少代价 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/PrefixSum/0560.subarray_sum_equals_K.md) | 字符串、前缀和、贪心 | Medium |
 
 ## Greedy
@@ -393,6 +401,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	799.香槟塔 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0799.champagne_tower.md) | DP | Medium |
 |	983.最低票价 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0983.minimum_cost_for_tickets.md) | 数组、DP | Medium |
 |	931.下降路径最小和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0931.minimum_falling_path_sum.md) | 数组、DP | Medium |
+|	1043.分隔数组以得到最大和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/1043.partition_array_for_maximum_sum.md) | 数组、DP | Medium |
 |	1143.最长公共子序列 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/1143.longest_common_subsequence.md) | DP | Medium |
 |	1277.统计全为 1 的正方形子矩阵 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/1277.count_square_submatrices_with_all_ones.md) | 矩阵、DP | Medium |
 |	1594.矩阵的最大非负积 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/1594.%20Maximum%20Non%20Negative%20Product%20in%20a%20Matrix1594.maximum_non_negative_product_in_a_matrix.md) | 矩阵、DP | Medium |
