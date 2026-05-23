@@ -19,7 +19,10 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	840.矩阵中的幻方 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/0840.magic_squares_in_grid.md) | 数组、哈希表 | Medium |
 |	1094.拼车 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/1094.car_pooling.md) | 数组、哈希表、差分数组 | Medium |
 |	1152.用户网站访问行为分析 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/1152.analyze_user_website_visit_pattern.md) | 数组、哈希表、排序 | Medium |
+|	2661.找出叠涂元素 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/2661.first_completely_painted_row_or_column.md) | 矩阵、哈希表 | Medium |
 |	2910.合法分组的最少组数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/2910.minimum_number_of_groups_to_create_a_valid_assignment.md) | 数组、哈希表、贪心 | Medium |
+|	2943.最大化网格图中正方形空洞的面积 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/2943.maximize_area_of_square_hole_in_grid.md) | 数组、HashSet | Medium |
+|	3043.最长公共前缀的长度 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/3043.find_the_length_of_the_longest_common_prefix.md) | 数组、哈希表 | Medium |
 |	3713.最长的平衡子串 I | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/3713.longest_balanced_substring_I.md) | 字符串、枚举、哈希计数 | Medium |
 
 ## Two pointers
@@ -84,6 +87,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	1680.连接连续二进制数字 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Math/1680.concatenation_of_consecutive_binary_numbers.md) | 数学 | Medium |
 |	1922.统计好数字的数目 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Math/1922.count_good_numbers.md) | 数学、快速幂 | Medium |
 |	1980.找出不同的二进制字符串 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Math/1980.find_unique_binary_string.md) | 数学、对角线构造 | Medium |
+|	3315.构造最小位运算数组 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Math/3315.construct_the_minimum_bitwise_array_II.md) | 数学、位运算 | Medium |
 
 ## Trie
 
@@ -102,6 +106,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	315.计算右侧小于当前元素的个数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sorting/0315.count_of_smaller_numbers_after_self.md) | 数组、归并排序 | Hard |
 |	912.排序数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sorting/0912.sort_an_array.md) | 数组、排序、堆排序 | Medium |
 |	2054.两个最好的不重叠活动 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sorting/2054.two_best_Non-Overlapping_events.md) | 数组、排序 | Medium |
+|	2860.让所有学生保持开心的分组方法数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sorting/2860.happy_students.md) | 数组、排序 | Medium |
 
 ## Sliding window
 
@@ -151,6 +156,8 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	2300.咒语和药水的成功对数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/2300.successful_pairs_of_spells_and_potions.md) | 数组、二分查找 | Medium |
 |	2594.修车的最少时间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/2594.minimum_time_to_repair_cars.md) | 数组、二分查找 | Medium |
 |	3296.移山所需的最少秒数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/3296.minimum_number_of_seconds_to_make_mountain_height_zero.md) | 数组、二分查找 | Medium |
+|	3488.距离最小相等元素查询 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/3488.closest_equal_element_queries.md) | 数组、二分查找、哈希表 | Medium |
+|	3733.完成所有送货任务的最少时间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/3733.minimum_time_to_complete_all_deliveries.md) | 数组、二分答案 | Medium |
 
 ## Design
 
@@ -214,6 +221,8 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	1685.有序数组中差绝对值之和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/PrefixSum/1685.sum_of_absolute_differences_in_a_sorted_array.md) | 数组、前缀和 | Medium |
 |	1895.最大的幻方 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/PrefixSum/1895.largest_magic_square.md) | 矩阵、前缀和 | Medium |
 |	2483.商店的最少代价 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/PrefixSum/0560.subarray_sum_equals_K.md) | 字符串、前缀和、贪心 | Medium |
+|	2615.等值距离和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/PrefixSum/2615.sum_of_distances.md) | 数组、前缀和 | Medium |
+|	3026.最大好子数组和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/PrefixSum/3026.maximum_good_subarray_sum.md) | 数组、前缀和 | Medium |
 
 ## Greedy
 
@@ -241,6 +250,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	1877.数组中最大数对和的最小值 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/1877.minimize_maximum_pair_sum_in_array.md) | 数组、贪心、排序 | Medium |
 |	1953.你可以工作的最大周数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/1953.maximum_number_of_weeks_for_which_you_can_work.md) | 数组、贪心 | Medium |
 |	1975.最大方阵和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/1975.maximum_matrix_sum.md) | 矩阵、贪心 | Medium |
+|	2033.获取单值网格的最小操作数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/2033.minimum_operations_to_make_a_Uni-Value_grid.md) | 矩阵、贪心 | Medium |
 |	2333.最小差值平方和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/2333.minimum_sum_of_squared_difference.md) | 数组、贪心 | Medium |
 |	2384.最大回文数字 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/2384.largest_palindromic_number.md) | 字符串、贪心 | Medium |
 |	2410.运动员和训练师的最大匹配数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/2410.maximum_matching_of_players_with_trainers.md) | 数组、贪心、排序、双指针 | Medium |
@@ -250,6 +260,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	3228.将 1 移动到末尾的最大操作次数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/3228.maximum_number_of_operations_to_move_ones_to_the_end.md) | 字符串、贪心 | Medium |
 |	3752.字典序最小和为目标值且绝对值是排列的数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/3752.lexicographically_smallest_negated_permutation_that_sums_to_target.md) | 数组、贪心、双指针 | Medium |
 |	3796.找到带限制序列的最大值 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/3796.find_maximum_value_in_a_constrained_sequence.md) | 数组、贪心 | Medium |
+|	3863.将一个字符串排序的最小操作次数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/3863.minimum_operations_to_sort_a_string.md) | 字符串、贪心 | Medium |
 |	3914.使数组非递减需要的最小累计值 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/3914.minimum_operations_to_make_array_non_decreasing.md) | 数组、贪心、差分 | Medium |
 
 ## Binary Tree
@@ -295,6 +306,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	38.外观数列 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Scan/0038.count_and_say.md) | 数组、扫描、遍历、枚举 | Medium |
 |	57.插入区间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Scan/0057.insert_interval.md) | 数组、扫描 | Medium |
 |	419.棋盘上的战舰 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Scan/0419.battleships_in_a_board.md) | 数组、扫描 | Medium |
+|	3761.镜像对之间最小绝对距离 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Scan/3761.minimum_absolute_distance_between_mirror_pairs.md) | 数组、HashMap、扫描 | Medium |
 |	3872.替换最多一个元素后的最长等差子数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Scan/3872.longest_arithmetic_sequence_after_changing_at_most_one_element.md) | 数组、线性扫描 | Medium |
 
 ## Heap/PQ
@@ -415,6 +427,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	--- |	--- | --- | --- |
 |	5.最长回文子串 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0005.longest_palindromic_substring.md) | 字符串、中心扩展法、Manacher's algorithm | Medium |
 |	24.两两交换链表中的节点 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0024.swap_nodes_in_pairs.md) | 链表、递归、迭代 | Medium |
+|	42.接雨水 | [JS/Python](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0042.trapping_rain_water.md) | 数组、栈、单调栈、双指针 | Hard |
 |	53.最大子数组和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0053.maximum_subarray.md) | 数组、前缀和+贪心、Kadane’s Algorithm | Medium |
 |	62.不同路径 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0062.unique_paths.md) | 矩阵、数学、网格图 DP、组合数学 | Medium |
 |	92.反转链表 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0092.reverse_linked_list_II.md) | 链表、双指针、递归 | Medium |
