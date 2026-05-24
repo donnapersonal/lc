@@ -9,6 +9,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	36.有效的数独 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/0036.valid_sudoku.md) | 数独、哈希 | Medium |
+|	41.缺失的第一个正数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/0041.first_missing_positive.md) | 数组、哈希表 | Hard |
 |	49.字母异位词分组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/0049.group_anagrams.md) | 数组、哈希表 | Medium |
 |	128.最长连续序列 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/0128.longest_consecutive_sequence.md) | 数组、哈希表 | Medium |
 |	187.重复的DNA序列 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/0187.repeated_DNA_sequences.md) | 字符串、哈希表 | Medium |
@@ -165,6 +166,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	--- |	--- | --- | --- |
 |	146.LRU 缓存 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0146.LRU_cache.md) | 设计、数据结构 | Medium |
 |	155.最小栈 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/0155.min_stack.md) | 设计、栈 | Medium |
+|	295.数据流的中位数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Queue_Heap_PQ/0295.find_median_from_data_stream.md) | 设计、数组、优先级队列 | Hard |
 |	348.设计井字棋 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0348.design_Tic-Tac-Toe.md) | 设计、栈 | Medium |
 |	355.设计推特 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0355.design_twitter.md) | 设计 | Medium |
 |	528.按权重随机选择 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0528.random_pick_with_weight.md) | 设计、二分查找、前缀和、随机化 | Medium |
@@ -179,11 +181,15 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	1472.设计浏览器历史记录 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/1472.design_browser_history.md) | 设计、模拟 | Medium |
 |	3408.设计任务管理器 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/3408.design_task_manager.md) | 设计、堆、哈希 | Medium |
 
-## Queue
+## Queue/Heap/PQ
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
-|	239.滑动窗口最大值 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Queue/0239.sliding_window_maximum.md) | 数组、队列、单调队列、优先级队列（堆）| hard |
+|	239.滑动窗口最大值 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Queue_Heap_PQ/0239.sliding_window_maximum.md) | 数组、队列、单调队列、优先级队列（堆）| hard |
+|	373.查找和最小的 K 对数字 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Queue_Heap_PQ/0373.find_K_pairs_with_smallest_sums.md) | 数组、优先级队列（堆）+ 链表双指针 | Medium |
+|	692.前K个高频单词 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Queue_Heap_PQ/0692.top_K_frequent_words.md) | 数组、堆、小根堆 | Medium |
+|	1353.最多可以参加的会议数目 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Queue_Heap_PQ/1353.maximum_number_of_events_that_can_be_attended.md) | 数组、堆、小根堆 | Medium |
+|	1642.可以到达的最远建筑 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Queue_Heap_PQ/1642.furthest_building_you_can_reach.md) | 数组、堆、小根堆 | Medium |
 
 ## Stack
 
@@ -233,6 +239,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	55.跳跃游戏 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0055.jump_game.md) | 数组、动态规划、贪心 | Medium |
 |	56.合并区间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0056.merge_intervals.md) | 数组、贪心、排序 | Medium |
 |	134.加油站 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0134.gas_station.md) | 数组、贪心 | Medium |
+|	135.分发糖果 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0135.candy.md) | 数组、贪心 | Hard |
 |	435.无重叠区间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0435.non-overlapping_intervals.md) | 数组、贪心 + 排序 | Medium |
 |	621.任务调度器 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0621.task_scheduler.md) | 数组、贪心 | Medium |
 |	763.划分字母区间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0763.partition_labels.md) | 字符串、贪心 | Medium |
@@ -280,12 +287,14 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	109.有序链表转换二叉搜索树 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0109.convert_sorted_list_to_binary_search_tree.md) | 二叉树、BFS | Medium |
 |	113.路径总和 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0113.path_sum_II.md) | 二叉树、递归、迭代 | Medium |
 |	114.二叉树展开为链表 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0114.flatten_binary_tree_to_linked_list.md) | 二叉树、递归、迭代 | Medium |
+|	124.二叉树中的最大路径和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0124.binary_tree_maximum_path_sum.md) | 二叉树、深度优先搜索 | Hard |
 |	116.填充每个节点的下一个右侧节点指针 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0116.populating_next_right_pointers_in_each_node.md) | 二叉树、BFS | Medium |
 |	129.求根节点到叶节点数字之和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0129.sum_root_to_leaf_numbers.md) | 二叉树、递归、迭代 | Medium |
 |	173.二叉搜索树迭代器 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0173.binary_search_tree_iterator.md) | 二叉树、递归、迭代 | Medium |
 |	199.二叉树的右视图 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0199.binary_tree_right_side_view.md) | 二叉树、BFS、DFS | Medium |
 |	235.二叉搜索树的最近公共祖先 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0235.lowest_common_ancestor_of_a_binary_search_tree.md) | 二叉树、递归、迭代 | Medium |
 |	236.二叉树的最近公共祖先 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0236.lowest_common_ancestor_of_a_binary_tree.md) | 二叉树、递归、迭代 | Medium |
+|	297.二叉树的序列化与反序列化 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0297.serialize_and_deserialize_binary_tree.md) | 二叉树、DFS、层序遍历 | Hard |
 |	337.打家劫舍 III | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0337.house_robber_III.md) | 动态规划、DFS | Medium |
 |	437.路径总和 III | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0437.path_sum_III.md) | 二叉树、DFS | Medium |
 |	662.二叉树最大宽度 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0662.maximum_width_of_binary_tree.md) | 二叉树、DFS、BFS | Medium |
@@ -309,20 +318,11 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	3761.镜像对之间最小绝对距离 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Scan/3761.minimum_absolute_distance_between_mirror_pairs.md) | 数组、HashMap、扫描 | Medium |
 |	3872.替换最多一个元素后的最长等差子数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Scan/3872.longest_arithmetic_sequence_after_changing_at_most_one_element.md) | 数组、线性扫描 | Medium |
 
-## Heap/PQ
-
-| 题目 | 题解 | 标签 | 难度 |
-|	--- |	--- | --- | --- |
-|	373.查找和最小的 K 对数字 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Heap/0373.find_K_pairs_with_smallest_sums.md) | 数组、优先级队列（堆）+ 链表双指针 | Medium |
-|	692.前K个高频单词 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Heap/0692.top_K_frequent_words.md) | 数组、堆、小根堆 | Medium |
-|	1353.最多可以参加的会议数目 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Heap/1353.maximum_number_of_events_that_can_be_attended.md) | 数组、堆、小根堆 | Medium |
-|	1642.可以到达的最远建筑 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Heap/1642.furthest_building_you_can_reach.md) | 数组、堆、小根堆 | Medium |
-
-
 ## Graph/DFS/BFS/Union-Find
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
+|	127.单词接龙 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/BFS_DFS/0127.word_ladder.md) | 字符串、BFS | Hard |
 |	130.被围绕的区域 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0130.surrounded_regions.md) | BFS、DFS | Medium |
 |	133.克隆图 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0133.clone_graph.md) | BFS、DFS | Medium |
 |	200.岛屿数量 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0200.number_of_islands.md) | DFS | Medium |
@@ -378,6 +378,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	40.组合总和 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Backtracking/0040.combination_sum_II.md) | 组合、回溯 | Medium |
 |	46.全排列 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Backtracking/0046.permutations.md) | 排列、回溯 | Medium |
 |	47.全排列 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Backtracking/0047.permutations_II.md) | 排列、回溯 | Medium |
+|	51.N 皇后 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Backtracking/0051.N-Queens.md) | 棋盘、回溯 | Hard |
 |	78.子集 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Backtracking/0078.subsets.md) | 子集、回溯 | Medium |
 |	79.单词搜索 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Backtracking/0079.word_search.md) | 矩阵、回溯 | Medium |
 |	90.子集 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Backtracking/0090.subsets_II.md) | 子集、回溯 | Medium |
@@ -426,10 +427,13 @@ Solve LeetCode by JS &amp; Java &amp; Python
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	5.最长回文子串 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0005.longest_palindromic_substring.md) | 字符串、中心扩展法、Manacher's algorithm | Medium |
+|	23.合并 K 个升序链表 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0023.merge_k_sorted_lists.md) | 链表、双指针、分治、优先级队列（堆）、归并排序 | Hard |
 |	24.两两交换链表中的节点 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0024.swap_nodes_in_pairs.md) | 链表、递归、迭代 | Medium |
+|	32.最长有效括号 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0032.longest_valid_parentheses.md) | 字符串、栈、动态规划、贪心 | Hard |
 |	42.接雨水 | [JS/Python](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0042.trapping_rain_water.md) | 数组、栈、单调栈、双指针 | Hard |
 |	53.最大子数组和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0053.maximum_subarray.md) | 数组、前缀和+贪心、Kadane’s Algorithm | Medium |
 |	62.不同路径 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0062.unique_paths.md) | 矩阵、数学、网格图 DP、组合数学 | Medium |
+|	84.柱状图中最大的矩形 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0084.largest_rectangle_in_histogram.md) | 双指针、栈、单调栈 | Hard |
 |	92.反转链表 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0092.reverse_linked_list_II.md) | 链表、双指针、递归 | Medium |
 |	122.买卖股票的最佳时机 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0122.best_time_to_buy_and_sell_stock_II.md) | 数组、贪心、DP | Medium |
 |	138.随机链表的复制 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0138.copy_list_with_random_pointer.md) | 链表、哈希、DFS、原地修改 | Medium |
@@ -446,6 +450,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	347.前 K 个高频元素 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0347.top_K_frequent_elements.md) | 数组、哈希表、优先级队列、桶排序 | Medium |
 |	376.摆动序列 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0376.wiggle_subsequence.md) | 数组、贪心、动态规划 | Medium |
 |	395.至少有 K 个重复字符的最长子串 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0395.longest_substring_with_at_least_K_repeating_characters.md) | 字符串、哈希表、分治、滑动窗口 | Medium |
+|	410.分割数组的最大值 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0410.split_array_largest_sum.md) | 数组、贪心、二分查找、DP | Hard |
 |	451.根据字符出现频率排序 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0451.sort_characters_by_frequency.md) | 字符串、优先级队列（二叉堆）、桶排序| Medium |
 |	494.目标和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0494.target_sum.md) | 数组、回溯、动态 | Medium |
 |	547.省份数量 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0547.number_of_provinces.md) | DFS、BFS、Union-Find | Medium |
