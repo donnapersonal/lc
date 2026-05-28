@@ -124,5 +124,253 @@ def sliding_window_template(s: str, t: str) -> str:
 
 这可以使用逆向思维，从两端变成从中间
 
-# 真题示例
+# 规律
 
+题目`在处理“连续子数组 / 连续子字符串”，且窗口可以随着左右指针移动来维护答案`
+
+也就是：
+- right 负责扩大窗口
+- left 负责缩小窗口
+- 窗口中维护当前状态
+- 每次判断当前窗口是否满足条件
+
+## 什么时候想到 Sliding Window？
+
+看到这些关键词，优先想滑动窗口：
+
+| 关键词                              | 含义                                 |
+| -------------------------------- | ---------------------------------- |
+| substring / subarray             | 连续子串 / 连续子数组                       |
+| longest                          | 求最长合法窗口                            |
+| shortest / minimum               | 求最短合法窗口                            |
+| at most K                        | 最多 K 个                             |
+| exactly K                        | 恰好 K 个，常转成 atMost(K) - atMost(K-1) |
+| contains / permutation / anagram | 维护字符频率                             |
+| product / sum less than          | 维护窗口乘积或和                           |
+| replace / flip                   | 允许修改 K 次，本质是窗口内违规数量 ≤ K            |
+
+## 一、最长窗口类
+
+目标通常是：找满足条件的最长连续区间
+
+常见写法：
+
+for right in range(n):
+    加入 nums[right]
+
+    while 窗口不合法:
+        移出 nums[left]
+        left += 1
+
+    更新最长答案
+
+对应题：
+| 题目                                                | 为什么用滑动窗口             |
+| ------------------------------------------------- | -------------------- |
+| 3. Longest Substring Without Repeating Characters | 窗口内不能有重复字符           |
+| 424. Longest Repeating Character Replacement      | 窗口内最多替换 k 个字符        |
+| 1004. Max Consecutive Ones III                    | 窗口内最多有 k 个 0         |
+| 904. Fruit Into Baskets                           | 窗口内最多 2 种水果          |
+| 1838. Frequency of the Most Frequent Element      | 排序后窗口内元素可被增加成同一个数    |
+| 1456. Maximum Number of Vowels                    | 固定长度窗口统计元音数量         |
+| 1438. Longest Continuous Subarray                 | 窗口最大值和最小值差不能超过 limit |
+
+例子：`3. Longest Substring Without Repeating Characters`
+
+要求：最长无重复字符子串
+
+窗口维护：当前窗口里有哪些字符
+
+如果右指针加入字符后重复了，就移动左指针，直到没有重复。
+
+本质：右边扩展，发现重复就左边收缩
+
+例子：`1004. Max Consecutive Ones III`
+
+要求：最多把 k 个 0 翻成 1，最长连续 1
+
+窗口维护：窗口里 0 的数量
+
+只要：`zero_count <= k` 窗口就是合法的
+
+如果 `zero_count > k`，左指针右移
+
+## 二、最短窗口类
+
+目标通常是：找满足条件的最短连续区间
+
+常见写法：
+
+for right in range(n):
+    加入 s[right]
+
+    while 窗口已经满足条件:
+        更新最短答案
+        移出 s[left]
+        left += 1
+
+对应题：
+
+| 题目                                            | 为什么用滑动窗口            |
+| --------------------------------------------- | ------------------- |
+| 76. Minimum Window Substring                  | 找包含 t 所有字符的最短子串     |
+| 209. Minimum Size Subarray Sum                | 找和至少为 target 的最短子数组 |
+| 30. Substring with Concatenation of All Words | 找包含所有 words 的连续拼接窗口 |
+
+例子：`76. Minimum Window Substring`
+
+要求：s 中包含 t 所有字符的最短子串
+
+窗口维护：
+- 每个字符出现次数
+- 当前满足了多少个需要的字符
+- 当窗口已经覆盖 t，就尽量缩小左边
+
+本质：先扩大到合法，再尽量缩小
+
+## 三、固定长度窗口类
+
+这类最简单
+
+特点是：窗口长度固定为 k，右指针每走一步，左边也同步移出
+
+对应题：
+
+| 题目                                 | 为什么用固定窗口          |
+| ---------------------------------- | ----------------- |
+| 1456. Maximum Number of Vowels     | 长度为 k 的子串中最多元音    |
+| 187. Repeated DNA Sequences        | 长度固定为 10 的 DNA 子串 |
+| 438. Find All Anagrams in a String | 窗口长度固定为 len(p)    |
+| 567. Permutation in String         | 窗口长度固定为 len(s1)   |
+
+例子：`438. Find All Anagrams in a String`
+
+要求：找 s 中所有 p 的异位词
+
+异位词长度一定等于 len(p)，所以窗口长度固定
+
+窗口维护：当前窗口字符频率
+
+如果频率和 p 一样，就找到答案
+
+## 四、计数类窗口：At Most / Exactly K
+
+这类题经常问：有多少个子数组满足某条件
+
+对应题：
+| 题目                                                          | 核心                     |
+| ----------------------------------------------------------- | ---------------------- |
+| 992. Subarrays with K Different Integers                    | 恰好 K 种不同整数             |
+| 930. Binary Subarrays With Sum                              | 和恰好等于 goal             |
+| 713. Subarray Product Less Than K                           | 乘积小于 k 的子数组个数          |
+| 395. Longest Substring with At Least K Repeating Characters | 特殊，可以用分治，也可以枚举种类数 + 滑窗 |
+
+关键技巧：`Exactly K 转 At Most K`
+
+很多“恰好 K 个”的题不好直接做
+
+可以转成：`恰好 K 个 = 最多 K 个 - 最多 K - 1 个`
+
+比如：`992. Subarrays with K Different Integers`
+
+要求：恰好有 K 个不同整数的子数组数量
+
+可以变成：`atMost(K) - atMost(K - 1)`
+
+因为：
+- 最多 K 个里面包含：1 种、2 种、...、K 种
+- 最多 K-1 个里面包含：1 种、2 种、...、K-1 种
+
+两者相减，剩下的就是恰好 K 种
+
+`713. Subarray Product Less Than K`
+
+窗口维护：当前窗口乘积 product
+
+如果：`product >= k` 就移动左指针缩小窗口。
+
+每次右指针固定时，以 right 结尾的合法子数组数量是：right - left + 1
+
+因为窗口内任意起点到 right 都合法
+
+## 五、频率统计类窗口
+
+这类题通常处理字符串
+
+关键词：
+- permutation
+- anagram
+- contains
+- frequency
+- character count
+
+对应题：
+
+| 题目                                            | 窗口维护什么   |
+| --------------------------------------------- | -------- |
+| 438. Find All Anagrams in a String            | 字符频率     |
+| 567. Permutation in String                    | 字符频率     |
+| 76. Minimum Window Substring                  | 目标字符覆盖情况 |
+| 424. Longest Repeating Character Replacement  | 窗口内最高频字符 |
+| 30. Substring with Concatenation of All Words | 单词频率     |
+
+## 六、需要额外数据结构的滑窗
+
+有些窗口不仅要维护 sum / count，还要维护最大值、最小值
+
+对应题：
+
+| 题目                                            | 额外结构            |
+| --------------------------------------------- | --------------- |
+| 1438. Longest Continuous Subarray             | 单调队列维护最大值和最小值   |
+| 1838. Frequency of the Most Frequent Element  | 排序 + 前缀思想 / 窗口和 |
+| 30. Substring with Concatenation of All Words | HashMap 统计单词频率  |
+
+`1438 为什么是 Monotonic Queue + Sliding Window？`
+
+要求：窗口内 max - min <= limit
+
+所以每次要快速知道窗口最大值和最小值
+
+普通数组每次找 max/min 太慢
+
+所以用两个单调队列：
+- maxDeque 维护窗口最大值
+- minDeque 维护窗口最小值
+
+一旦：max - min > limit
+
+就移动左指针缩小窗口
+
+## 面试时怎么快速判断？
+
+可以按这个顺序想：
+- Step 1：是不是连续？
+  - 如果题目说：subarray / substring / consecutive -> 优先考虑滑动窗口
+- Step 2：窗口是否合法能不能快速判断？
+  - 比如：
+    - 窗口内 0 的数量 <= k
+    - 窗口内不同元素数量 <= k
+    - 窗口内字符频率覆盖 target
+    - 窗口内 product < k
+    - 窗口内 max - min <= limit
+  - 如果能维护状态，就适合滑窗
+- Step 3：求最长还是最短？
+  - 最长: 不合法时缩小，合法时更新答案
+  - 最短: 合法时更新答案，然后继续缩小
+  - 个数: 每次加 right - left + 1
+  - 固定长度: 长度超过 k 就移动 left
+
+## 最核心记忆
+
+`Sliding Window = 连续区间 + 动态维护状态`
+
+- 最长窗口：不合法就缩小
+- 最短窗口：合法就缩小
+- 固定窗口：长度固定移动
+- 计数窗口：right 固定后统计 left 到 right 的合法数量
+- Exactly K：atMost(K) - atMost(K-1)
+
+面试里可以这样说：
+
+I use sliding window because we are dealing with a contiguous subarray or substring, and the validity of the current range can be updated incrementally when we move the left and right pointers.
