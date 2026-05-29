@@ -133,6 +133,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	1438.绝对差不超过限制的最长连续子数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/1438.longest_continuous_subarray_with_absolute_diff_less_than_or_equal_to_limit.md) | 数组、单调队列、滑动窗口 | Medium |
 |	1461.检查一个字符串是否包含所有长度为 K 的二进制子串 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/1461.check_if_a_string_contains_all_binary_codes_of_size_K.md) | 字符串、滑动窗口、位运算 | Medium |
 | 1456.定长子串中元音的最大数目 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/1456.maximum_number_of_vowels_in_a_substring_of_given_length.md) | 字符串、滑动窗口 | Medium |
+|	1493.删掉一个元素以后全为 1 的最长子数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/1493.longest_subarray_of_1's_after_deleting_one_element.md) | 数组、滑动窗口 | Medium |
 |	1838.最高频元素的频数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/1838.frequency_of_the_most_frequent_element.md) | 数组、排序、滑动窗口 | Medium |
 |	1888.使二进制字符串字符交替的最少反转次数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/1888.minimum_number_of_flips_to_make_the_binary_string_alternating.md) | 字符串、滑动窗口 | Medium |
 |	3634.使数组平衡的最少移除数目 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/3634.minimum_removals_to_balance_array.md) | 数组、排序、滑动窗口 | Medium |
@@ -159,6 +160,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	1488.避免洪水泛滥 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/1488.avoid_flood_in_the_city.md) | 数组、二分查找、贪心 | Medium |
 |	1648.销售价值减少的颜色球 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/1648.sell_diminishing-Valued_colored_balls.md) | 数组、二分查找、贪心 | Medium |
 |	1901.寻找峰值 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/1901.find_a_peak_element_II.md) | 矩阵、二分查找 | Medium |
+|	2035.将数组分成两个数组并最小化数组和的差 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/2035.partition_array_into_two_arrays_to_minimize_sum_difference.md) | 二分查找、排序、折半枚举 | Hard |
 |	2064.分配给商店的最多商品的最小值 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/2064minimized_maximum_of_products_distributed_to_any_store.md) | 数组、二分查找、贪心 | Medium |
 |	2300.咒语和药水的成功对数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/2300.successful_pairs_of_spells_and_potions.md) | 数组、二分查找 | Medium |
 |	2594.修车的最少时间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/2594.minimum_time_to_repair_cars.md) | 数组、二分查找 | Medium |
@@ -410,7 +412,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	216.组合总和 III | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Backtracking/0216.ombination_sum_III.md) | 组合、回溯 | Medium |
 |	1219.黄金矿工 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Backtracking/1219.path_with_maximum_gold.md) | 矩阵、回溯 | Medium |
 
-## DP
+## DP/Memoization
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
@@ -421,38 +423,50 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	91.解码方法 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0091.decode_ways.md) | 字符串、DP | Medium |
 |	97.交错字符串 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0097.interleaving_string.md) | 字符串、DP | Medium |
 |	120.三角形最小路径和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0120.triangle.md) | 数组、DP | Medium |
+|	123.买卖股票的最佳时机 III | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0123.best_time_to_buy_and_sell_stock_III.md) | 数组、DP | Hard |
 |	139.单词拆分 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0139.word_break.md) | DP | Medium |
 |	140.单词拆分 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0140.word_break_II.md) | 字符串、DP、记忆化 | Hard |
 |	152.乘积最大子数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0152.maximum_product_subarray.md) | 数组、DP | Medium |
 |	174.地下城游戏 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0174.dungeon_game.md) | 矩阵、DP | Hard |
+|	188.买卖股票的最佳时机 IV | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0188.best_time_to_buy_and_sell_stock_IV.md) | DP | Hard |
 |	198.打家劫舍 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0198.house_robber.md) | DP | Medium |
 |	213.打家劫舍 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0213.house_robber_II.md) | DP | Medium |
 |	221.最大正方形 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0221.maximal_square.md) | DP | Medium |
+|	241.为运算表达式设计优先级 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0241.different_ways_to_add_parentheses.md) | 记忆化搜索 | Medium |
 |	256.粉刷房子 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0256.paint_house.md) | DP | Medium |
+|	309.买卖股票的最佳时机含冷冻期 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0309.best_time_to_buy_and_sell_stock_with_cooldown.md) | DP | Medium |
 |	312.戳气球 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0312.burst_balloons.md) | 数组、DP | Hard |
 |	354.俄罗斯套娃信封问题 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0354.russian_doll_envelopes.md) | 数组、DP | Hard |
 |	368.最大整除子集 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0368.largest_divisible_subset.md) | DP | Medium |
+|	377.组合总和 Ⅳ | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0377.combination_sum_IV.md) | 数组、动态规划 | Medium |
 |	396.旋转函数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0221.maximal_square.md) | DP | Medium |
 |	413.等差数列划分 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0413.arithmetic_slices.md) | 数组、DP | Medium |
 |	416.分割等和子集 | [JS/Python/Java](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0416.partition_equal_subset_sum.md) | 数组、DP | Medium |
+|	516.最长回文子序列 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0516.longest_palindromic_subsequence.md) | 字符串、动态规划 | Medium |
 |	518.零钱兑换 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0518.coin_change_II.md) | 数组、DP | Medium |
 |	712.两个字符串的最小ASCII删除和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0712.minimum_aSCII_delete_sum_for_two_strings.md) | DP | Medium |
 |	714.买卖股票的最佳时机含手续费 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0714.best_time_to_buy_and_sell_stock_with_transaction_fee.md) | DP | Medium |
 |	740.删除并获得点数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0740.delete_and_earn.md) | 数组、DP | Medium |
 |	790.多米诺和托米诺平铺 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0790.domino_and_tromino_tiling.md) | DP | Medium |
 |	799.香槟塔 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0799.champagne_tower.md) | DP | Medium |
+|	808.分汤 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0808.soup_servings.md) | 概率 DP、记忆化 | Medium |
 |	818.赛车 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0818.race_car.md) | DP | Hard |
 |	975.奇偶跳 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0975.odd_even_jump.md) | DP、排序、单调栈 | Hard |
 |	983.最低票价 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0983.minimum_cost_for_tickets.md) | 数组、DP | Medium |
 |	931.下降路径最小和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0931.minimum_falling_path_sum.md) | 数组、DP | Medium |
 |	1043.分隔数组以得到最大和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/1043.partition_array_for_maximum_sum.md) | 数组、DP | Medium |
+|	1092.最短公共超序列 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/1092.shortest_common_supersequence.md) | 字符串、DP | Hard |
 |	1143.最长公共子序列 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/1143.longest_common_subsequence.md) | DP | Medium |
 |	1277.统计全为 1 的正方形子矩阵 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/1277.count_square_submatrices_with_all_ones.md) | 矩阵、DP | Medium |
 |	1458.两个子序列的最大点积 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/1458.max_dot_product_of_two_subsequences.md) | 数组、DP | Hard |
 |	1594.矩阵的最大非负积 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/1594.%20Maximum%20Non%20Negative%20Product%20in%20a%20Matrix1594.maximum_non_negative_product_in_a_matrix.md) | 矩阵、DP | Medium |
+|	2188.完成比赛的最少时间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/2188.minimum_time_to_finish_the_race.md) | DP | Hard |
+|	3287.求出数组中最大序列值 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/3287.find_the_maximum_sequence_value_of_array.md) | DP | Hard |
+|	3351.好子序列的元素之和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/3351.sum_of_good_subsequences.md) | 数组、DP | Hard |
 |	3418.机器人可以获得的最大金币数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/3418.maximum_amount_of_money_robot_can_earn.md) | 矩阵、DP | Medium |
 |	3434.子数组操作后的最大频率 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/3434.maximum_frequency_after_subarray_operation.md) | DP | Medium |
 |	3573.买卖股票的最佳时机 V | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/3573.best_time_t_buy_and_sell_stock_V.md) | DP | Medium |
+|	3592.硬币面值还原 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/3592.inverse_coin_change.md) | DP | Medium |
 
 ## Multiple Solves
 
@@ -474,6 +488,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	143.重新排序列表 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0143.reorder_list.md) | 链表、栈、双指针 | Medium |
 |	215.数组中的第K个最大元素 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0215.Kth_largest_element_in_an_array.md) | 数组、优先级队列（堆）、快速排序 | Medium |
 |	222.完全二叉树的节点个数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0222.count_complete_tree_nodes.md) | 完全二叉树、递归、分治、二分 | Easy |
+|	233.数字 1 的个数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0233.number_of_digit_one.md) | 数学、数位 DP | Hard |
 |	240.搜索二维矩阵 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0240.search_a_2D_matrix_II.md) | 数组、矩阵、二分查找、双指针 | Medium |
 |	274.H 指数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0274.H-Index.md) | 数组、排序、桶排序、二分查找 | Medium |
 |	279.完全平方数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Multiple%20Solves/0279.perfect_squares.md) | 数学、BFS、DP | Medium |
