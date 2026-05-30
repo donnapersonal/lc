@@ -83,6 +83,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	149.直线上最多的点数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Math/0149.max_points_on_a_line.md) | 数学 + 哈希 | Hard |
 |	204.计数质数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Math/0204.count_primes.md) | 数学 | Medium |
 |	319.灯泡开关 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Math/0319.bulb_switcher.md) | 数学 | Medium |
+|	357.统计各位数字都不同的数字个数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Math/0357.count_numbers_with_unique_digits.md) | 数学、组合数学 | Medium |
 |	371.两整数之和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Math/0371.sum_of_two_integers.md) | 数学、位运算 | Medium |
 |	372.超级次方 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Math/0372.super_pow.md) | 数学、快速幂 | Medium |
 |	390.消除游戏 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Math/0390.elimination_game.md) | 数学 | Medium |
@@ -124,6 +125,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	424.替换后的最长重复字符 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/0424.longest_repeating_character_replacement.md) | 字符串、哈希表、滑动窗口 | Medium |
 |	438.找到字符串中所有字母异位词 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/0438.find_all_anagrams_in_a_string.md) | 字符串、滑动窗口 | Medium |
 |	567.字符串的排列 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/0567.permutation_in_string.md) | 字符串、滑动窗口 | Medium |
+|	689.三个无重叠子数组的最大和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/0689.maximum_sum_of_3_non-Overlapping_subarrays.md) | 数组、滑动窗口 | Hard |
 |	713.乘积小于 K 的子数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/0713.subarray_product_less_than_K.md) | 数组、滑动窗口 | Medium |
 |	904.水果成篮 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/0904.fruit_into_baskets.md) | 数组、滑动窗口 | Medium |
 |	930.和相同的二元子数组 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/0930.binary_subarrays_with_sum.md) | 数组、滑动窗口 | Medium |
@@ -349,6 +351,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	210.课程表 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0210.course_schedule_II.md) | Topological Sort | Medium |
 |	212.单词搜索 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Trie/0212.word_search_II.md) | 矩阵、DFS、Trie | Hard |
 |	269.火星词典 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0269.alien_dictionary.md) | 拓扑排序 | Hard |
+|	351.安卓系统手势解锁 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/BFS_DFS/0351.android_unlock_patterns.md) | DFS、Symmetry | Medium |
 |	385.迷你语法分析器 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/BFS_DFS/0385.mini_parser.md) | 字符串、DFS | Medium |
 |	399.除法求值 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0399.evaluate_division.md) | BFS | Medium |
 |	417.太平洋大西洋水流问题 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/BFS_DFS/0417.pacific_atlantic_water_flow.md) | BFS、DFS | Medium |
@@ -442,6 +445,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	396.旋转函数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0221.maximal_square.md) | DP | Medium |
 |	413.等差数列划分 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0413.arithmetic_slices.md) | 数组、DP | Medium |
 |	416.分割等和子集 | [JS/Python/Java](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0416.partition_equal_subset_sum.md) | 数组、DP | Medium |
+|	486.预测赢家 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0486.predict_the_winner.md) | 数组、DP | Medium |
 |	516.最长回文子序列 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0516.longest_palindromic_subsequence.md) | 字符串、动态规划 | Medium |
 |	518.零钱兑换 II | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0518.coin_change_II.md) | 数组、DP | Medium |
 |	712.两个字符串的最小ASCII删除和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0712.minimum_aSCII_delete_sum_for_two_strings.md) | DP | Medium |
@@ -451,6 +455,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	799.香槟塔 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0799.champagne_tower.md) | DP | Medium |
 |	808.分汤 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0808.soup_servings.md) | 概率 DP、记忆化 | Medium |
 |	818.赛车 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0818.race_car.md) | DP | Hard |
+|	837.新 21 点 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0837.new_21_game.md) | DP | Medium |
 |	975.奇偶跳 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0975.odd_even_jump.md) | DP、排序、单调栈 | Hard |
 |	983.最低票价 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0983.minimum_cost_for_tickets.md) | 数组、DP | Medium |
 |	931.下降路径最小和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0931.minimum_falling_path_sum.md) | 数组、DP | Medium |
