@@ -315,6 +315,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	1975.最大方阵和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/1975.maximum_matrix_sum.md) | 矩阵、贪心 | Medium |
 |	2033.获取单值网格的最小操作数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/2033.minimum_operations_to_make_a_Uni-Value_grid.md) | 矩阵、贪心 | Medium |
 |	2333.最小差值平方和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/2333.minimum_sum_of_squared_difference.md) | 数组、贪心 | Medium |
+|	2344.使数组可以被整除的最少删除次数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/2344.minimum_deletions_to_make_array_divisible.md) | 数学、贪心、排序 | Hard |
 |	2384.最大回文数字 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/2384.largest_palindromic_number.md) | 字符串、贪心 | Medium |
 |	2410.运动员和训练师的最大匹配数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/2410.maximum_matching_of_players_with_trainers.md) | 数组、贪心、排序、双指针 | Medium |
 |	2548.填满背包的最大价格 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/2548.maximum_price_to_fill_a_bag.md) | 数组、贪心 | Medium |
@@ -364,6 +365,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	450.删除二叉搜索树中的节点 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0450.delete_node_in_a_BST.md) | 二叉树、二叉搜索树、递归 | Medium |
 |	543.二叉树的直径 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0543.diameter_of_binary_tree.md) | 二叉树、DFS | Easy |
 |	662.二叉树最大宽度 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0662.maximum_width_of_binary_tree.md) | 二叉树、DFS、BFS | Medium |
+|	669.修剪二叉搜索树 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0669.trim_a_binary_search_tree.md) | 二叉树、递归、迭代 | Medium |
 |	701.二叉搜索树中的插入操作 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0701.insert_into_a_binary_search_tree.md) | 二叉树 | Medium |
 |	863.二叉树中所有距离为 K 的结点 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0863.all_nodes_distance_K_in_binary_tree.md) | 二叉树、BFS、DFS | Medium |
 |	987.二叉树的垂序遍历 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0987.vertical_order_traversal_of_a_binary_tree.md) | 二叉树、DFS | Hard |
@@ -445,6 +447,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	1319.连通网络的操作次数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/1319.number_of_operations_to_make_network_connected.md) | Union-Find | Medium |
 |	1376.通知所有员工所需的时间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/BFS_DFS/1376.time_needed_to_inform_all_employees.md) | DFS | Medium |
 |	1391.检查网格中是否存在有效路径 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/BFS_DFS/1391.check_if_there_is_a_Valid_path_in_a_grid.md) | DFS | Medium |
+|	1489.找到最小生成树里的关键边和伪关键边 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/1489.find_critical_and_pseudo-critical_edges_in_minimum_spanning_tree.md) | Union-Find、Kruskal、最小生成树 | Hard |
 |	1557.可以到达所有点的最少点数目 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/1557.minimum_number_of_vertices_to_reach_all_nodes.md) | Graph、Indegree Zero/Source Nodes | Medium |
 |	1559.二维网格图中探测环 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/1559.detect_cycles_in_2D_grid.md) | DFS | Medium |
 |	1584.连接所有点的最小费用 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/1584.min_cost_to_connect_all_points.md) | Graph、Kruskal、Prim、Union-Find、最小生成树 | Medium |
@@ -541,6 +544,7 @@ Solve LeetCode by JS &amp; Java &amp; Python
 |	1653.使字符串平衡的最少删除次数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/1653.minimum_deletions_to_make_string_balanced.md) | DP | Medium |
 |	2110.股票平滑下跌阶段的数目 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/2110.number_of_smooth_descent_periods_of_a_stock.md) | DP | Medium |
 |	2188.完成比赛的最少时间 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/2188.minimum_time_to_finish_the_race.md) | DP | Hard |
+|	3129.找出所有稳定的二进制数组 I | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/3129.find_all_possible_stable_binary_arrays_I.md) | DP | Medium |
 |	3225.网格图操作后的最大分数 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/3225.maximum_score_from_grid_operations.md) | DP | Hard |
 |	3287.求出数组中最大序列值 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/3287.find_the_maximum_sequence_value_of_array.md) | DP | Hard |
 |	3351.好子序列的元素之和 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/3351.sum_of_good_subsequences.md) | 数组、DP | Hard |
