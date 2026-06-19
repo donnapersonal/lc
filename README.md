@@ -1,7 +1,7 @@
 # LeetCode Practice
 
 # Notes
-[数据结构快速自查](https://github.com/donnapersonal/lc/blob/main/datastructure.md)
+[数据结构快速自查](https://github.com/donnapersonal/lc/blob/main/Notes/datastructure.md)
 
 # Array
 
