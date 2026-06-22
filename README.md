@@ -19,8 +19,14 @@
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
+|	11.Container With Most Water | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0011.containe_with_most_water.md) | Array、Two Pointers | Medium |
+|	15.3Sum | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0015.3Sum.md) | Array、Two Pointers、Sorting | Medium |
 |	26.Remove Duplicates from Sorted Array | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0026.remove_duplicates_from_sorted_array.md) | Array、Two Pointers | Easy |
 |	27.Remove Element | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0027.remove_element.md) | Array、Two Pointers | Easy |
 |	80.Remove Duplicates from Sorted Array II | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0080.emove_duplicates_from_sorted_array_II.md) | Array、Two Pointers | Medium |
 |	88.Merge Sorted Array | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0088.merge_sorted_array.md) | Array、Two Pointers | Easy |
+|	125.验证回文串 | [Python/Java](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0125.valid_palindrome.md) | String、Two Pointers | Easy |
+|	151.Reverse Words in a String | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0151.reverse_words_in_a_string.md) | String、Two Pointers | Medium |
+|	167.Two Sum II - Input Array Is Sorted 2 | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0167.two_sum_II-input_array_is_sorted.md) | Array、Two Pointers | Medium |
 |	189.Rotate Array | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0189.potate_array.md) | Array、Two Pointers | Medium |
+|	392.Is Subsequence | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0392.is_subsequence.md) | String、Two Pointers | Easy |
