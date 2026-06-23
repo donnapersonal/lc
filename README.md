@@ -13,7 +13,8 @@
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
-|	28.Find the Index of the First Occurrence in a String | [Python/Java](https://github.com/donnapersonal/lc/blob/main/String/0028.find_the_index_of_the_first_occurrence_in_a_string.md) | String、滑动窗口、双指针、字符串匹配算法（BF/BM/KMP/RK/Horspool/Sunday）| Easy |
+|	28.Find the Index of the First Occurrence in a String | [Python/Java](https://github.com/donnapersonal/lc/blob/main/String/0028.find_the_index_of_the_first_occurrence_in_a_string.md) | String、Two Pointers、字符串匹配算法（BF/BM/KMP/RK/Horspool/Sunday）| Easy |
+|	58.最后一个单词的长度 | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/String/0058.length_of_last_word.md) | String、Scan | Easy |
 
 # Two Pointers
 
@@ -30,3 +31,16 @@
 |	167.Two Sum II - Input Array Is Sorted 2 | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0167.two_sum_II-input_array_is_sorted.md) | Array、Two Pointers | Medium |
 |	189.Rotate Array | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0189.potate_array.md) | Array、Two Pointers | Medium |
 |	392.Is Subsequence | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0392.is_subsequence.md) | String、Two Pointers | Easy |
+
+## Simulation
+
+| 题目 | 题解 | 标签 | 难度 |
+|	--- |	--- | --- | --- |
+|	6.Zigzag Conversion | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Simulation/0006.zigzag_conversion.md) | String、Simulation | Medium |
+
+## Sliding Window
+
+| 题目 | 题解 | 标签 | 难度 |
+|	--- |	--- | --- | --- |
+|	3.Longest Substring Without Repeating Characters | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/0003.longest_substring_without_repeating_characters.md) | Array、Sliding Window | Medium |
+|	209.Minimum Size Subarray Sum | [JS/Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/0209.minimum_size_subarray_sum.md) | Array、Sliding Window | Medium |
