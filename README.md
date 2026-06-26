@@ -3,15 +3,19 @@
 # Notes
 [数据结构快速自查](https://github.com/donnapersonal/lc/blob/main/Notes/datastructure.md)
 
-# HashMap
+# Hashing
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
-|	169.Majority Element | [Python/Java](https://github.com/donnapersonal/lc/blob/main/HashMap/0169.majority_element.md) | Array、HashMap、Moore's Voting Algorithm | Easy |
-|	205.Isomorphic Strings | [Python/Java](https://github.com/donnapersonal/lc/blob/main/HashMap/0205.isomorphic_strings.md) | String、HashMap | Easy |
-|	242.Valid Anagram | [Python/Java](https://github.com/donnapersonal/lc/blob/main/HashMap/0242.valid_anagram.md) | String、HashMap | Easy |
-|	290.Word Pattern | [Python/Java](https://github.com/donnapersonal/lc/blob/main/HashMap/0205.isomorphic_strings.md) | String、HashMap | Easy |
-|	383.Ransom Note | [Python/Java](https://github.com/donnapersonal/lc/blob/main/HashMap/0383.ransom_note.md) | String、HashMap | Easy |
+|	1.Two Sum | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/0001.two_sum.md) | Array、Hashing | Easy |
+|	49.字母异位词分组 | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/0049.group_anagrams.md) | Array、String、Hashing、Frequency Counting | Medium |
+|	169.Majority Element | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/0169.majority_element.md) | Array、Hashing、Frequency Counting、Moore's Voting Algorithm | Easy |
+|	202.Happy Number | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/0202.happy_number.md) | Math、Hashing、Floyd's Cycle Detection | Easy |
+|	205.Isomorphic Strings | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/0205.isomorphic_strings.md) | String、Hashing、One-to-One Mapping | Easy |
+|	219.Contains Duplicate II | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/0219.contains_duplicate_II.md) | Array、Hashing | Easy |
+|	242.Valid Anagram | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/0242.valid_anagram.md) | String、Hashing、Frequency Counting | Easy |
+|	290.Word Pattern | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/0290.word_pattern.md) | String、Hashing、One-to-One Mapping | Easy |
+|	383.Ransom Note | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/0383.ransom_note.md) | String、Hashing、Frequency Counting | Easy |
 
 # Two Pointers
 
