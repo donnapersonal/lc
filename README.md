@@ -8,7 +8,9 @@
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	1.Two Sum | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/0001.two_sum.md) | Array、Hashing | Easy |
+|	36.Valid Sudoku | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/0036.valid_sudoku.md) | Matrix、Hashing | Medium |
 |	49.字母异位词分组 | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/0049.group_anagrams.md) | Array、String、Hashing、Frequency Counting | Medium |
+|	128.Longest Consecutive Sequence | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/0128.longest_consecutive_sequence.md) | Array、Hashing | Medium |
 |	169.Majority Element | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/0169.majority_element.md) | Array、Hashing、Frequency Counting、Moore's Voting Algorithm | Easy |
 |	202.Happy Number | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/0202.happy_number.md) | Math、Hashing、Floyd's Cycle Detection | Easy |
 |	205.Isomorphic Strings | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/0205.isomorphic_strings.md) | String、Hashing、One-to-One Mapping | Easy |
@@ -54,3 +56,20 @@
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	6.Zigzag Conversion | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Simulation/0006.zigzag_conversion.md) | String、Simulation | Medium |
+|	54.Spiral Matrix | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Simulation/0054.spiral_matrix.md) | Array、Matrix、Simulation | Medium |
+
+## Stack
+
+| 题目 | 题解 | 标签 | 难度 |
+|	--- |	--- | --- | --- |
+|	20.Valid Parentheses | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/0020.valid_parentheses.md) | String、Stack | Easy |
+|	71.Simplify Path | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/0071.simplify_path.md) | String、Stack | Medium |
+|	150.Evaluate Reverse Polish Notation | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/0150.evaluate_reverse_polish_notation.md) | Array、Stack | Medium |
+|	224.Basic Calculator | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/0224.basic_calculator.md) | String、Stack | Hard |
+
+## Design
+
+| 题目 | 题解 | 标签 | 难度 |
+|	--- |	--- | --- | --- |
+|	155.Min Stack | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0155.min_stack.md) | Design、Stack | Medium |
+
