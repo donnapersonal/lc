@@ -49,14 +49,19 @@
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
+|	57.Insert Interval | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Scan/0057.insert_interval.md) | Array、Scan | Medium |
 |	58.Length of Last Word | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Scan/0058.length_of_last_word.md) | String、Scan | Easy |
+|	228.Summary Ranges | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Scan/0228.summary_ranges.md) | Array、Scan | Easy |
 
 ## Simulation
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	6.Zigzag Conversion | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Simulation/0006.zigzag_conversion.md) | String、Simulation | Medium |
+|	48.Rotate Image | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Simulation/0048.rotate_image.md) | Array、Matrix、Simulation | Medium |
 |	54.Spiral Matrix | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Simulation/0054.spiral_matrix.md) | Array、Matrix、Simulation | Medium |
+|	73.Set Matrix Zeroes | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Simulation/0073.set_matrix_zeroes.md) | Array、Matrix、Simulation | Medium |
+|	289.Game of Life | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Simulation/0289.game_of_life.md) | Array、Matrix、Simulation | Medium |
 
 ## Stack
 
@@ -72,4 +77,16 @@
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	155.Min Stack | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0155.min_stack.md) | Design、Stack | Medium |
+
+## Sorting
+
+| 题目 | 题解 | 标签 | 难度 |
+|	--- |	--- | --- | --- |
+|	56.Merge Intervals | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Sorting/0056.merge_intervals.md) | Array、Intervals、Sorting | Medium |
+
+## Greedy
+
+| 题目 | 题解 | 标签 | 难度 |
+|	--- |	--- | --- | --- |
+|	452.Minimum Number of Arrows to Burst Balloons | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0452.minimum_number_of_arrows_to_burst_balloons.md) | Array、Greedy、Sorting | Medium |
 
