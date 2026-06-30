@@ -32,6 +32,7 @@
 |	27.Remove Element | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0027.remove_element.md) | Array、Two Pointers | Easy |
 |	28.Find the Index of the First Occurrence in a String | [Python/Java](https://github.com/donnapersonal/lc/blob/b4a23bfe5ec19db4dbc7037245b02ed2b3edb17b/String/0028.find_the_index_of_the_first_occurrence_in_a_string.md) | String、Two Pointers、字符串匹配算法（BF/BM/KMP/RK/Horspool/Sunday）| Easy |
 |	80.Remove Duplicates from Sorted Array II | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0080.emove_duplicates_from_sorted_array_II.md) | Array、Two Pointers | Medium |
+|	86.Partition List | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0086.partition_list.md) | Linked List、Two Pointers | Medium |
 |	88.Merge Sorted Array | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0088.merge_sorted_array.md) | Array、Two Pointers | Easy |
 |	92.Reverse Linked List II | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0092.reverse_linked_list_II.md) | Linked List、Iteration、Two Pointers | Medium |
 |	125.Valid Palindrome | [Python/Java](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0125.valid_palindrome.md) | String、Two Pointers | Easy |
@@ -83,6 +84,7 @@
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
+|	146.LRU Cache | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0146.LRU_cache.md) | Design、Data Structure、Linked List、Hashing | Medium |
 |	155.Min Stack | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0155.min_stack.md) | Design、Stack | Medium |
 
 ## Sorting
@@ -90,6 +92,7 @@
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	56.Merge Intervals | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Sorting/0056.merge_intervals.md) | Array、Intervals、Sorting | Medium |
+|	215.Kth Largest Element in an Array | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Sorting/0215.Kth_largest_element_in_an_array.md) | Array、PQ、QuickSort、QuickSelect | Medium |
 
 ## Greedy
 
@@ -97,3 +100,15 @@
 |	--- |	--- | --- | --- |
 |	452.Minimum Number of Arrows to Burst Balloons | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0452.minimum_number_of_arrows_to_burst_balloons.md) | Array、Greedy、Sorting | Medium |
 
+## Recursion / Iteration
+
+| 题目 | 题解 | 标签 | 难度 |
+|	--- |	--- | --- | --- |
+|	25.Reverse Nodes in k-Group | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Recursion_Iteration/0025.reverse_nodes_in_k-Group.md) | Linked List、Recursion、Iteration | Hard |
+
+## Binary Tree
+
+| 题目 | 题解 | 标签 | 难度 |
+|	--- |	--- | --- | --- |
+|	100.Same Tree | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0100.same_tree.md) | Binary Tree、Recursion | Easy |
+|	104.Maximum Depth of Binary Tree | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0104.maximum_depth_of_binary_tree.md) | Binary Tree、Iteration、Recursion | Easy |
