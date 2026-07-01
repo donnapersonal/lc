@@ -111,4 +111,14 @@
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	100.Same Tree | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0100.same_tree.md) | Binary Tree、Recursion | Easy |
+|	101.Symmetric Tree | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0101.symmetric_tree.md) | Binary Tree、Iteration、DFS | Easy |
 |	104.Maximum Depth of Binary Tree | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0104.maximum_depth_of_binary_tree.md) | Binary Tree、Iteration、Recursion | Easy |
+|	105.Construct Binary Tree from Preorder and Inorder Traversal | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0105.construct_binary_tree_from_preorder_and_inorder_traversal.md) | Binary Tree、Recursion | Medium |
+|	106.Construct Binary Tree from Inorder and Postorder Traversal | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0106.construct_binary_tree_from_inorder_and_postorder_traversal.md) | Binary Tree、Iteration、Recursion | Medium |
+|	112.Path Sum | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0112.path_sum.md) | Binary Tree、Iteration、Recursion | Easy |
+|	114.Flatten Binary Tree to Linked List | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0114.flatten_binary_tree_to_linked_list.md) | Binary Tree、Iteration、Recursion | Medium |
+|	117.Populating Next Right Pointers in Each Node II | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0117.populating_next_right_pointers_in_each_node_II.md) | Binary Tree、Iteration、Recursion | Medium |
+|	124.Binary Tree Maximum Path Sum | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0124.binary_tree_maximum_path_sum.md) | Binary Tree、DFS | Hard |
+|	129.Sum Root to Leaf Numbers | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0129.sum_root_to_leaf_numbers.md) | Binary Tree、Iteration、Recursion | Medium |
+|	173.Binary Search Tree Iterator | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0173.binary_search_tree_iterator.md) | Binary Tree、Iteration、Recursion | Medium |
+|	226.Invert Binary Tree | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0226.invert_binary_tree.md) | Binary Tree、BFS、DFS | Easy |
