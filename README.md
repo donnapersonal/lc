@@ -110,6 +110,7 @@
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
+|	98.Validate Binary Search Tree | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0098.validate_binary_search_tree.md) | Binary Tree、Iteration、Recursion | Medium |
 |	100.Same Tree | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0100.same_tree.md) | Binary Tree、Recursion | Easy |
 |	101.Symmetric Tree | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0101.symmetric_tree.md) | Binary Tree、Iteration、DFS | Easy |
 |	102.Binary Tree Level Order Traversal | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0102.binary_tree_level_order_traversal.md) | Binary Tree、BFS | Medium |
@@ -126,6 +127,15 @@
 |	199.Binary Tree Right Side View | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0199.binary_tree_right_side_view.md) | Binary Tree、BFS、DFS | Medium |
 |	222.Count Complete Tree Nodes | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0222.count_complete_tree_nodes.md) | Binary Tree、Iteration、Divide & Conquer、Binary Search | Easy |
 |	226.Invert Binary Tree | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0226.invert_binary_tree.md) | Binary Tree、BFS、DFS | Easy |
+|	230.Kth Smallest Element in a BST | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0230.Kth_smallest_element_in_a_BST.md) | Binary Tree、Iteration、Recursion | Medium |
 |	236.Lowest Common Ancestor of a Binary Tree | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0236.lowest_common_ancestor_of_a_binary_tree.md) | Binary Tree、Iteration、Recursion | Medium |
 |	530.Minimum Absolute Difference in BST | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0530.minimum_absolute_difference_in_BST.md) | Binary Tree、Recursion、Iteration | Easy |
 |	637.Average of Levels in Binary Tree | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0637.average_of_levels_in_binary_tree.md) | Binary Tree、DFS、BFS | Easy |
+
+## Graph/Grid
+
+| 题目 | 题解 | 标签 | 难度 |
+|	--- |	--- | --- | --- |
+|	130.Surrounded Regions | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0130.surrounded_regions.md) | Matrix、Graph、BFS、DFS | Medium |
+|	133.Clone Graph | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0133.clone_graph.md) | Graph、BFS、DFS | Medium |
+|	200.Number of Islands | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0200.number_of_islands.md) | Matrix、Graph、DFS | Medium |
