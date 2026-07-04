@@ -86,6 +86,8 @@
 |	--- |	--- | --- | --- |
 |	146.LRU Cache | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0146.LRU_cache.md) | Design、Data Structure、Linked List、Hashing | Medium |
 |	155.Min Stack | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0155.min_stack.md) | Design、Stack | Medium |
+|	208.Implement Trie (Prefix Tree) | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0208.implement_trie(prefix_tree).md) | Design、Trie、Hashing、String | Medium |
+|	211.Design Add and Search Words Data Structure | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0211.design_add_and_search_words_data_structure.md) | Design、Trie、String、DFS | Medium |
 
 ## Sorting
 
@@ -105,6 +107,12 @@
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	25.Reverse Nodes in k-Group | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Recursion_Iteration/0025.reverse_nodes_in_k-Group.md) | Linked List、Recursion、Iteration | Hard |
+
+## Trie
+
+| 题目 | 题解 | 标签 | 难度 |
+|	--- |	--- | --- | --- |
+|	212.Word Search II | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Trie/0212.word_search_II.md) | Matrix、DFS、Trie | Hard |
 
 ## Binary Tree
 
@@ -132,10 +140,16 @@
 |	530.Minimum Absolute Difference in BST | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0530.minimum_absolute_difference_in_BST.md) | Binary Tree、Recursion、Iteration | Easy |
 |	637.Average of Levels in Binary Tree | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0637.average_of_levels_in_binary_tree.md) | Binary Tree、DFS、BFS | Easy |
 
-## Graph/Grid
+## Graph/Grid/BFS/DFS
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	130.Surrounded Regions | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0130.surrounded_regions.md) | Matrix、Graph、BFS、DFS | Medium |
 |	133.Clone Graph | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0133.clone_graph.md) | Graph、BFS、DFS | Medium |
+|	127.Word Ladder | [Python/Java](https://github.com/donnapersonal/lc/blob/main/BFS_DFS/0127.word_ladder.md) | String、BFS | Hard |
 |	200.Number of Islands | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0200.number_of_islands.md) | Matrix、Graph、DFS | Medium |
+|	207.Course Schedule | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0207.course_schedule.md) | Graph、Topological Sort | Medium |
+|	210.Course Schedule II | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0210.course_schedule_II.md) | Graph、Topological Sort | Medium |
+|	399.Evaluate Division | [Python/Java](https://github.com/donnapersonal/lc/blob/main/BFS_DFS/0399.evaluate_division.md) | Array、String、BFS | Medium |
+|	433.Minimum Genetic Mutation | [Python/Java](https://github.com/donnapersonal/lc/blob/main/BFS_DFS/0433.minimum_genetic_mutation.md) | String、BFS | Medium |
+|	909.Snakes and Ladders | [Python/Java](https://github.com/donnapersonal/lc/blob/main/BFS_DFS/0909.snakes_and_ladders.md) | Matrix、BFS | Medium |
