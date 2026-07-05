@@ -94,6 +94,7 @@
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	56.Merge Intervals | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Sorting/0056.merge_intervals.md) | Array、Intervals、Sorting | Medium |
+|	148.Sort List | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Sorting/0148.sort_list.md) | Linked List、Sorting、Merge Sort | Medium |
 |	215.Kth Largest Element in an Array | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Sorting/0215.Kth_largest_element_in_an_array.md) | Array、PQ、QuickSort、QuickSelect | Medium |
 
 ## Greedy
@@ -114,7 +115,7 @@
 |	--- |	--- | --- | --- |
 |	212.Word Search II | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Trie/0212.word_search_II.md) | Matrix、DFS、Trie | Hard |
 
-## Binary Tree
+## Binary Tree / Tree
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
@@ -126,6 +127,7 @@
 |	104.Maximum Depth of Binary Tree | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0104.maximum_depth_of_binary_tree.md) | Binary Tree、Iteration、Recursion | Easy |
 |	105.Construct Binary Tree from Preorder and Inorder Traversal | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0105.construct_binary_tree_from_preorder_and_inorder_traversal.md) | Binary Tree、Recursion | Medium |
 |	106.Construct Binary Tree from Inorder and Postorder Traversal | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0106.construct_binary_tree_from_inorder_and_postorder_traversal.md) | Binary Tree、Iteration、Recursion | Medium |
+|	108.Convert Sorted Array to Binary Search Tree | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0108.convert_sorted_array_to_binary_search_tree.md) | Binary Tree、Iteration、Recursion、Divide & Conquer | Easy |
 |	112.Path Sum | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0112.path_sum.md) | Binary Tree、Iteration、Recursion | Easy |
 |	114.Flatten Binary Tree to Linked List | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0114.flatten_binary_tree_to_linked_list.md) | Binary Tree、Iteration、Recursion | Medium |
 |	117.Populating Next Right Pointers in Each Node II | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0117.populating_next_right_pointers_in_each_node_II.md) | Binary Tree、Iteration、Recursion | Medium |
@@ -137,6 +139,7 @@
 |	226.Invert Binary Tree | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0226.invert_binary_tree.md) | Binary Tree、BFS、DFS | Easy |
 |	230.Kth Smallest Element in a BST | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0230.Kth_smallest_element_in_a_BST.md) | Binary Tree、Iteration、Recursion | Medium |
 |	236.Lowest Common Ancestor of a Binary Tree | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0236.lowest_common_ancestor_of_a_binary_tree.md) | Binary Tree、Iteration、Recursion | Medium |
+|	427.Construct Quad Tree | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0427.construc_quad_tree.md) | Tree、Recursion、Divide & Conquer | Medium |
 |	530.Minimum Absolute Difference in BST | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0530.minimum_absolute_difference_in_BST.md) | Binary Tree、Recursion、Iteration | Easy |
 |	637.Average of Levels in Binary Tree | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0637.average_of_levels_in_binary_tree.md) | Binary Tree、DFS、BFS | Easy |
 
@@ -153,3 +156,15 @@
 |	399.Evaluate Division | [Python/Java](https://github.com/donnapersonal/lc/blob/main/BFS_DFS/0399.evaluate_division.md) | Array、String、BFS | Medium |
 |	433.Minimum Genetic Mutation | [Python/Java](https://github.com/donnapersonal/lc/blob/main/BFS_DFS/0433.minimum_genetic_mutation.md) | String、BFS | Medium |
 |	909.Snakes and Ladders | [Python/Java](https://github.com/donnapersonal/lc/blob/main/BFS_DFS/0909.snakes_and_ladders.md) | Matrix、BFS | Medium |
+
+## Backtracking
+
+| 题目 | 题解 | 标签 | 难度 |
+|	--- |	--- | --- | --- |
+|	17.Letter Combinations of a Phone Number | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Backtracking/0017.letter_combinations_of_a_phone_number.md) | String、Backtracking | Medium |
+|	22.Generate Parentheses | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Backtracking/0022.generate_parentheses.md) | Combinations、Backtracking | Medium |
+|	39.Combination Sum | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Backtracking/0039.combination_sum.md) | Combinations、Backtracking | Medium |
+|	46.Permutations | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Backtracking/0046.permutations.md) | Permutations、Backtracking | Medium |
+|	52.N-Queens II | [JS/Python](https://github.com/donnapersonal/lc/blob/main/Backtracking/0052.N-Queens_II.md) | Backtracking | Hard |
+|	77.Combinations | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Backtracking/0077.combinations.md) | Combinations、Backtracking | Medium |
+|	79.Word Search | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Backtracking/0079.word_search.md) | Matrix、Backtracking | Medium |
