@@ -80,6 +80,16 @@
 |	150.Evaluate Reverse Polish Notation | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/0150.evaluate_reverse_polish_notation.md) | Array、Stack | Medium |
 |	224.Basic Calculator | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/0224.basic_calculator.md) | String、Stack | Hard |
 
+## Binary Search
+
+| 题目 | 题解 | 标签 | 难度 |
+|	--- |	--- | --- | --- |
+|	33.Search in Rotated Sorted Array | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/0033.search_in_rotated_sorted_array.md) | Array、Binary Search | Medium |
+|	34.Find First and Last Position of Element in Sorted Array | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/0034.find_first_and_last_position_of_element_in_sorted_array.md) | Array、Binary Search | Medium |
+|	35.Search Insert Position | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/0035.search_insert_position.md) | Array、Binary Search | Easy |
+|	74.Search a 2D Matrix | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/0074.search_a_2D_matrix.md) | Matrix、Binary Search | Medium |
+|	162.Find Peak Element | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/0162.find_peak_element.md) | Array、Binary Search | Medium |
+
 ## Design
 
 | 题目 | 题解 | 标签 | 难度 |
@@ -93,6 +103,7 @@
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
+|	23.Merge k Sorted Lists | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Sorting/0023.merge_k_sorted_lists.md) | Linked List、Divide & Conquer、Heap、Merge Sort | Hard |
 |	56.Merge Intervals | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Sorting/0056.merge_intervals.md) | Array、Intervals、Sorting | Medium |
 |	148.Sort List | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Sorting/0148.sort_list.md) | Linked List、Sorting、Merge Sort | Medium |
 |	215.Kth Largest Element in an Array | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Sorting/0215.Kth_largest_element_in_an_array.md) | Array、PQ、QuickSort、QuickSelect | Medium |
@@ -168,3 +179,10 @@
 |	52.N-Queens II | [JS/Python](https://github.com/donnapersonal/lc/blob/main/Backtracking/0052.N-Queens_II.md) | Backtracking | Hard |
 |	77.Combinations | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Backtracking/0077.combinations.md) | Combinations、Backtracking | Medium |
 |	79.Word Search | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Backtracking/0079.word_search.md) | Matrix、Backtracking | Medium |
+
+## DP
+
+| 题目 | 题解 | 标签 | 难度 |
+|	--- |	--- | --- | --- |
+|	53.Maximum Subarray | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0053.maximum_subarray.md) | Array、Prefix Sum、Greedy、Kadane’s Algorithm | Medium |
+|	918.Maximum Sum Circular Subarray | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0918.maximum_sum_circular_subarray.md) | Array、Circular、Prefix Sum + Monotonic Queue、Kadane’s Algorithm | Medium |
