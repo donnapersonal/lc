@@ -142,9 +142,11 @@
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	67.Add Binary | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Math_Bit/0067.add_binary.md) | String、Bit Manipulation、Math、Simulation | Easy |
+|	136.Single Number | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Math_Bit/0136.single_number.md) | Array、Bit Manipulation  | Easy |
 |	137.Single Number II | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Math_Bit/0137.single_number_II.md) | Array、Bit Manipulation | Medium |
 |	190.Reverse Bits | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Math_Bit/0190.reverse_bits.md) | Bit Manipulation | Easy |
 |	191.Number of 1 Bits | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Math_Bit/0191.number_of_1_bits.md) | Bit Manipulation | Easy |
+|	201.Bitwise AND of Numbers Range | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Math_Bit/0201.bitwise_AND_of_numbers_range.md) | Bit Manipulation | Medium |
 
 ## Binary Tree / Tree
 
