@@ -84,10 +84,12 @@
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
+|	4.Median of Two Sorted Arrays | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/0004.median_of_two_sorted_arrays.md) | Array、Binary Search | Hard |
 |	33.Search in Rotated Sorted Array | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/0033.search_in_rotated_sorted_array.md) | Array、Binary Search | Medium |
 |	34.Find First and Last Position of Element in Sorted Array | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/0034.find_first_and_last_position_of_element_in_sorted_array.md) | Array、Binary Search | Medium |
 |	35.Search Insert Position | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/0035.search_insert_position.md) | Array、Binary Search | Easy |
 |	74.Search a 2D Matrix | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/0074.search_a_2D_matrix.md) | Matrix、Binary Search | Medium |
+|	153.Find Minimum in Rotated Sorted Array | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/0153.find_minimum_in_rotated_sorted_array.md) | Array、Binary Search | Medium |
 |	162.Find Peak Element | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/0162.find_peak_element.md) | Array、Binary Search | Medium |
 
 ## Design
@@ -98,6 +100,7 @@
 |	155.Min Stack | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0155.min_stack.md) | Design、Stack | Medium |
 |	208.Implement Trie (Prefix Tree) | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0208.implement_trie(prefix_tree).md) | Design、Trie、Hashing、String | Medium |
 |	211.Design Add and Search Words Data Structure | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0211.design_add_and_search_words_data_structure.md) | Design、Trie、String、DFS | Medium |
+|	295.Find Median from Data Stream | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Queue_Heap_PQ/0295.find_median_from_data_stream.md) | Design、Heap | Hard |
 
 ## Sorting
 
@@ -125,6 +128,23 @@
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	212.Word Search II | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Trie/0212.word_search_II.md) | Matrix、DFS、Trie | Hard |
+
+## Queue / Heap / PQ
+
+| 题目 | 题解 | 标签 | 难度 |
+|	--- |	--- | --- | --- |
+|	373.Find K Pairs with Smallest Sums | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Queue_Heap_PQ/0373.find_K_pairs_with_smallest_sums.md) | Array、Heap、PQ | Medium |
+|	502.IPO | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Queue_Heap_PQ/0502.IPO.md) | Array、Heap、PQ | Hard |
+
+
+## Math / Bit Manipulation
+
+| 题目 | 题解 | 标签 | 难度 |
+|	--- |	--- | --- | --- |
+|	67.Add Binary | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Math_Bit/0067.add_binary.md) | String、Bit Manipulation、Math、Simulation | Easy |
+|	137.Single Number II | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Math_Bit/0137.single_number_II.md) | Array、Bit Manipulation | Medium |
+|	190.Reverse Bits | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Math_Bit/0190.reverse_bits.md) | Bit Manipulation | Easy |
+|	191.Number of 1 Bits | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Math_Bit/0191.number_of_1_bits.md) | Bit Manipulation | Easy |
 
 ## Binary Tree / Tree
 
