@@ -24,6 +24,7 @@
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
+|	5.Longest Palindromic Substring | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0005.longest_palindromic_substring.md) | String、Expand Around Center、Manacher's algorithm | Medium |
 |	11.Container With Most Water | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0011.containe_with_most_water.md) | Array、Two Pointers | Medium |
 |	15.3Sum | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0015.3Sum.md) | Array、Two Pointers、Sorting | Medium |
 |	19.Remove Nth Node From End of List | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0019.remove_Nth_node_from_end_of_list.md) | Linked List、Two Pointers | Medium |
@@ -55,6 +56,8 @@
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
+|	13.Roman to Integer | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Scan/0013.roman_to_integer.md) | Array、Scan | Easy |
+|	14.Longest Common Prefix | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Scan/0014.longest_common_prefix.md) | Array、Scan | Easy |
 |	57.Insert Interval | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Scan/0057.insert_interval.md) | Array、Scan | Medium |
 |	58.Length of Last Word | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Scan/0058.length_of_last_word.md) | String、Scan | Easy |
 |	82.Remove Duplicates from Sorted List II | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Scan/0082.remove_duplicates_from_sorted_list_II.md) | Linked List、Scan | Medium |
@@ -68,6 +71,7 @@
 |	6.Zigzag Conversion | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Simulation/0006.zigzag_conversion.md) | String、Simulation | Medium |
 |	48.Rotate Image | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Simulation/0048.rotate_image.md) | Array、Matrix、Simulation | Medium |
 |	54.Spiral Matrix | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Simulation/0054.spiral_matrix.md) | Array、Matrix、Simulation | Medium |
+|	68.Text Justification | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Simulation/0068.text_justification.md) | Array、String、Simulation | Hard |
 |	73.Set Matrix Zeroes | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Simulation/0073.set_matrix_zeroes.md) | Array、Matrix、Simulation | Medium |
 |	289.Game of Life | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Simulation/0289.game_of_life.md) | Array、Matrix、Simulation | Medium |
 
@@ -88,9 +92,11 @@
 |	33.Search in Rotated Sorted Array | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/0033.search_in_rotated_sorted_array.md) | Array、Binary Search | Medium |
 |	34.Find First and Last Position of Element in Sorted Array | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/0034.find_first_and_last_position_of_element_in_sorted_array.md) | Array、Binary Search | Medium |
 |	35.Search Insert Position | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/0035.search_insert_position.md) | Array、Binary Search | Easy |
+|	69.Sqrt(x) | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/0069.sqrt(x).md) | Math、Binary Search | Easy |
 |	74.Search a 2D Matrix | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/0074.search_a_2D_matrix.md) | Matrix、Binary Search | Medium |
 |	153.Find Minimum in Rotated Sorted Array | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/0153.find_minimum_in_rotated_sorted_array.md) | Array、Binary Search | Medium |
 |	162.Find Peak Element | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/0162.find_peak_element.md) | Array、Binary Search | Medium |
+|	300.Longest Increasing Subsequence | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/0300.longest_increasing_subsequence.md) | Array、Binary Search、Greedy、DP | Medium |
 
 ## Design
 
@@ -101,6 +107,7 @@
 |	208.Implement Trie (Prefix Tree) | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0208.implement_trie(prefix_tree).md) | Design、Trie、Hashing、String | Medium |
 |	211.Design Add and Search Words Data Structure | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0211.design_add_and_search_words_data_structure.md) | Design、Trie、String、DFS | Medium |
 |	295.Find Median from Data Stream | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Queue_Heap_PQ/0295.find_median_from_data_stream.md) | Design、Heap | Hard |
+|	380.Insert Delete GetRandom O(1) | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0380.insert_delete_getRandom_O(1).md) | Design、Hashing | Medium |
 
 ## Sorting
 
@@ -110,11 +117,17 @@
 |	56.Merge Intervals | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Sorting/0056.merge_intervals.md) | Array、Intervals、Sorting | Medium |
 |	148.Sort List | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Sorting/0148.sort_list.md) | Linked List、Sorting、Merge Sort | Medium |
 |	215.Kth Largest Element in an Array | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Sorting/0215.Kth_largest_element_in_an_array.md) | Array、PQ、QuickSort、QuickSelect | Medium |
+|	274.H-Index | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Sorting/0274.H-Index.md) | Array、Sorting、Bucket Sort、Binary Search | Medium |
 
 ## Greedy
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
+|	12.Integer to Roman | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0012.integer_to_roman.md) | String、Greedy | Medium |
+|	45.Jump Game II | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0045.jump_game_II.md) | Array、Greedy | Medium |
+|	55.Jump Game | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0055.jump_game.md) | Array、Greedy、DP | Medium |
+|	122.Best Time to Buy and Sell Stock II | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0122.best_time_to_buy_and_sell_stock_II.md) | Array、Greedy、DP | Medium |
+|	135.Candy | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0135.candy.md) | Array、Greedy | Hard |
 |	452.Minimum Number of Arrows to Burst Balloons | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0452.minimum_number_of_arrows_to_burst_balloons.md) | Array、Greedy、Sorting | Medium |
 
 ## Recursion / Iteration
@@ -129,6 +142,12 @@
 |	--- |	--- | --- | --- |
 |	212.Word Search II | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Trie/0212.word_search_II.md) | Matrix、DFS、Trie | Hard |
 
+## Prefix Sum
+
+| 题目 | 题解 | 标签 | 难度 |
+|	--- |	--- | --- | --- |
+|	238.Product of Array Except Self | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Predix%20Sum/0238.product_of_array_except_self.md) | Array、Prefix Sum | Medium |
+
 ## Queue / Heap / PQ
 
 | 题目 | 题解 | 标签 | 难度 |
@@ -136,14 +155,18 @@
 |	373.Find K Pairs with Smallest Sums | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Queue_Heap_PQ/0373.find_K_pairs_with_smallest_sums.md) | Array、Heap、PQ | Medium |
 |	502.IPO | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Queue_Heap_PQ/0502.IPO.md) | Array、Heap、PQ | Hard |
 
-
 ## Math / Bit Manipulation
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
+|	9.Palindrome Number | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Math_Bit/0009.palindrome_number.md) | Math | Easy |
+|	50.Pow(x, n) | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Math_Bit/0050.pow(x,n).md) | Math、Fast Exponentiation (快速幂) | Medium |
+|	66.Plus One | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Math_Bit/0066.plus_one.md) | Math | Easy |
 |	67.Add Binary | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Math_Bit/0067.add_binary.md) | String、Bit Manipulation、Math、Simulation | Easy |
 |	136.Single Number | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Math_Bit/0136.single_number.md) | Array、Bit Manipulation  | Easy |
 |	137.Single Number II | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Math_Bit/0137.single_number_II.md) | Array、Bit Manipulation | Medium |
+|	149.Max Points on a Line | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Math_Bit/0149.max_points_on_a_line.md) | Math、Hashing | Hard |
+|	172.Factorial Trailing Zeroes | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Math_Bit/0172.factorial_trailing_zeroes.md) | Math | Medium |
 |	190.Reverse Bits | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Math_Bit/0190.reverse_bits.md) | Bit Manipulation | Easy |
 |	191.Number of 1 Bits | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Math_Bit/0191.number_of_1_bits.md) | Bit Manipulation | Easy |
 |	201.Bitwise AND of Numbers Range | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Math_Bit/0201.bitwise_AND_of_numbers_range.md) | Bit Manipulation | Medium |
@@ -207,4 +230,17 @@
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	53.Maximum Subarray | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0053.maximum_subarray.md) | Array、Prefix Sum、Greedy、Kadane’s Algorithm | Medium |
+|	63.Unique Paths II | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0063.unique_paths_II.md) | Matrix、DP | Medium |
+|	64.Minimum Path Sum | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0064.minimum_path_sum.md) | Matrix、DP | Medium |
+|	70.Climbing Stairs | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0070.climbing_stairs.md) | Math、DP | Easy |
+|	72.Edit Distance | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0072.edit_distance.md) | String、DP | Medium |
+|	97.Interleaving String | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0097.interleaving_string.md) | String、DP | Medium |
+|	120.Triangle | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0120.triangle.md) | Array、DP | Medium |
+|	121.Best Time to Buy and Sell Stock | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0121.best_time_to_buy_and_sell_stock.md) | Array、Recursion、DP | Easy |
+|	123.Best Time to Buy and Sell Stock III | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0123.best_time_to_buy_and_sell_stock_III.md) | Array、DP | Hard |
+|	139.Word Break | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0139.word_break.md) | Array、String、DP | Medium |
+|	188.Best Time to Buy and Sell Stock IV | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0188.best_time_to_buy_and_sell_stock_IV.md) | Array、DP | Hard |
+|	198.House Robber | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0198.house_robber.md) | Array、DP | Medium |
+|	221.Maximal Square | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0221.maximal_square.md) | Matrix、DP | Medium |
+|	322.Coin Change | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0322.coin_change.md) | Array、DP、BFS | Medium |
 |	918.Maximum Sum Circular Subarray | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0918.maximum_sum_circular_subarray.md) | Array、Circular、Prefix Sum + Monotonic Queue、Kadane’s Algorithm | Medium |
