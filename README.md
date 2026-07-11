@@ -126,6 +126,7 @@
 |	12.Integer to Roman | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0012.integer_to_roman.md) | String、Greedy | Medium |
 |	45.Jump Game II | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0045.jump_game_II.md) | Array、Greedy | Medium |
 |	55.Jump Game | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0055.jump_game.md) | Array、Greedy、DP | Medium |
+|	121.Best Time to Buy and Sell Stock | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0121.best_time_to_buy_and_sell_stock.md) | Array、Greedy、DP | Easy |
 |	122.Best Time to Buy and Sell Stock II | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0122.best_time_to_buy_and_sell_stock_II.md) | Array、Greedy、DP | Medium |
 |	135.Candy | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0135.candy.md) | Array、Greedy | Hard |
 |	452.Minimum Number of Arrows to Burst Balloons | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0452.minimum_number_of_arrows_to_burst_balloons.md) | Array、Greedy、Sorting | Medium |
@@ -236,7 +237,6 @@
 |	72.Edit Distance | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0072.edit_distance.md) | String、DP | Medium |
 |	97.Interleaving String | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0097.interleaving_string.md) | String、DP | Medium |
 |	120.Triangle | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0120.triangle.md) | Array、DP | Medium |
-|	121.Best Time to Buy and Sell Stock | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0121.best_time_to_buy_and_sell_stock.md) | Array、Recursion、DP | Easy |
 |	123.Best Time to Buy and Sell Stock III | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0123.best_time_to_buy_and_sell_stock_III.md) | Array、DP | Hard |
 |	139.Word Break | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0139.word_break.md) | Array、String、DP | Medium |
 |	188.Best Time to Buy and Sell Stock IV | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0188.best_time_to_buy_and_sell_stock_IV.md) | Array、DP | Hard |
