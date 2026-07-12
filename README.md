@@ -57,8 +57,8 @@
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
-|	13.Roman to Integer | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Scan/0013.roman_to_integer.md) | Array、Scan | Easy |
-|	14.Longest Common Prefix | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Scan/0014.longest_common_prefix.md) | Array、Scan | Easy |
+|	13.Roman to Integer | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Scan/0013.roman_to_integer.md) | String、Scan | Easy |
+|	14.Longest Common Prefix | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Scan/0014.longest_common_prefix.md) | Array、String、Scan | Easy |
 |	57.Insert Interval | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Scan/0057.insert_interval.md) | Array、Scan | Medium |
 |	58.Length of Last Word | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Scan/0058.length_of_last_word.md) | String、Scan | Easy |
 |	82.Remove Duplicates from Sorted List II | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Scan/0082.remove_duplicates_from_sorted_list_II.md) | Linked List、Scan | Medium |
