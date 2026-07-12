@@ -32,6 +32,7 @@
 |	26.Remove Duplicates from Sorted Array | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0026.remove_duplicates_from_sorted_array.md) | Array、Two Pointers | Easy |
 |	27.Remove Element | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0027.remove_element.md) | Array、Two Pointers | Easy |
 |	28.Find the Index of the First Occurrence in a String | [Python/Java](https://github.com/donnapersonal/lc/blob/b4a23bfe5ec19db4dbc7037245b02ed2b3edb17b/String/0028.find_the_index_of_the_first_occurrence_in_a_string.md) | String、Two Pointers、字符串匹配算法（BF/BM/KMP/RK/Horspool/Sunday）| Easy |
+|	42.Trapping Rain Water | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0042.trapping_rain_water.md) | Array、Stack、Monotonic Stack、Two Pointers | Hard |
 |	80.Remove Duplicates from Sorted Array II | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0080.emove_duplicates_from_sorted_array_II.md) | Array、Two Pointers | Medium |
 |	86.Partition List | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0086.partition_list.md) | Linked List、Two Pointers | Medium |
 |	88.Merge Sorted Array | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0088.merge_sorted_array.md) | Array、Two Pointers | Easy |
@@ -128,6 +129,7 @@
 |	55.Jump Game | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0055.jump_game.md) | Array、Greedy、DP | Medium |
 |	121.Best Time to Buy and Sell Stock | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0121.best_time_to_buy_and_sell_stock.md) | Array、Greedy、DP | Easy |
 |	122.Best Time to Buy and Sell Stock II | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0122.best_time_to_buy_and_sell_stock_II.md) | Array、Greedy、DP | Medium |
+|	134.Gas Station | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0134.gas_station.md) | Array、Greedy | Medium |
 |	135.Candy | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0135.candy.md) | Array、Greedy | Hard |
 |	452.Minimum Number of Arrows to Burst Balloons | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0452.minimum_number_of_arrows_to_burst_balloons.md) | Array、Greedy、Sorting | Medium |
 
