@@ -119,6 +119,7 @@
 |	148.Sort List | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Sorting/0148.sort_list.md) | Linked List、Sorting、Merge Sort | Medium |
 |	215.Kth Largest Element in an Array | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Sorting/0215.Kth_largest_element_in_an_array.md) | Array、PQ、QuickSort、QuickSelect | Medium |
 |	274.H-Index | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Sorting/0274.H-Index.md) | Array、Sorting、Bucket Sort、Binary Search | Medium |
+|	347.Top K Frequent Elements | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Sorting/0347.top_K_frequent_elements.md) | Array、Hashing、PQ、Soring、Bucket Sort | Medium |
 
 ## Greedy
 
