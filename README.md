@@ -82,8 +82,10 @@
 |	--- |	--- | --- | --- |
 |	20.Valid Parentheses | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/0020.valid_parentheses.md) | String、Stack | Easy |
 |	71.Simplify Path | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/0071.simplify_path.md) | String、Stack | Medium |
+|	84.Largest Rectangle in Histogram | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/0084.largest_rectangle_in_histogram.md) | Array、Two Pointers、Stack、Monotonic Stack | Hard |
 |	150.Evaluate Reverse Polish Notation | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/0150.evaluate_reverse_polish_notation.md) | Array、Stack | Medium |
 |	224.Basic Calculator | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/0224.basic_calculator.md) | String、Stack | Hard |
+|	739.Daily Temperatures | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Stack/0739.daily_temperatures.md) | Array、Stack、Monotonic Stack | Medium |
 
 ## Binary Search
 
@@ -107,6 +109,7 @@
 |	155.Min Stack | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0155.min_stack.md) | Design、Stack | Medium |
 |	208.Implement Trie (Prefix Tree) | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0208.implement_trie(prefix_tree).md) | Design、Trie、Hashing、String | Medium |
 |	211.Design Add and Search Words Data Structure | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0211.design_add_and_search_words_data_structure.md) | Design、Trie、String、DFS | Medium |
+|	271.Encode and Decode Strings | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0271.encode_and_decode_strings.md) | Design、Array、String | Medium |
 |	295.Find Median from Data Stream | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Queue_Heap_PQ/0295.find_median_from_data_stream.md) | Design、Heap | Hard |
 |	380.Insert Delete GetRandom O(1) | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0380.insert_delete_getRandom_O(1).md) | Design、Hashing | Medium |
 
@@ -133,6 +136,7 @@
 |	134.Gas Station | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0134.gas_station.md) | Array、Greedy | Medium |
 |	135.Candy | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0135.candy.md) | Array、Greedy | Hard |
 |	452.Minimum Number of Arrows to Burst Balloons | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0452.minimum_number_of_arrows_to_burst_balloons.md) | Array、Greedy、Sorting | Medium |
+|	853.Car Fleet | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0853.car_fleet.md) | Array、Greedy、Sorting | Medium |
 
 ## Recursion / Iteration
 
