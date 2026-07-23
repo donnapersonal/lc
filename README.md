@@ -100,6 +100,8 @@
 |	153.Find Minimum in Rotated Sorted Array | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/0153.find_minimum_in_rotated_sorted_array.md) | Array、Binary Search | Medium |
 |	162.Find Peak Element | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/0162.find_peak_element.md) | Array、Binary Search | Medium |
 |	300.Longest Increasing Subsequence | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/0300.longest_increasing_subsequence.md) | Array、Binary Search、Greedy、DP | Medium |
+|	704.二分查找 | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/0704.binary_search.md) | Array、Binary Search | Easy |
+|	875.Koko Eating Bananas | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Search/0875.koko_eating_bananas.md) | Array、Binary Search | Medium |
 
 ## Design
 
@@ -112,6 +114,7 @@
 |	271.Encode and Decode Strings | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0271.encode_and_decode_strings.md) | Design、Array、String | Medium |
 |	295.Find Median from Data Stream | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Queue_Heap_PQ/0295.find_median_from_data_stream.md) | Design、Heap | Hard |
 |	380.Insert Delete GetRandom O(1) | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0380.insert_delete_getRandom_O(1).md) | Design、Hashing | Medium |
+|	981.Time Based Key-Value Store | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0981.time_based_Key-Value_store.md) | Design、Binary Search | Medium |
 
 ## Sorting
 
