@@ -52,6 +52,8 @@
 |	30.Substring with Concatenation of All Words | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/0030.substring_with_concatenation_of_all_words.md) | String、Sliding Window | Hard |
 |	76.Minimum Window Substring | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/0076.minimum_window_substring.md) | String、Sliding Window | Hard |
 |	209.Minimum Size Subarray Sum | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/0209.minimum_size_subarray_sum.md) | Array、Sliding Window | Medium |
+|	424.Longest Repeating Character Replacement | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/0424.longest_repeating_character_replacement.md) | String、Hashing、Sliding Window | Medium |
+|	567.Permutation in String | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Sliding%20Window/0567.permutation_in_string.md) | String、Sliding Window | Medium |
 
 # Scan
 
@@ -112,7 +114,7 @@
 |	208.Implement Trie (Prefix Tree) | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0208.implement_trie(prefix_tree).md) | Design、Trie、Hashing、String | Medium |
 |	211.Design Add and Search Words Data Structure | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0211.design_add_and_search_words_data_structure.md) | Design、Trie、String、DFS | Medium |
 |	271.Encode and Decode Strings | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0271.encode_and_decode_strings.md) | Design、Array、String | Medium |
-|	295.Find Median from Data Stream | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Queue_Heap_PQ/0295.find_median_from_data_stream.md) | Design、Heap | Hard |
+|	295.Find Median from Data Stream | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0295.find_median_from_data_stream.md) | Design、Heap | Hard |
 |	380.Insert Delete GetRandom O(1) | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0380.insert_delete_getRandom_O(1).md) | Design、Hashing | Medium |
 |	981.Time Based Key-Value Store | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0981.time_based_Key-Value_store.md) | Design、Binary Search | Medium |
 
@@ -163,6 +165,7 @@
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
+|	239.Sliding Window Maximum  | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Queue_Heap_PQ/0239.sliding_window_maximum.md) | Array、Queue、Monotonic Queue、PQ | hard |
 |	373.Find K Pairs with Smallest Sums | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Queue_Heap_PQ/0373.find_K_pairs_with_smallest_sums.md) | Array、Heap、PQ | Medium |
 |	502.IPO | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Queue_Heap_PQ/0502.IPO.md) | Array、Heap、PQ | Hard |
 
