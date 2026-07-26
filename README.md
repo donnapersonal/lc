@@ -201,6 +201,7 @@
 |	105.Construct Binary Tree from Preorder and Inorder Traversal | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0105.construct_binary_tree_from_preorder_and_inorder_traversal.md) | Binary Tree、Recursion | Medium |
 |	106.Construct Binary Tree from Inorder and Postorder Traversal | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0106.construct_binary_tree_from_inorder_and_postorder_traversal.md) | Binary Tree、Iteration、Recursion | Medium |
 |	108.Convert Sorted Array to Binary Search Tree | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0108.convert_sorted_array_to_binary_search_tree.md) | Binary Tree、Iteration、Recursion、Divide & Conquer | Easy |
+|	110.Balanced Binary Tree | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0110.balanced_binary_tree.md) | Binary Tree、DFS | Easy |
 |	112.Path Sum | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0112.path_sum.md) | Binary Tree、Iteration、Recursion | Easy |
 |	114.Flatten Binary Tree to Linked List | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0114.flatten_binary_tree_to_linked_list.md) | Binary Tree、Iteration、Recursion | Medium |
 |	117.Populating Next Right Pointers in Each Node II | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0117.populating_next_right_pointers_in_each_node_II.md) | Binary Tree、Iteration、Recursion | Medium |
@@ -216,6 +217,7 @@
 |	427.Construct Quad Tree | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0427.construc_quad_tree.md) | Tree、Recursion、Divide & Conquer | Medium |
 |	530.Minimum Absolute Difference in BST | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0530.minimum_absolute_difference_in_BST.md) | Binary Tree、Recursion、Iteration | Easy |
 |	543.Diameter of Binary Tree | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0543.diameter_of_binary_tree.md) | Binary Tree、DFS | Easy |
+|	572.Subtree of Another Tree | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0572.subtree_of_another_tree.md) | Binary Tree、DFS、Serialization And Pattern Matching | Easy |
 |	637.Average of Levels in Binary Tree | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0637.average_of_levels_in_binary_tree.md) | Binary Tree、DFS、BFS | Easy |
 
 ## Graph/Grid/BFS/DFS
