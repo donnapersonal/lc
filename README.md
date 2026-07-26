@@ -39,9 +39,11 @@
 |	92.Reverse Linked List II | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0092.reverse_linked_list_II.md) | Linked List、Iteration、Two Pointers | Medium |
 |	125.Valid Palindrome | [Python/Java](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0125.valid_palindrome.md) | String、Two Pointers | Easy |
 |	141.Linked List Cycle | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0141.linked_list_cycle.md) | Linked List、Two Pointers | Easy |
+|	143.Reorder List | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0143.reorder_list.md) | Linked List、Two Pointers | Medium |
 |	151.Reverse Words in a String | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0151.reverse_words_in_a_string.md) | String、Two Pointers | Medium |
 |	167.Two Sum II - Input Array Is Sorted 2 | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0167.two_sum_II-input_array_is_sorted.md) | Array、Two Pointers | Medium |
 |	189.Rotate Array | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0189.potate_array.md) | Array、Two Pointers | Medium |
+|	287.Find the Duplicate Number | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0287.find_the_duplicate_number.md) | Array、Two Pointers、Binary Search | Medium |
 |	392.Is Subsequence | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0392.is_subsequence.md) | String、Two Pointers | Easy |
 
 ## Sliding Window
@@ -148,6 +150,7 @@
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	25.Reverse Nodes in k-Group | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Recursion_Iteration/0025.reverse_nodes_in_k-Group.md) | Linked List、Recursion、Iteration | Hard |
+|	206.Reverse Linked List | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Recursion_Iteration/0206.reverse_linked_list.md) | Linked List、Recursion 、Iteration | Easy |
 
 ## Trie
 
@@ -208,9 +211,11 @@
 |	222.Count Complete Tree Nodes | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0222.count_complete_tree_nodes.md) | Binary Tree、Iteration、Divide & Conquer、Binary Search | Easy |
 |	226.Invert Binary Tree | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0226.invert_binary_tree.md) | Binary Tree、BFS、DFS | Easy |
 |	230.Kth Smallest Element in a BST | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0230.Kth_smallest_element_in_a_BST.md) | Binary Tree、Iteration、Recursion | Medium |
+|	235.Lowest Common Ancestor of a Binary Search Tree | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0235.lowest_common_ancestor_of_a_binary_search_tree.md) | Binary Tree、Iteration、Recursion | Medium |
 |	236.Lowest Common Ancestor of a Binary Tree | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0236.lowest_common_ancestor_of_a_binary_tree.md) | Binary Tree、Iteration、Recursion | Medium |
 |	427.Construct Quad Tree | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0427.construc_quad_tree.md) | Tree、Recursion、Divide & Conquer | Medium |
 |	530.Minimum Absolute Difference in BST | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0530.minimum_absolute_difference_in_BST.md) | Binary Tree、Recursion、Iteration | Easy |
+|	543.Diameter of Binary Tree | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0543.diameter_of_binary_tree.md) | Binary Tree、DFS | Easy |
 |	637.Average of Levels in Binary Tree | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0637.average_of_levels_in_binary_tree.md) | Binary Tree、DFS、BFS | Easy |
 
 ## Graph/Grid/BFS/DFS
