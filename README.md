@@ -117,6 +117,7 @@
 |	211.Design Add and Search Words Data Structure | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0211.design_add_and_search_words_data_structure.md) | Design、Trie、String、DFS | Medium |
 |	271.Encode and Decode Strings | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0271.encode_and_decode_strings.md) | Design、Array、String | Medium |
 |	295.Find Median from Data Stream | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0295.find_median_from_data_stream.md) | Design、Heap | Hard |
+|	297.Serialize and Deserialize Binary Tree | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0297.serialize_and_deserialize_binary_tree.md) | Design、Binary Tree、DFS、Level-Order | Hard |
 |	380.Insert Delete GetRandom O(1) | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0380.insert_delete_getRandom_O(1).md) | Design、Hashing | Medium |
 |	981.Time Based Key-Value Store | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0981.time_based_Key-Value_store.md) | Design、Binary Search | Medium |
 
@@ -219,6 +220,7 @@
 |	543.Diameter of Binary Tree | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0543.diameter_of_binary_tree.md) | Binary Tree、DFS | Easy |
 |	572.Subtree of Another Tree | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0572.subtree_of_another_tree.md) | Binary Tree、DFS、Serialization And Pattern Matching | Easy |
 |	637.Average of Levels in Binary Tree | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/0637.average_of_levels_in_binary_tree.md) | Binary Tree、DFS、BFS | Easy |
+|	1448.Count Good Nodes in Binary Tree | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Binary%20Tree/1448.count_good_nodes_in_binary_tree.md) | Binary Tree、DFS | Medium |
 
 ## Graph/Grid/BFS/DFS
 
