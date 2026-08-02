@@ -119,6 +119,7 @@
 |	295.Find Median from Data Stream | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0295.find_median_from_data_stream.md) | Design、Heap | Hard |
 |	297.Serialize and Deserialize Binary Tree | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0297.serialize_and_deserialize_binary_tree.md) | Design、Binary Tree、DFS、Level-Order | Hard |
 |	380.Insert Delete GetRandom O(1) | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0380.insert_delete_getRandom_O(1).md) | Design、Hashing | Medium |
+|	703.Kth Largest Element in a Stream | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0703.Kth_largest_element_in_a_stream.md) | Design、Heap | Easy |
 |	981.Time Based Key-Value Store | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0981.time_based_Key-Value_store.md) | Design、Binary Search | Medium |
 
 ## Sorting
@@ -131,6 +132,7 @@
 |	215.Kth Largest Element in an Array | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Sorting/0215.Kth_largest_element_in_an_array.md) | Array、PQ、QuickSort、QuickSelect | Medium |
 |	274.H-Index | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Sorting/0274.H-Index.md) | Array、Sorting、Bucket Sort、Binary Search | Medium |
 |	347.Top K Frequent Elements | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Sorting/0347.top_K_frequent_elements.md) | Array、Hashing、PQ、Soring、Bucket Sort | Medium |
+|	973.K Closest Points to Origin | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Sorting/0973.K_closest_points_to_origin.md) | Array、Heap (PQ)、QuickSelect | Medium |
 
 ## Greedy
 
@@ -172,6 +174,7 @@
 |	239.Sliding Window Maximum  | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Queue_Heap_PQ/0239.sliding_window_maximum.md) | Array、Queue、Monotonic Queue、PQ | hard |
 |	373.Find K Pairs with Smallest Sums | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Queue_Heap_PQ/0373.find_K_pairs_with_smallest_sums.md) | Array、Heap、PQ | Medium |
 |	502.IPO | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Queue_Heap_PQ/0502.IPO.md) | Array、Heap、PQ | Hard |
+|	1046.Last Stone Weight | [Python/Java](https://github.com/donnapersonal/picx-images-hosting/raw/master/image.5q84mgofbw.webp) | Array、Heap、PQ | Easy |
 
 ## Math / Bit Manipulation
 
