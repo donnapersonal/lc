@@ -118,6 +118,7 @@
 |	271.Encode and Decode Strings | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0271.encode_and_decode_strings.md) | Design、Array、String | Medium |
 |	295.Find Median from Data Stream | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0295.find_median_from_data_stream.md) | Design、Heap | Hard |
 |	297.Serialize and Deserialize Binary Tree | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0297.serialize_and_deserialize_binary_tree.md) | Design、Binary Tree、DFS、Level-Order | Hard |
+|	355.Design Twitter | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0355.design_twitter.md) | Design、PQ | Medium |
 |	380.Insert Delete GetRandom O(1) | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0380.insert_delete_getRandom_O(1).md) | Design、Hashing | Medium |
 |	703.Kth Largest Element in a Stream | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0703.Kth_largest_element_in_a_stream.md) | Design、Heap | Easy |
 |	981.Time Based Key-Value Store | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Design/0981.time_based_Key-Value_store.md) | Design、Binary Search | Medium |
@@ -146,6 +147,7 @@
 |	134.Gas Station | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0134.gas_station.md) | Array、Greedy | Medium |
 |	135.Candy | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0135.candy.md) | Array、Greedy | Hard |
 |	452.Minimum Number of Arrows to Burst Balloons | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0452.minimum_number_of_arrows_to_burst_balloons.md) | Array、Greedy、Sorting | Medium |
+|	621.Task Scheduler | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0621.task_scheduler.md) | Array、Greedy | Medium |
 |	853.Car Fleet | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0853.car_fleet.md) | Array、Greedy、Sorting | Medium |
 
 ## Recursion / Iteration
