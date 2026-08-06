@@ -180,6 +180,7 @@
 |	373.Find K Pairs with Smallest Sums | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Queue_Heap_PQ/0373.find_K_pairs_with_smallest_sums.md) | Array、Heap、PQ | Medium |
 |	502.IPO | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Queue_Heap_PQ/0502.IPO.md) | Array、Heap、PQ | Hard |
 |	1046.Last Stone Weight | [Python/Java](https://github.com/donnapersonal/picx-images-hosting/raw/master/image.5q84mgofbw.webp) | Array、Heap、PQ | Easy |
+|	1851.Minimum Interval to Include Each Query | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Queue_Heap_PQ/1851.minimum_interval_to_include_each_query.md) | Array、Heap、Sorting | Hard |
 
 ## Math / Bit Manipulation
 
