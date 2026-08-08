@@ -151,7 +151,11 @@
 |	435.Non-overlapping Intervals | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0435.non-overlapping_intervals.md) | Array、Greedy、Sorting | Medium |
 |	452.Minimum Number of Arrows to Burst Balloons | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0452.minimum_number_of_arrows_to_burst_balloons.md) | Array、Greedy、Sorting | Medium |
 |	621.Task Scheduler | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0621.task_scheduler.md) | Array、Greedy | Medium |
+|	678.Valid Parenthesis String | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0678.vali_parenthesis_string.md) | Array、Stack、Greedy | Medium |
+|	763.Partition Labels | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0763.partition_labels.md) | String、Greedy | Medium |
+|	846.Hand of Straights | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0846.hand_of_straights.md) | Array、Greedy | Medium |
 |	853.Car Fleet | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/0853.car_fleet.md) | Array、Greedy、Sorting | Medium |
+|	1899.Merge Triplets to Form Target Triplet | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Greedy/1899.merge_triplets_to_form_target_triplet.md) | Array、Greedy | Medium |
 
 ## Recursion / Iteration
 
@@ -255,6 +259,7 @@
 |	46.Permutations | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Backtracking/0046.permutations.md) | Permutations、Backtracking | Medium |
 |	52.N-Queens II | [JS/Python](https://github.com/donnapersonal/lc/blob/main/Backtracking/0052.N-Queens_II.md) | Backtracking | Hard |
 |	77.Combinations | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Backtracking/0077.combinations.md) | Combinations、Backtracking | Medium |
+|	78.子集 | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Backtracking/0078.subsets.md) | Subset、Backtracking | Medium |
 |	79.Word Search | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Backtracking/0079.word_search.md) | Matrix、Backtracking | Medium |
 
 ## DP
