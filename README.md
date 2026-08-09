@@ -256,11 +256,15 @@
 |	17.Letter Combinations of a Phone Number | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Backtracking/0017.letter_combinations_of_a_phone_number.md) | String、Backtracking | Medium |
 |	22.Generate Parentheses | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Backtracking/0022.generate_parentheses.md) | Combinations、Backtracking | Medium |
 |	39.Combination Sum | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Backtracking/0039.combination_sum.md) | Combinations、Backtracking | Medium |
+|	40.Combination Sum II | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Backtracking/0040.combination_sum_II.md) | Combinations、Backtracking | Medium |
 |	46.Permutations | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Backtracking/0046.permutations.md) | Permutations、Backtracking | Medium |
+|	51.N-Queens | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Backtracking/0051.N-Queens.md) | Array、Backtracking | Hard |
 |	52.N-Queens II | [JS/Python](https://github.com/donnapersonal/lc/blob/main/Backtracking/0052.N-Queens_II.md) | Backtracking | Hard |
 |	77.Combinations | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Backtracking/0077.combinations.md) | Combinations、Backtracking | Medium |
-|	78.子集 | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Backtracking/0078.subsets.md) | Subset、Backtracking | Medium |
+|	78.子集 | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Backtracking/0078.subsets.md) | Subsets、Backtracking | Medium |
 |	79.Word Search | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Backtracking/0079.word_search.md) | Matrix、Backtracking | Medium |
+|	90.Subsets II | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Backtracking/0090.subsets_II.md) | Subsets、Backtracking | Medium |
+|	131.Palindrome Partitioning | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Backtracking/0131.palindrome_partitioning.md) | Partition、Backtracking | Medium |
 
 ## DP
 
