@@ -15,6 +15,7 @@
 |	169.Majority Element | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/0169.majority_element.md) | Array、Hashing、Frequency Counting、Moore's Voting Algorithm | Easy |
 |	202.Happy Number | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/0202.happy_number.md) | Math、Hashing、Floyd's Cycle Detection | Easy |
 |	205.Isomorphic Strings | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/0205.isomorphic_strings.md) | String、Hashing、One-to-One Mapping | Easy |
+|	213.House Robber II | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0213.house_robber_II.md) | DP | Medium |
 |	219.Contains Duplicate II | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/0219.contains_duplicate_II.md) | Array、Hashing | Easy |
 |	242.Valid Anagram | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/0242.valid_anagram.md) | String、Hashing、Frequency Counting | Easy |
 |	290.Word Pattern | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Hashing/0290.word_pattern.md) | String、Hashing、One-to-One Mapping | Easy |
@@ -46,6 +47,7 @@
 |	253.Meeting Rooms II | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0253.meeting_rooms_II.md) | Array、Two Pointers、Sweep Line | Medium |
 |	287.Find the Duplicate Number | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0287.find_the_duplicate_number.md) | Array、Two Pointers、Binary Search | Medium |
 |	392.Is Subsequence | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0392.is_subsequence.md) | String、Two Pointers | Easy |
+|	647.Palindromic Substrings | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Two%20Pointers/0647.palindromic_substrings.md) | String、DP、Two Pointers、Manacher Algorithm | Medium |
 
 ## Sliding Window
 
@@ -249,8 +251,10 @@
 |	269.Alien Dictionary | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0269.alien_dictionary.md) | Array、Graph、Topological Sort | Hard |
 |	286.Walls and Gates | [Python/Java](https://github.com/donnapersonal/lc/blob/main/BFS_DFS/0286.walls_and_gates.md) | Matrix、BFS | Medium |
 |	323.Number of Connected Components in an Undirected Graph | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0323.number_of_connected_components_in_an_undirected_graph.md) | Graph、BFS、DFS、Union-Find | Medium |
+|	329.Longest Increasing Path in a Matrix | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0329.longest_increasing_path_in_a_matrix.md) | Matrix、Graph、Memoization、Topological Sort | Hard |
 |	332.Reconstruct Itinerary | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0332.reconstruct_itinerary.md) | Graph、DFS、Hierholzer’s Algorithm | Hard |
 |	399.Evaluate Division | [Python/Java](https://github.com/donnapersonal/lc/blob/main/BFS_DFS/0399.evaluate_division.md) | Array、String、BFS | Medium |
+|	416.Partition Equal Subset Sum | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0416.partition_equal_subset_sum.md) | Array、DP | Medium |
 |	417.Pacific Atlantic Water Flow | [Python/Java](https://github.com/donnapersonal/lc/blob/main/BFS_DFS/0417.pacific_atlantic_water_flow.md) | Matrix、BFS、DFS | Medium |
 |	433.Minimum Genetic Mutation | [Python/Java](https://github.com/donnapersonal/lc/blob/main/BFS_DFS/0433.minimum_genetic_mutation.md) | String、BFS | Medium |
 |	684.Redundant Connection | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0684.redundant_connection.md) | Graph、Union-Find | Medium |
@@ -279,21 +283,32 @@
 |	90.Subsets II | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Backtracking/0090.subsets_II.md) | Subsets、Backtracking | Medium |
 |	131.Palindrome Partitioning | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Backtracking/0131.palindrome_partitioning.md) | Partition、Backtracking | Medium |
 
-## DP
+## DP / Memoization
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
+|	10.Regular Expression Matching | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0010.regular_expression_matching.md) | String、DP | Hard |
 |	53.Maximum Subarray | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0053.maximum_subarray.md) | Array、Prefix Sum、Greedy、Kadane’s Algorithm | Medium |
+|	62.Unique Paths | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0062.unique_paths.md) | Matrix、Math、DP、Combinatorics | Medium |
 |	63.Unique Paths II | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0063.unique_paths_II.md) | Matrix、DP | Medium |
 |	64.Minimum Path Sum | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0064.minimum_path_sum.md) | Matrix、DP | Medium |
 |	70.Climbing Stairs | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0070.climbing_stairs.md) | Math、DP | Easy |
 |	72.Edit Distance | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0072.edit_distance.md) | String、DP | Medium |
+|	91.Decode Ways | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0091.decode_ways.md) | String、DP | Medium |
 |	97.Interleaving String | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0097.interleaving_string.md) | String、DP | Medium |
+|	115.Distinct Subsequences | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0115.distinct_subsequences.md) | String、DP | Hard |
 |	120.Triangle | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0120.triangle.md) | Array、DP | Medium |
 |	123.Best Time to Buy and Sell Stock III | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0123.best_time_to_buy_and_sell_stock_III.md) | Array、DP | Hard |
 |	139.Word Break | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0139.word_break.md) | Array、String、DP | Medium |
+|	152.Maximum Product Subarray | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0152.maximum_product_subarray.md) | Array、DP | Medium |
 |	188.Best Time to Buy and Sell Stock IV | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0188.best_time_to_buy_and_sell_stock_IV.md) | Array、DP | Hard |
 |	198.House Robber | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0198.house_robber.md) | Array、DP | Medium |
 |	221.Maximal Square | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0221.maximal_square.md) | Matrix、DP | Medium |
+|	312.Burst Balloons | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0312.burst_balloons.md) | Array、DP | Hard |
 |	322.Coin Change | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0322.coin_change.md) | Array、DP、BFS | Medium |
+|	309.Best Time to Buy and Sell Stock with Cooldown | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0309.best_time_to_buy_and_sell_stock_with_cooldown.md) | Array、DP | Medium |
+|	494.Target Sum | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0494.target_sum.md) | Array、Backtracking、DP | Medium |
+|	518.Coin Change II | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0518.coin_change_II.md) | Array、DP | Medium |
+|	746.Min Cost Climbing Stairs | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0746.min_cost_climbing_stairs.md) | Array、DP | Easy |
 |	918.Maximum Sum Circular Subarray | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/0918.maximum_sum_circular_subarray.md) | Array、Circular、Prefix Sum + Monotonic Queue、Kadane’s Algorithm | Medium |
+|	1143.Longest Common Subsequence | [Python/Java](https://github.com/donnapersonal/lc/blob/main/DP/1143.longest_common_subsequence.md) | | Medium |
