@@ -246,6 +246,7 @@
 |	207.Course Schedule | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0207.course_schedule.md) | Graph、Topological Sort | Medium |
 |	210.Course Schedule II | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0210.course_schedule_II.md) | Graph、Topological Sort | Medium |
 |	261.Graph Valid Tree | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0261.graph_valid_tree.md) | Graph、Union-Find | Medium |
+|	269.Alien Dictionary | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0269.alien_dictionary.md) | Array、Graph、Topological Sort | Hard |
 |	286.Walls and Gates | [Python/Java](https://github.com/donnapersonal/lc/blob/main/BFS_DFS/0286.walls_and_gates.md) | Matrix、BFS | Medium |
 |	323.Number of Connected Components in an Undirected Graph | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0323.number_of_connected_components_in_an_undirected_graph.md) | Graph、BFS、DFS、Union-Find | Medium |
 |	332.Reconstruct Itinerary | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0332.reconstruct_itinerary.md) | Graph、DFS、Hierholzer’s Algorithm | Hard |
@@ -255,7 +256,8 @@
 |	684.Redundant Connection | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0684.redundant_connection.md) | Graph、Union-Find | Medium |
 |	695.Max Area of Island | [Python/Java](https://github.com/donnapersonal/lc/blob/main/BFS_DFS/0695.max_area_of_island.md) | Matrix、DFS、BFS | Medium |
 | 743.Network Delay Time | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0743.network_delay_time.md) | Graph、Dijkstra | Medium |
-|	787.K 站中转内最便宜的航班 | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0787.cheapest_flights_within_K_stop.md) | Graph、Dijkstra、Bellman Ford | Medium |
+|	778.Swim in Rising Water | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0778.swim_in_rising_water.md) | Matrix、Dijkstra、Heap | Hard |
+|	787.Cheapest Flights Within K Stops | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/0787.cheapest_flights_within_K_stop.md) | Graph、Dijkstra、Bellman Ford | Medium |
 |	909.Snakes and Ladders | [Python/Java](https://github.com/donnapersonal/lc/blob/main/BFS_DFS/0909.snakes_and_ladders.md) | Matrix、BFS | Medium |
 |	994.Rotting Oranges | [Python/Java](https://github.com/donnapersonal/lc/blob/main/BFS_DFS/0994.rotting_oranges.md) | Matrix、BFS | Medium |
 |	1584.Min Cost to Connect All Points | [Python/Java](https://github.com/donnapersonal/lc/blob/main/Graph/1584.min_cost_to_connect_all_points.md) | Array、Graph、Kruskal、Prim、Union-Find、最小生成树 (Minimum Spanning Tree) | Medium |
